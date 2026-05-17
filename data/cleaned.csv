@@ -1,0 +1,1001 @@
+﻿transactions,date,day_of_week,customer_name,age_group,gender,occupation,city,township,platform,device_type,transaction_type,amount_mmk,fee_mmk,net_amount_mmk,status
+TXN-LUAB-04142802,27-Apr-24,Saturday,Myat Khaing,25-34,Male,Private Sector Employee,Yangon,Mingaladon,KBZPay,Android,P2P Transfer,414000,0,414000,Completed
+TXN-RHKS-67895145,14-Nov-24,Thursday,Daw Zaw,25-34,Female,Student,Yangon,Thingangyun,AYAPay,Android,P2P Transfer,191500,0,191500,Completed
+TXN-NDAT-96648404,12-May-24,Sunday,Yee Oo,25-34,Female,Government Employee,Yangon,Dagon,AYAPay,Android,Bill Payment,44000,0,44000,Completed
+TXN-EYPQ-59962480,7-Jan-24,Sunday,Nan Zaw,25-34,Female,Healthcare Worker,Yangon,Hlaing,AYAPay,Android,Mobile Top-up,2000,0,2000,Completed
+TXN-PXSE-70471669,12-Aug-24,Monday,Aung Thu,25-34,Male,Private Sector Employee,Yangon,Thingangyun,Wave Money,Android,P2P Transfer,316000,0,316000,Completed
+TXN-NMZS-58601950,25-Sep-24,Wednesday,Pyae Moe,25-34,Male,Business Owner,Yangon,Hlaing,KBZPay,Android,Merchant Payment,86500,0,86500,Completed
+TXN-SNLU-42872994,8-Apr-24,Monday,Ko Wai,25-34,Male,Freelancer,Yangon,Dagon,CB Pay,Android,P2P Transfer,392000,0,392000,Completed
+TXN-IRSM-58573170,13-Feb-24,Tuesday,Ei San,25-34,Male,Government Employee,Yangon,Bahan,KBZPay,Android,Mobile Top-up,5000,0,5000,Completed
+TXN-TGPV-64970633,5-Feb-24,Monday,Kyaw Nyi,25-34,Female,Student,Yangon,Mayangon,CB Pay,Android,Merchant Payment,11500,0,11500,Completed
+TXN-UCZR-97062330,15-Mar-24,Friday,Wai Zaw,25-34,Female,Student,Yangon,Sanchaung,AYAPay,Android,P2P Transfer,118000,0,118000,Completed
+TXN-NRVP-56022776,24-Nov-24,Sunday,Nan Nge,25-34,Male,Trader / Merchant,Yangon,Thingangyun,Wave Money,Android,P2P Transfer,44500,0,44500,Completed
+TXN-HTDO-03720896,18-Jun-24,Tuesday,Khin Nyi,25-34,Female,Private Sector Employee,Yangon,Sanchaung,AYAPay,Android,P2P Transfer,204500,0,204500,Completed
+TXN-MIQY-65228897,12-Dec-24,Thursday,Myat Aung,25-34,Male,Trader / Merchant,Yangon,Mayangon,OK Dollar,Android,Bill Payment,119500,0,119500,Completed
+TXN-WVDY-05152879,30-Oct-24,Wednesday,Daw Zaw,25-34,Female,Trader / Merchant,Yangon,Mayangon,AYAPay,Android,P2P Transfer,68500,0,68500,Completed
+TXN-TVUP-87076578,12-Oct-24,Saturday,Pyae Win,25-34,Female,Government Employee,Yangon,Kamayut,KBZPay,Android,P2P Transfer,184500,0,184500,Completed
+TXN-PJPH-51711709,29-Mar-24,Friday,Khin Zaw,25-34,Male,Private Sector Employee,Yangon,Bahan,AYAPay,Android,Mobile Top-up,17000,0,17000,Completed
+TXN-KRJD-06289323,13-Sep-24,Friday,Zaw Htay,25-34,Female,Freelancer,Yangon,Kamayut,AYAPay,Android,P2P Transfer,243000,0,243000,Completed
+TXN-ESKB-17844452,23-Feb-24,Friday,Aye Shwe,25-34,Female,Student,Yangon,Mayangon,KBZPay,Android,Cash In,178000,0,178000,Completed
+TXN-XNQE-59371434,10-Nov-24,Sunday,Mg Wai,25-34,Female,Government Employee,Yangon,Insein,KBZPay,Android,Merchant Payment,49000,0,49000,Completed
+TXN-RUJO-18189464,9-May-24,Thursday,Kyaw Phyo,25-34,Male,Farmer,Yangon,Sanchaung,Wave Money,Android,P2P Transfer,180000,0,180000,Completed
+TXN-BVBX-93630377,5-Dec-24,Thursday,Htet Moe,25-34,Male,Private Sector Employee,Yangon,Mingaladon,CB Pay,Android,P2P Transfer,78000,0,78000,Completed
+TXN-ATPQ-24350854,26-Mar-24,Tuesday,Khin Kyaw,25-34,Male,Healthcare Worker,Yangon,Mayangon,KBZPay,Android,Bill Payment,35500,0,35500,Completed
+TXN-PSRD-43329002,29-Jul-24,Monday,Pyae Khaing,25-34,Male,Government Employee,Yangon,Mingaladon,AYAPay,Android,Mobile Top-up,5000,0,5000,Completed
+TXN-WUHD-76697614,17-Jun-24,Monday,Myat Soe,25-34,Male,Government Employee,Yangon,Sanchaung,KBZPay,Android,Mobile Top-up,5500,0,5500,Completed
+TXN-GEBE-98354986,30-Aug-24,Friday,Nan Kyaw,25-34,Male,Government Employee,Yangon,Sanchaung,Wave Money,Android,Mobile Top-up,7000,0,7000,Completed
+TXN-WVPJ-38729723,6-Feb-24,Tuesday,Phyo Aung,25-34,Male,Government Employee,Yangon,Bahan,KBZPay,Android,Cash In,131500,0,131500,Completed
+TXN-XBBA-67418145,4-Mar-24,Monday,Ko Aung,25-34,Male,Private Sector Employee,Yangon,Dagon,Wave Money,Android,Bill Payment,52000,0,52000,Completed
+TXN-VASF-04321155,4-Dec-24,Wednesday,Myat Aye,25-34,Female,Trader / Merchant,Yangon,Insein,AYAPay,Android,P2P Transfer,95000,0,95000,Completed
+TXN-SHCP-94860500,12-Nov-24,Tuesday,Thura Min,25-34,Female,Trader / Merchant,Yangon,Dagon,AYAPay,Android,Merchant Payment,79000,0,79000,Completed
+TXN-MLGN-68221783,10-Feb-24,Saturday,Phyu San,25-34,Male,Government Employee,Yangon,Mingaladon,AYAPay,Android,Salary Credit,1818500,0,1818500,Completed
+TXN-XLCE-30262185,23-Mar-24,Saturday,Ko Nyi,25-34,Female,Student,Yangon,Sanchaung,Wave Money,Android,Merchant Payment,18000,0,18000,Completed
+TXN-GLBK-37618535,20-May-24,Monday,Su Lwin,25-34,Male,Private Sector Employee,Yangon,Hlaing,AYAPay,Android,Cash In,705500,0,705500,Completed
+TXN-WTKU-19042187,22-Dec-24,Sunday,Soe Min,25-34,Female,Private Sector Employee,Yangon,Dagon,Wave Money,Android,P2P Transfer,283000,0,283000,Completed
+TXN-UQBT-10540311,15-Dec-24,Sunday,Thet San,25-34,Male,Business Owner,Yangon,Tamwe,KBZPay,Android,P2P Transfer,109500,0,109500,Completed
+TXN-NDKB-53349816,6-Aug-24,Tuesday,Khin Shwe,25-34,Female,Student,Yangon,Insein,KBZPay,Android,Cash In,172500,0,172500,Completed
+TXN-GUOJ-97182066,22-Feb-24,Thursday,Yee Naing,25-34,Male,Government Employee,Yangon,Kamayut,CB Pay,Android,Bill Payment,147500,0,147500,Completed
+TXN-NKXW-08527142,6-Jan-24,Saturday,Khin Nge,25-34,Female,Private Sector Employee,Yangon,Dagon,AYAPay,Android,P2P Transfer,221500,0,221500,Completed
+TXN-BZEM-23104176,22-Nov-24,Friday,Pyae Shwe,25-34,Female,Private Sector Employee,Yangon,Kamayut,CB Pay,Android,Merchant Payment,12000,0,12000,Completed
+TXN-SMUS-74610757,21-Feb-24,Wednesday,Pyae Nge,25-34,Female,Factory Worker,Yangon,Mayangon,KBZPay,Android,Bill Payment,132000,0,132000,Completed
+TXN-XMGZ-25999560,15-Dec-24,Sunday,Ma Min,25-34,Male,Freelancer,Yangon,Kamayut,Wave Money,Android,Mobile Top-up,1000,0,1000,Completed
+TXN-CQYG-43377860,25-Mar-24,Monday,Pyae Lay,25-34,Female,Government Employee,Yangon,Insein,Wave Money,Android,P2P Transfer,99000,0,99000,Completed
+TXN-LIFZ-95364264,12-Feb-24,Monday,Thu Zin,25-34,Male,Government Employee,Yangon,Bahan,KBZPay,Android,Mobile Top-up,10000,0,10000,Completed
+TXN-PDLH-30236744,5-Nov-24,Tuesday,Nyein Zaw,25-34,Male,Business Owner,Yangon,Kamayut,AYAPay,Android,P2P Transfer,71500,0,71500,Completed
+TXN-JBNI-41780632,22-Aug-24,Thursday,Shwe Htun,25-34,Female,Trader / Merchant,Yangon,Hlaing,KBZPay,Android,P2P Transfer,66500,0,66500,Completed
+TXN-HHBA-19524396,31-Mar-24,Sunday,Zaw Min,25-34,Male,Government Employee,Yangon,Dagon,AYAPay,Android,Bill Payment,61500,0,61500,Completed
+TXN-FIGZ-92678880,4-Nov-24,Monday,Kyaw Tun,25-34,Female,Student,Yangon,Sanchaung,AYAPay,Android,Merchant Payment,53500,0,53500,Completed
+TXN-DIRI-36851320,6-Jun-24,Thursday,Thu Lay,25-34,Female,Trader / Merchant,Yangon,Insein,Wave Money,Android,Bill Payment,81000,0,81000,Completed
+TXN-GQUL-29676356,7-Nov-24,Thursday,Aye Tun,25-34,Female,Factory Worker,Yangon,Bahan,AYAPay,Android,Merchant Payment,49000,0,49000,Completed
+TXN-JITG-49616709,18-Nov-24,Monday,Thida Aye,25-34,Female,Government Employee,Yangon,Thingangyun,Wave Money,Android,Bill Payment,98000,0,98000,Completed
+TXN-SOFC-49301092,6-Oct-24,Sunday,Min Kyaw,25-34,Male,Business Owner,Yangon,Kamayut,Wave Money,Android,Mobile Top-up,20000,0,20000,Completed
+TXN-TVPJ-94144141,15-Apr-24,Monday,Nge Min,25-34,Male,Government Employee,Yangon,Insein,Wave Money,Android,Cash In,282000,0,282000,Completed
+TXN-GPGK-98852336,1-Oct-24,Tuesday,Thu Lin,25-34,Female,Private Sector Employee,Yangon,Sanchaung,OK Dollar,Android,Salary Credit,1050500,0,1050500,Completed
+TXN-PWUO-35869422,23-Aug-24,Friday,Daw Thant,25-34,Male,Student,Yangon,Sanchaung,AYAPay,Android,Mobile Top-up,4000,0,4000,Completed
+TXN-ACXL-69036071,27-Aug-24,Tuesday,Naing Oo,25-34,Female,Farmer,Yangon,Insein,Wave Money,Android,Mobile Top-up,15000,0,15000,Completed
+TXN-CZIX-58891331,9-Nov-24,Saturday,Nge Hlaing,25-34,Female,Private Sector Employee,Yangon,Bahan,KBZPay,Android,Salary Credit,686000,0,686000,Completed
+TXN-GXSC-39120121,9-Nov-24,Saturday,Yee Kyaw,25-34,Male,Private Sector Employee,Yangon,Thingangyun,KBZPay,Android,Cash In,390500,0,390500,Completed
+TXN-OZDP-55979161,13-Mar-24,Wednesday,Zaw Phyo,25-34,Female,Government Employee,Yangon,Mingaladon,AYAPay,Android,P2P Transfer,212000,0,212000,Completed
+TXN-PXTU-14896188,19-Feb-24,Monday,Pyae Wai,25-34,Male,Private Sector Employee,Yangon,Sanchaung,OK Dollar,Android,Merchant Payment,85000,0,85000,Completed
+TXN-PTOV-67419046,17-Mar-24,Sunday,Khin Thant,25-34,Male,Farmer,Yangon,Kamayut,Wave Money,Android,P2P Transfer,51500,0,51500,Completed
+TXN-ACCS-57058454,4-Apr-24,Thursday,Pyae Zaw,25-34,Male,Government Employee,Yangon,Bahan,KBZPay,Android,Mobile Top-up,12500,0,12500,Completed
+TXN-NYXQ-64058268,21-Jul-24,Sunday,Daw Win,25-34,Female,Private Sector Employee,Yangon,Sanchaung,AYAPay,Android,Merchant Payment,16000,0,16000,Completed
+TXN-MVPR-85435508,19-Jan-24,Friday,Myo Lwin,25-34,Female,Business Owner,Yangon,Sanchaung,AYAPay,Android,P2P Transfer,69500,0,69500,Completed
+TXN-VYHO-85630493,17-Jan-24,Wednesday,Daw Wai,25-34,Female,Government Employee,Yangon,Kamayut,KBZPay,Android,Bill Payment,51000,0,51000,Completed
+TXN-GJIW-83366760,13-Jul-24,Saturday,Yee Oo,25-34,Male,Private Sector Employee,Yangon,Bahan,Wave Money,Android,Mobile Top-up,13000,0,13000,Completed
+TXN-GPYZ-65933851,4-Mar-24,Monday,Khin Hlaing,25-34,Female,Government Employee,Yangon,Bahan,Wave Money,Android,P2P Transfer,93500,0,93500,Completed
+TXN-MJCU-74157330,9-Jun-24,Sunday,Khin Min,25-34,Female,Business Owner,Yangon,Sanchaung,Wave Money,Android,Merchant Payment,8500,0,8500,Completed
+TXN-KPCP-00450335,10-Dec-24,Tuesday,Zaw Shwe,25-34,Female,Freelancer,Yangon,Kamayut,CB Pay,Android,Cash In,637000,0,637000,Completed
+TXN-FMOE-11621231,24-Apr-24,Wednesday,Ko Myint,25-34,Female,Trader / Merchant,Yangon,Sanchaung,Wave Money,Android,P2P Transfer,89000,0,89000,Completed
+TXN-FLCD-34123160,26-Apr-24,Friday,Aung Nyi,25-34,Male,Private Sector Employee,Yangon,Bahan,CB Pay,Android,P2P Transfer,500000,0,500000,Completed
+TXN-XVXP-02460763,19-Nov-24,Tuesday,Myo Htay,25-34,Female,Government Employee,Yangon,Hlaing,Wave Money,Android,Salary Credit,1060500,0,1060500,Completed
+TXN-DCIV-66009083,2-Oct-24,Wednesday,Thura Maung,55+,Female,Private Sector Employee,Yangon,Kamayut,AYAPay,Android,Bill Payment,166000,0,166000,Completed
+TXN-DDWH-15687951,22-Dec-24,Sunday,Nan Zin,18-24,Female,Business Owner,Yangon,Mingaladon,CB Pay,Android,Cash In,1000000,0,1000000,Completed
+TXN-LHZJ-87395558,5-Aug-24,Monday,Khin Tun,45-54,Female,Private Sector Employee,Yangon,Insein,OK Dollar,Android,Bill Payment,47500,0,47500,Completed
+TXN-RRGT-79744637,14-Oct-24,Monday,Thu Zin,35-44,Male,Government Employee,Yangon,Kamayut,KBZPay,Android,Mobile Top-up,3500,0,3500,Completed
+TXN-QOZC-43205770,8-Nov-24,Friday,Aye Maung,35-44,Male,Government Employee,Yangon,Mayangon,KBZPay,Android,P2P Transfer,245500,0,245500,Completed
+TXN-FSCS-41648268,17-Oct-24,Thursday,Thida Kyaw,35-44,Female,Business Owner,Yangon,Mingaladon,Wave Money,Android,Bill Payment,78000,0,78000,Completed
+TXN-XQBH-60701031,10-Jun-24,Monday,Myat Lin,35-44,Male,Government Employee,Yangon,Mingaladon,Wave Money,Android,Bill Payment,73000,0,73000,Completed
+TXN-HHJA-18280349,6-Apr-24,Saturday,Thura Lin,18-24,Female,Private Sector Employee,Yangon,Mingaladon,Wave Money,Android,Merchant Payment,25000,0,25000,Completed
+TXN-KXPC-60630927,25-Jan-24,Thursday,Su Thant,18-24,Male,Government Employee,Yangon,Dagon,AYAPay,Android,Bill Payment,41500,0,41500,Completed
+TXN-XIYV-81981655,21-Jul-24,Sunday,Naing Nyi,18-24,Female,Student,Yangon,Insein,OK Dollar,Android,Bill Payment,52500,0,52500,Completed
+TXN-EZMH-48257781,23-Oct-24,Wednesday,Aye San,35-44,Female,Freelancer,Yangon,Bahan,Wave Money,Android,Bill Payment,23500,0,23500,Completed
+TXN-QYRN-11466440,14-May-24,Tuesday,Ma Kyaw,35-44,Male,Government Employee,Yangon,Bahan,Wave Money,Android,Merchant Payment,39500,0,39500,Completed
+TXN-BOFM-36670162,29-Apr-24,Monday,Khin Phyo,35-44,Female,Student,Yangon,Dagon,KBZPay,Android,P2P Transfer,500000,0,500000,Completed
+TXN-GHNO-67086621,9-Dec-24,Monday,Naing Nge,45-54,Female,Business Owner,Yangon,Tamwe,KBZPay,Android,P2P Transfer,294500,0,294500,Completed
+TXN-DYMU-24571715,18-May-24,Saturday,Nan Win,45-54,Male,Student,Yangon,Dagon,OK Dollar,Android,Cash Out,26500,0,26500,Completed
+TXN-KMSI-02633336,7-Jun-24,Friday,Khin Nyi,18-24,Female,Private Sector Employee,Yangon,Kamayut,Wave Money,Android,Mobile Top-up,1500,0,1500,Completed
+TXN-ZXSV-50412476,1-Jan-24,Monday,Phyu Soe,18-24,Female,Private Sector Employee,Yangon,Bahan,CB Pay,Android,Bill Payment,200000,0,200000,Completed
+TXN-CJJK-38178644,22-Nov-24,Friday,Min Lay,35-44,Male,Factory Worker,Yangon,Sanchaung,KBZPay,Android,Mobile Top-up,7000,0,7000,Completed
+TXN-FWKM-21282052,2-Mar-24,Saturday,Kyaw Nge,35-44,Male,Private Sector Employee,Yangon,Hlaing,Wave Money,Android,Salary Credit,813000,0,813000,Completed
+TXN-JGGS-57943849,15-May-24,Wednesday,Aung Phyo,18-24,Female,Trader / Merchant,Yangon,Sanchaung,Wave Money,Android,Bill Payment,35000,0,35000,Completed
+TXN-GOYK-00771550,29-Jan-24,Monday,Phyu Thu,18-24,Male,Government Employee,Yangon,Insein,KBZPay,Android,P2P Transfer,158000,0,158000,Completed
+TXN-RQVI-06324140,12-Nov-24,Tuesday,Thu Maung,18-24,Female,Private Sector Employee,Yangon,Mingaladon,Wave Money,Android,P2P Transfer,221000,0,221000,Completed
+TXN-LZGY-24428832,5-Mar-24,Tuesday,Zaw Hlaing,55+,Female,Business Owner,Yangon,Kamayut,OK Dollar,Android,Mobile Top-up,7000,0,7000,Completed
+TXN-JLST-58720830,30-May-24,Thursday,Wai Moe,18-24,Male,Student,Yangon,Bahan,Wave Money,Android,P2P Transfer,296000,0,296000,Completed
+TXN-HOLI-45718382,22-Jun-24,Saturday,Nan Oo,35-44,Female,Private Sector Employee,Yangon,Mayangon,KBZPay,Android,P2P Transfer,29000,0,29000,Completed
+TXN-ZJVT-21430636,20-Sep-24,Friday,Yee Thu,18-24,Male,Private Sector Employee,Yangon,Dagon,KBZPay,Android,Merchant Payment,76500,0,76500,Completed
+TXN-TGXT-95069521,24-Mar-24,Sunday,Ko Thu,55+,Female,Government Employee,Yangon,Thingangyun,KBZPay,Android,P2P Transfer,148000,0,148000,Completed
+TXN-FWOS-73942924,19-Jan-24,Friday,Naing Thu,18-24,Female,Business Owner,Yangon,Mayangon,Wave Money,Android,P2P Transfer,287000,0,287000,Completed
+TXN-SPBC-82425357,11-Mar-24,Monday,Ma Soe,35-44,Male,Government Employee,Yangon,Bahan,Wave Money,Android,Mobile Top-up,6000,0,6000,Completed
+TXN-RFDD-84441126,28-Aug-24,Wednesday,Pyae San,45-54,Female,Business Owner,Yangon,Insein,AYAPay,Android,Bill Payment,106500,0,106500,Completed
+TXN-JEPP-23114983,23-Sep-24,Monday,Khin Oo,18-24,Male,Trader / Merchant,Yangon,Insein,AYAPay,Android,Merchant Payment,31000,0,31000,Completed
+TXN-HQJE-39722792,2-Sep-24,Monday,Aung Moe,45-54,Male,Trader / Merchant,Yangon,Dagon,AYAPay,Android,Cash In,578000,0,578000,Completed
+TXN-STWJ-26455959,29-Jul-24,Monday,Thet Kyaw,45-54,Male,Business Owner,Yangon,Sanchaung,KBZPay,Android,Merchant Payment,32500,0,32500,Completed
+TXN-QGIF-28034164,10-Jul-24,Wednesday,Pyae Nge,18-24,Female,Trader / Merchant,Yangon,Bahan,KBZPay,Android,Merchant Payment,31500,0,31500,Completed
+TXN-XQTS-63285490,21-Feb-24,Wednesday,Thida Win,35-44,Female,Government Employee,Yangon,Tamwe,KBZPay,Android,P2P Transfer,41500,0,41500,Completed
+TXN-EEAB-59911786,16-May-24,Thursday,Mg Nge,35-44,Male,Trader / Merchant,Yangon,Tamwe,OK Dollar,Android,Bill Payment,30000,0,30000,Completed
+TXN-EZKG-38603662,11-Jan-24,Thursday,Thu Phyo,18-24,Male,Student,Yangon,Insein,Wave Money,Android,P2P Transfer,159500,0,159500,Completed
+TXN-XKBW-57405173,5-Aug-24,Monday,Nyein Nge,35-44,Female,Private Sector Employee,Yangon,Kamayut,KBZPay,Android,P2P Transfer,325000,0,325000,Completed
+TXN-YBOW-01533333,29-Jun-24,Saturday,Ko San,35-44,Female,Government Employee,Yangon,Mingaladon,AYAPay,Android,Mobile Top-up,7500,0,7500,Completed
+TXN-RAAX-11165014,24-Apr-24,Wednesday,Nyein Maung,45-54,Female,Trader / Merchant,Yangon,Mayangon,AYAPay,Android,Mobile Top-up,3000,0,3000,Completed
+TXN-HRDD-21465715,19-Dec-24,Thursday,Ma Phyo,35-44,Male,Government Employee,Yangon,Mayangon,CB Pay,Android,Merchant Payment,86500,0,86500,Completed
+TXN-ASZJ-54886563,14-Jan-24,Sunday,Nyein Oo,35-44,Male,Business Owner,Yangon,Bahan,Wave Money,Android,P2P Transfer,274000,0,274000,Completed
+TXN-MZPN-62692814,23-Feb-24,Friday,Nge Mon,45-54,Female,Government Employee,Yangon,Kamayut,AYAPay,Android,P2P Transfer,89000,0,89000,Completed
+TXN-ANNK-35890650,14-Sep-24,Saturday,Naing Thu,35-44,Male,Government Employee,Yangon,Insein,Wave Money,Android,P2P Transfer,181500,0,181500,Completed
+TXN-PGHD-77435007,26-Feb-24,Monday,Yee Nyi,18-24,Male,Freelancer,Yangon,Insein,KBZPay,Android,Mobile Top-up,6000,0,6000,Completed
+TXN-NMVE-78058838,23-Apr-24,Tuesday,Mg Htay,35-44,Female,Business Owner,Yangon,Mayangon,AYAPay,Android,P2P Transfer,67500,0,67500,Completed
+TXN-URXK-28598776,4-Sep-24,Wednesday,Htet Aung,35-44,Female,Student,Yangon,Mayangon,AYAPay,Android,Mobile Top-up,7500,0,7500,Completed
+TXN-MQMV-14130960,5-Jun-24,Wednesday,Khin Aye,35-44,Male,Government Employee,Yangon,Hlaing,KBZPay,Android,P2P Transfer,25500,0,25500,Completed
+TXN-HUEC-75788253,26-Jun-24,Wednesday,Ei Lay,45-54,Female,Private Sector Employee,Yangon,Mayangon,Wave Money,Android,Merchant Payment,15000,0,15000,Completed
+TXN-KJMD-86511951,19-Nov-24,Tuesday,Nge Htay,35-44,Female,Government Employee,Yangon,Thingangyun,CB Pay,Android,Bill Payment,27000,0,27000,Completed
+TXN-WLHV-25304357,20-Jan-24,Saturday,Min Maung,18-24,Female,Private Sector Employee,Yangon,Insein,Wave Money,Android,Merchant Payment,46000,0,46000,Completed
+TXN-PABV-71007278,19-Oct-24,Saturday,Soe Nge,45-54,Female,Trader / Merchant,Yangon,Tamwe,AYAPay,Android,Merchant Payment,37000,0,37000,Completed
+TXN-SBLZ-04312632,6-Jun-24,Thursday,Su Maung,35-44,Male,Government Employee,Yangon,Hlaing,Wave Money,Android,Merchant Payment,23000,0,23000,Completed
+TXN-KGOW-35261518,1-Dec-24,Sunday,Nyein Tun,35-44,Male,Farmer,Yangon,Sanchaung,Wave Money,Android,Cash In,256500,0,256500,Completed
+TXN-JYMG-32182986,25-Mar-24,Monday,Shwe Myint,18-24,Female,Business Owner,Yangon,Tamwe,AYAPay,Android,Mobile Top-up,5000,0,5000,Completed
+TXN-ZAOC-67199236,14-Nov-24,Thursday,Nyein Nyi,45-54,Female,Business Owner,Yangon,Dagon,Wave Money,Android,P2P Transfer,157000,0,157000,Completed
+TXN-FEST-53066183,1-Feb-24,Thursday,Nyein Win,55+,Female,Student,Yangon,Dagon,KBZPay,Android,Merchant Payment,43000,0,43000,Completed
+TXN-ZIQU-48140696,14-Jan-24,Sunday,Phyo Htay,55+,Male,Government Employee,Yangon,Bahan,CB Pay,Android,Bill Payment,97000,0,97000,Completed
+TXN-HJWT-22912948,19-Nov-24,Tuesday,Ko Myint,45-54,Female,Student,Yangon,Insein,AYAPay,Android,Merchant Payment,133500,0,133500,Completed
+TXN-LDUT-44516763,11-Apr-24,Thursday,Daw Htay,35-44,Male,Factory Worker,Yangon,Tamwe,Wave Money,Android,Cash In,223500,0,223500,Completed
+TXN-SYDJ-43480861,23-Oct-24,Wednesday,Naing Soe,35-44,Male,Student,Yangon,Bahan,AYAPay,Android,P2P Transfer,39000,0,39000,Completed
+TXN-DCIS-74656781,8-Mar-24,Friday,Thet Oo,45-54,Female,Business Owner,Yangon,Mayangon,CB Pay,Android,Mobile Top-up,18500,0,18500,Completed
+TXN-VFZT-75681635,4-Jun-24,Tuesday,Thida Soe,55+,Male,Private Sector Employee,Yangon,Dagon,CB Pay,Android,P2P Transfer,82000,0,82000,Completed
+TXN-IMBU-94109073,11-Feb-24,Sunday,Ko Thu,35-44,Male,Government Employee,Yangon,Bahan,KBZPay,Android,Merchant Payment,62500,0,62500,Completed
+TXN-OFNF-93691346,6-Feb-24,Tuesday,Ko Wai,45-54,Male,Private Sector Employee,Yangon,Dagon,AYAPay,Android,Merchant Payment,102500,0,102500,Completed
+TXN-RHJS-05388789,27-Apr-24,Saturday,Wai Lay,35-44,Female,Private Sector Employee,Yangon,Dagon,Wave Money,Android,Merchant Payment,41500,0,41500,Completed
+TXN-OJMY-43282545,2-Aug-24,Friday,Su Phyo,35-44,Female,Healthcare Worker,Yangon,Dagon,KBZPay,Android,Merchant Payment,59000,0,59000,Completed
+TXN-ZNFP-18022658,10-Dec-24,Tuesday,Kyaw Aung,18-24,Female,Business Owner,Yangon,Mayangon,KBZPay,Android,Merchant Payment,30000,0,30000,Completed
+TXN-BJPD-75293733,8-Nov-24,Friday,Pyae Min,18-24,Female,Government Employee,Yangon,Insein,KBZPay,Android,P2P Transfer,99500,0,99500,Completed
+TXN-VYTV-16550762,7-Jun-24,Friday,Nge Mon,18-24,Male,Government Employee,Yangon,Bahan,Wave Money,Android,Merchant Payment,70000,0,70000,Completed
+TXN-HSOJ-09871962,23-May-24,Thursday,Aung Aung,35-44,Female,Private Sector Employee,Yangon,Insein,KBZPay,Android,P2P Transfer,300500,0,300500,Completed
+TXN-SWMT-77979908,9-Jan-24,Tuesday,Daw Phyo,35-44,Female,Private Sector Employee,Yangon,Sanchaung,AYAPay,Android,Cash In,364500,0,364500,Completed
+TXN-NYDO-37555230,1-Mar-24,Friday,Myat Lwin,35-44,Female,Government Employee,Yangon,Sanchaung,Wave Money,Android,P2P Transfer,41500,0,41500,Completed
+TXN-YTBM-35394465,14-Feb-24,Wednesday,Khin Mon,35-44,Male,Business Owner,Yangon,Insein,KBZPay,Android,Mobile Top-up,7500,0,7500,Completed
+TXN-HVGB-66513483,31-Mar-24,Sunday,Yee Zaw,35-44,Male,Business Owner,Yangon,Thingangyun,Wave Money,Android,P2P Transfer,482000,0,482000,Completed
+TXN-NFYK-32199487,10-Mar-24,Sunday,Shwe Thu,45-54,Female,Private Sector Employee,Yangon,Tamwe,KBZPay,Android,Bill Payment,37500,0,37500,Completed
+TXN-OUUP-58945215,9-Oct-24,Wednesday,Pyae San,45-54,Male,Private Sector Employee,Yangon,Mayangon,KBZPay,Android,P2P Transfer,159000,0,159000,Completed
+TXN-KZRX-05308352,13-Aug-24,Tuesday,Thura Phyo,35-44,Female,Private Sector Employee,Yangon,Dagon,AYAPay,Android,Merchant Payment,19000,0,19000,Completed
+TXN-CWHT-00846131,5-Mar-24,Tuesday,Myat Win,55+,Female,Private Sector Employee,Yangon,Hlaing,Wave Money,Android,Salary Credit,783000,0,783000,Completed
+TXN-WPYR-96423944,5-Dec-24,Thursday,Kyaw Tun,35-44,Female,Trader / Merchant,Yangon,Kamayut,KBZPay,Android,P2P Transfer,153000,0,153000,Completed
+TXN-UHJK-69127399,6-Sep-24,Friday,Yee Aye,18-24,Male,Trader / Merchant,Yangon,Dagon,CB Pay,Android,Mobile Top-up,2500,0,2500,Completed
+TXN-ZDQP-04575626,26-Sep-24,Thursday,Wai Hlaing,35-44,Female,Government Employee,Yangon,Tamwe,KBZPay,Android,P2P Transfer,128000,0,128000,Completed
+TXN-GFIC-08524581,20-Feb-24,Tuesday,Wai Aye,18-24,Male,Factory Worker,Yangon,Bahan,KBZPay,Android,P2P Transfer,175500,0,175500,Completed
+TXN-MTUO-95696037,5-Mar-24,Tuesday,Mg Aung,18-24,Female,Farmer,Yangon,Mingaladon,Wave Money,Android,Merchant Payment,124500,0,124500,Completed
+TXN-GPZA-15726963,24-Jan-24,Wednesday,Khin Tun,45-54,Female,Private Sector Employee,Yangon,Hlaing,CB Pay,Android,Bill Payment,90000,0,90000,Completed
+TXN-RAMS-40635417,21-Sep-24,Saturday,Myat Shwe,18-24,Female,Private Sector Employee,Yangon,Insein,CB Pay,Android,P2P Transfer,144500,0,144500,Completed
+TXN-QBVX-53964901,29-Oct-24,Tuesday,Htet Zaw,18-24,Male,Government Employee,Yangon,Dagon,Wave Money,Android,P2P Transfer,134000,0,134000,Completed
+TXN-AHJE-68671402,27-Dec-24,Friday,Nge Shwe,18-24,Female,Private Sector Employee,Yangon,Sanchaung,AYAPay,Android,Bill Payment,65500,0,65500,Completed
+TXN-KBQV-58102237,6-Feb-24,Tuesday,Khin Moe,35-44,Male,Trader / Merchant,Yangon,Insein,KBZPay,Android,Merchant Payment,148500,0,148500,Completed
+TXN-QAMH-85733993,10-Dec-24,Tuesday,Pyae Phyo,35-44,Female,Business Owner,Yangon,Insein,Wave Money,Android,P2P Transfer,173000,0,173000,Completed
+TXN-GFGO-72064809,24-Jun-24,Monday,Htet Thant,18-24,Female,Private Sector Employee,Yangon,Insein,Wave Money,Android,P2P Transfer,143500,0,143500,Completed
+TXN-UNTB-82433142,15-Dec-24,Sunday,Pyae Aye,35-44,Female,Government Employee,Yangon,Insein,KBZPay,Android,Merchant Payment,43500,0,43500,Completed
+TXN-MPSS-37928419,17-Nov-24,Sunday,Thu Lay,18-24,Female,Business Owner,Yangon,Tamwe,AYAPay,Android,Bill Payment,116000,0,116000,Completed
+TXN-KFRT-82770967,28-Feb-24,Wednesday,Ei Thu,35-44,Male,Factory Worker,Yangon,Insein,KBZPay,Android,P2P Transfer,209500,0,209500,Completed
+TXN-BBSA-30001254,30-Sep-24,Monday,Myat Lwin,35-44,Male,Private Sector Employee,Yangon,Kamayut,AYAPay,Android,Merchant Payment,99500,0,99500,Completed
+TXN-FURR-41915599,9-May-24,Thursday,Su Myint,18-24,Male,Healthcare Worker,Yangon,Hlaing,CB Pay,Android,Merchant Payment,45000,0,45000,Completed
+TXN-GSQS-86541727,8-Nov-24,Friday,Khin Nyi,55+,Female,Business Owner,Yangon,Bahan,KBZPay,Android,Salary Credit,3000000,0,3000000,Completed
+TXN-SJJF-92459431,23-Mar-24,Saturday,Naing Tun,55+,Female,Freelancer,Yangon,Mayangon,OK Dollar,Android,Bill Payment,35000,0,35000,Completed
+TXN-CBVG-44246580,6-Dec-24,Friday,Nan Zin,55+,Male,Private Sector Employee,Yangon,Dagon,OK Dollar,Android,P2P Transfer,414500,0,414500,Completed
+TXN-WMDF-22969797,30-Oct-24,Wednesday,Soe Soe,18-24,Female,Trader / Merchant,Yangon,Mingaladon,Wave Money,Android,Cash In,106500,0,106500,Completed
+TXN-YLNW-76047547,12-Oct-24,Saturday,Aung Htay,35-44,Male,Private Sector Employee,Yangon,Mingaladon,Wave Money,Android,Cash In,212000,0,212000,Completed
+TXN-BKTF-49423029,25-Sep-24,Wednesday,Pyae Nyi,18-24,Female,Private Sector Employee,Yangon,Dagon,AYAPay,Android,P2P Transfer,374500,0,374500,Completed
+TXN-HOSX-48789054,14-Jul-24,Sunday,Aye Moe,18-24,Female,Trader / Merchant,Yangon,Hlaing,AYAPay,Android,Bill Payment,58500,0,58500,Completed
+TXN-HTYD-89922434,2-Aug-24,Friday,Ma Lin,45-54,Male,Business Owner,Yangon,Insein,AYAPay,Android,Bill Payment,106000,0,106000,Completed
+TXN-YQXA-71023981,11-May-24,Saturday,Aye San,45-54,Female,Student,Yangon,Tamwe,KBZPay,Android,Merchant Payment,66500,0,66500,Completed
+TXN-QYPQ-19708827,7-Mar-24,Thursday,Aung San,35-44,Male,Private Sector Employee,Yangon,Thingangyun,CB Pay,Android,P2P Transfer,140000,0,140000,Completed
+TXN-JMZR-22112030,29-Nov-24,Friday,Su Maung,18-24,Male,Government Employee,Yangon,Hlaing,KBZPay,Android,Cash In,186000,0,186000,Completed
+TXN-MESY-42713300,7-May-24,Tuesday,Wai Htun,35-44,Female,Business Owner,Yangon,Hlaing,Wave Money,Android,Cash In,276500,0,276500,Completed
+TXN-HDYR-14791085,18-Jun-24,Tuesday,Myat Htun,45-54,Male,Business Owner,Yangon,Hlaing,KBZPay,Android,Bill Payment,26500,0,26500,Completed
+TXN-QAPR-07677679,25-Sep-24,Wednesday,Phyu Win,35-44,Female,Teacher,Yangon,Kamayut,AYAPay,Android,Bill Payment,32500,0,32500,Completed
+TXN-AOHX-94442856,8-May-24,Wednesday,Min San,35-44,Female,Government Employee,Yangon,Sanchaung,AYAPay,Android,Merchant Payment,16500,0,16500,Completed
+TXN-XXIC-62954115,2-Dec-24,Monday,Pyae Win,35-44,Male,Student,Yangon,Thingangyun,KBZPay,Android,Cash In,624500,0,624500,Completed
+TXN-OVFJ-75396200,5-May-24,Sunday,Khin Maung,45-54,Female,Trader / Merchant,Yangon,Mingaladon,AYAPay,Android,P2P Transfer,84500,0,84500,Completed
+TXN-MOYH-59862104,20-Jul-24,Saturday,Soe Zaw,35-44,Female,Business Owner,Yangon,Thingangyun,Wave Money,Android,Mobile Top-up,2500,0,2500,Completed
+TXN-KQNR-72907469,24-Aug-24,Saturday,Nyein Phyo,35-44,Female,Trader / Merchant,Yangon,Mingaladon,KBZPay,Android,Merchant Payment,150000,0,150000,Completed
+TXN-UYIW-62659648,21-Dec-24,Saturday,Nge Mon,35-44,Female,Trader / Merchant,Yangon,Dagon,CB Pay,Android,Bill Payment,71500,0,71500,Completed
+TXN-SHRH-38264963,16-May-24,Thursday,Thet Maung,35-44,Male,Private Sector Employee,Yangon,Thingangyun,Wave Money,Android,P2P Transfer,337500,0,337500,Completed
+TXN-GLYX-59848441,8-Mar-24,Friday,Min Kyaw,35-44,Female,Private Sector Employee,Yangon,Tamwe,Wave Money,Android,Bill Payment,51000,0,51000,Completed
+TXN-MCUZ-75320656,23-Mar-24,Saturday,Myat Khaing,45-54,Male,Private Sector Employee,Yangon,Hlaing,KBZPay,Android,Merchant Payment,90000,0,90000,Completed
+TXN-AQQT-45326419,31-Mar-24,Sunday,Phyu Shwe,45-54,Female,Private Sector Employee,Yangon,Tamwe,KBZPay,Android,P2P Transfer,138000,0,138000,Completed
+TXN-PQIE-17874692,8-Mar-24,Friday,Khin Khaing,18-24,Male,Private Sector Employee,Yangon,Kamayut,OK Dollar,Android,Merchant Payment,13000,0,13000,Completed
+TXN-QYJW-83697521,21-Jul-24,Sunday,Nan Tun,55+,Male,Trader / Merchant,Yangon,Kamayut,Wave Money,Android,P2P Transfer,185000,0,185000,Completed
+TXN-UGKN-33294150,26-Jan-24,Friday,Nge Naing,35-44,Male,Trader / Merchant,Yangon,Kamayut,Wave Money,Android,P2P Transfer,133500,0,133500,Completed
+TXN-BYTL-39642761,12-Sep-24,Thursday,Phyo Htun,18-24,Male,Student,Yangon,Thingangyun,Wave Money,Android,Bill Payment,165000,0,165000,Completed
+TXN-JHIE-09858363,3-Jul-24,Wednesday,Ko Shwe,45-54,Male,Student,Yangon,Mayangon,AYAPay,Android,P2P Transfer,129500,0,129500,Completed
+TXN-NSEQ-42327263,29-Nov-24,Friday,Phyo Khaing,25-34,Male,Private Sector Employee,Yangon,Bahan,KBZPay,Feature Phone,Merchant Payment,16500,0,16500,Completed
+TXN-MBZE-17637345,18-Jun-24,Tuesday,Min Htun,18-24,Female,Trader / Merchant,Yangon,Thingangyun,AYAPay,Feature Phone,P2P Transfer,91500,0,91500,Completed
+TXN-ILGN-51576252,25-Feb-24,Sunday,Aye Zin,25-34,Male,Freelancer,Yangon,Mayangon,KBZPay,Feature Phone,Salary Credit,727000,0,727000,Completed
+TXN-OQAM-18110396,24-Feb-24,Saturday,Su Soe,35-44,Male,Government Employee,Yangon,Kamayut,KBZPay,Feature Phone,P2P Transfer,284000,0,284000,Completed
+TXN-SUYN-22797624,2-Dec-24,Monday,Soe Zin,35-44,Female,Private Sector Employee,Yangon,Thingangyun,KBZPay,iOS,Merchant Payment,12000,0,12000,Completed
+TXN-KNIJ-03243426,23-Jun-24,Sunday,Pyae Maung,25-34,Male,Government Employee,Yangon,Mingaladon,KBZPay,iOS,P2P Transfer,78500,0,78500,Completed
+TXN-JBQM-69476513,5-May-24,Sunday,Su Naing,45-54,Male,Government Employee,Yangon,Dagon,KBZPay,iOS,Mobile Top-up,2000,0,2000,Completed
+TXN-PKAE-57557113,24-Feb-24,Saturday,Phyu Aung,18-24,Female,Farmer,Yangon,Mingaladon,AYAPay,Feature Phone,P2P Transfer,99500,0,99500,Completed
+TXN-THSG-16667707,24-Apr-24,Wednesday,Naing Lay,35-44,Female,Private Sector Employee,Yangon,Tamwe,KBZPay,iOS,Merchant Payment,17500,0,17500,Completed
+TXN-OZHU-61309504,28-Feb-24,Wednesday,Khin Tun,25-34,Female,Business Owner,Yangon,Bahan,AYAPay,Feature Phone,P2P Transfer,65000,0,65000,Completed
+TXN-ODRH-36199204,4-Jan-24,Thursday,Aung Htun,35-44,Female,Healthcare Worker,Yangon,Insein,KBZPay,Feature Phone,P2P Transfer,67000,0,67000,Completed
+TXN-BJIX-55966449,13-Mar-24,Wednesday,Thida Khaing,25-34,Male,Factory Worker,Yangon,Hlaing,Wave Money,iOS,P2P Transfer,204000,0,204000,Completed
+TXN-ZSYC-40604296,12-Dec-24,Thursday,Pyae Nyi,35-44,Female,Government Employee,Yangon,Thingangyun,AYAPay,Feature Phone,P2P Transfer,101000,0,101000,Completed
+TXN-RRZM-72708039,7-Mar-24,Thursday,Ko Oo,35-44,Female,Teacher,Yangon,Sanchaung,AYAPay,Feature Phone,P2P Transfer,267000,0,267000,Completed
+TXN-JIMB-39671338,13-Oct-24,Sunday,Min Zin,25-34,Female,Factory Worker,Yangon,Bahan,Wave Money,iOS,P2P Transfer,30000,0,30000,Completed
+TXN-GQEP-55434839,30-Oct-24,Wednesday,Ko Lwin,35-44,Male,Trader / Merchant,Yangon,Hlaing,AYAPay,iOS,P2P Transfer,500000,0,500000,Completed
+TXN-SVUP-26287986,11-Jan-24,Thursday,Htet Lwin,25-34,Female,Private Sector Employee,Yangon,Sanchaung,CB Pay,Feature Phone,P2P Transfer,76000,0,76000,Completed
+TXN-HHUF-92340473,17-Nov-24,Sunday,Phyu Khaing,25-34,Male,Farmer,Yangon,Insein,CB Pay,Feature Phone,Merchant Payment,70500,0,70500,Completed
+TXN-CTSH-21383512,28-Dec-24,Saturday,Min Lin,25-34,Male,Business Owner,Yangon,Hlaing,KBZPay,Feature Phone,Mobile Top-up,8500,0,8500,Completed
+TXN-HUZJ-68815833,13-May-24,Monday,Nyein Nyi,25-34,Male,Student,Yangon,Dagon,KBZPay,Feature Phone,Mobile Top-up,3000,0,3000,Completed
+TXN-JUMM-17644644,24-May-24,Friday,Soe Htun,18-24,Female,Freelancer,Yangon,Bahan,KBZPay,iOS,P2P Transfer,172000,0,172000,Completed
+TXN-ERXC-25935892,3-May-24,Friday,Zaw Moe,35-44,Male,Government Employee,Yangon,Thingangyun,KBZPay,Feature Phone,Merchant Payment,35000,0,35000,Completed
+TXN-YLVI-50096128,20-May-24,Monday,Mg Zaw,45-54,Female,Business Owner,Yangon,Thingangyun,AYAPay,Feature Phone,Bill Payment,108000,0,108000,Completed
+TXN-RVNJ-45679424,3-Jul-24,Wednesday,Khin Aye,35-44,Male,Freelancer,Yangon,Sanchaung,KBZPay,Feature Phone,P2P Transfer,156500,0,156500,Completed
+TXN-ZLCP-59130361,28-Apr-24,Sunday,Aye Naing,25-34,Female,Business Owner,Yangon,Bahan,KBZPay,iOS,Mobile Top-up,7000,0,7000,Completed
+TXN-OXLR-03654379,10-Jan-24,Wednesday,Thida Aye,25-34,Female,Business Owner,Yangon,Insein,KBZPay,iOS,P2P Transfer,255000,0,255000,Completed
+TXN-LSXE-01317399,3-Jun-24,Monday,Min Tun,55+,Female,Government Employee,Yangon,Mayangon,KBZPay,Feature Phone,Mobile Top-up,9000,0,9000,Completed
+TXN-FICW-53922943,18-Jul-24,Thursday,Aung Hlaing,35-44,Female,Freelancer,Yangon,Bahan,AYAPay,Feature Phone,Bill Payment,32000,0,32000,Completed
+TXN-KUVX-63268215,20-Jan-24,Saturday,Su Thant,18-24,Female,Student,Yangon,Hlaing,Wave Money,iOS,P2P Transfer,280500,0,280500,Completed
+TXN-LWGL-33585230,27-Apr-24,Saturday,Kyaw Oo,25-34,Female,Government Employee,Yangon,Dagon,AYAPay,Feature Phone,P2P Transfer,338000,0,338000,Completed
+TXN-JRMI-79457581,23-Mar-24,Saturday,Thida Phyo,18-24,Male,Government Employee,Yangon,Sanchaung,KBZPay,iOS,Merchant Payment,100000,0,100000,Completed
+TXN-YGBK-20892311,24-Apr-24,Wednesday,Min Tun,35-44,Male,Government Employee,Yangon,Sanchaung,KBZPay,iOS,P2P Transfer,241000,0,241000,Completed
+TXN-VKJX-22888159,25-Sep-24,Wednesday,Yee Soe,25-34,Female,Private Sector Employee,Yangon,Thingangyun,CB Pay,iOS,Mobile Top-up,4500,0,4500,Completed
+TXN-YYXK-74991806,24-Apr-24,Wednesday,Su Maung,25-34,Male,Government Employee,Yangon,Mingaladon,OK Dollar,Feature Phone,Bill Payment,79000,0,79000,Completed
+TXN-GIQF-52894347,28-Jun-24,Friday,Thu Oo,25-34,Female,Trader / Merchant,Yangon,Insein,Wave Money,iOS,Bill Payment,54000,0,54000,Completed
+TXN-HSWT-28485196,9-Sep-24,Monday,Aye Lin,35-44,Female,Business Owner,Yangon,Tamwe,Wave Money,iOS,Cash In,334500,0,334500,Completed
+TXN-FUEZ-54157120,9-Jul-24,Tuesday,Ko Min,25-34,Male,Private Sector Employee,Yangon,Dagon,AYAPay,Feature Phone,Mobile Top-up,10500,0,10500,Completed
+TXN-YNUS-64859660,1-Aug-24,Thursday,Htet Thu,35-44,Male,Farmer,Yangon,Bahan,KBZPay,Feature Phone,Bill Payment,47500,0,47500,Completed
+TXN-DQCW-62756910,2-Sep-24,Monday,Mg Tun,35-44,Male,Healthcare Worker,Yangon,Dagon,AYAPay,Feature Phone,Salary Credit,3000000,0,3000000,Completed
+TXN-LZYD-85824808,7-Jul-24,Sunday,Mg Phyo,18-24,Female,Business Owner,Yangon,Dagon,AYAPay,iOS,Merchant Payment,71000,0,71000,Completed
+TXN-ACBY-67719812,19-Apr-24,Friday,Ei Lin,35-44,Male,Private Sector Employee,Yangon,Hlaing,AYAPay,Feature Phone,P2P Transfer,113000,0,113000,Completed
+TXN-HRHJ-73681244,28-Mar-24,Thursday,Thura Zin,25-34,Male,Private Sector Employee,Yangon,Hlaing,CB Pay,iOS,Merchant Payment,59500,0,59500,Completed
+TXN-JYXA-92278129,27-Feb-24,Tuesday,Ko Thant,18-24,Male,Business Owner,Yangon,Tamwe,AYAPay,iOS,Bill Payment,200000,0,200000,Completed
+TXN-XTZY-91673964,31-Mar-24,Sunday,Pyae Zin,18-24,Male,Government Employee,Yangon,Insein,Wave Money,iOS,Bill Payment,103000,0,103000,Completed
+TXN-ACSZ-87761695,20-Jan-24,Saturday,Zaw Nyi,35-44,Male,Trader / Merchant,Yangon,Tamwe,KBZPay,iOS,Cash In,234500,0,234500,Completed
+TXN-HQOU-93911178,4-Sep-24,Wednesday,Aung Myint,35-44,Male,Private Sector Employee,Yangon,Bahan,AYAPay,iOS,Bill Payment,106000,0,106000,Completed
+TXN-WEXK-24988625,7-Nov-24,Thursday,Soe Tun,25-34,Female,Private Sector Employee,Yangon,Thingangyun,AYAPay,iOS,Bill Payment,39500,0,39500,Completed
+TXN-JYZV-01840606,9-Apr-24,Tuesday,Htet Htay,35-44,Female,Teacher,Yangon,Dagon,Wave Money,iOS,P2P Transfer,500000,0,500000,Completed
+TXN-EHVN-83208863,17-Aug-24,Saturday,Shwe Aye,35-44,Male,Student,Yangon,Dagon,Wave Money,iOS,Bill Payment,152000,0,152000,Completed
+TXN-GBTW-70370886,8-Mar-24,Friday,Aung Myint,45-54,Female,Freelancer,Yangon,Bahan,Wave Money,iOS,P2P Transfer,258500,0,258500,Completed
+TXN-VYKC-45100901,13-Jun-24,Thursday,Pyae Zaw,55+,Female,Business Owner,Yangon,Insein,AYAPay,Feature Phone,Bill Payment,56000,0,56000,Completed
+TXN-TNKF-41685822,29-Feb-24,Thursday,Zaw Kyaw,18-24,Female,Business Owner,Yangon,Insein,KBZPay,iOS,Cash In,753500,0,753500,Completed
+TXN-EZOO-78446084,23-May-24,Thursday,Thura Tun,18-24,Male,Private Sector Employee,Yangon,Mayangon,Wave Money,iOS,P2P Transfer,132000,0,132000,Completed
+TXN-SXWQ-70175302,25-Jul-24,Thursday,Thura Maung,55+,Female,Farmer,Yangon,Kamayut,OK Dollar,iOS,Mobile Top-up,4000,0,4000,Completed
+TXN-FQFX-70204489,22-May-24,Wednesday,Htet Thant,35-44,Female,Business Owner,Yangon,Thingangyun,AYAPay,Feature Phone,Bill Payment,200000,0,200000,Completed
+TXN-CRFI-32122017,30-Mar-24,Saturday,Aye Moe,35-44,Female,Private Sector Employee,Yangon,Thingangyun,Wave Money,Feature Phone,Mobile Top-up,20000,0,20000,Completed
+TXN-HYFM-20326192,13-Dec-24,Friday,Su Hlaing,35-44,Female,Government Employee,Yangon,Mayangon,CB Pay,Feature Phone,Merchant Payment,94500,0,94500,Completed
+TXN-PINJ-59922684,7-Feb-24,Wednesday,Nyein Moe,25-34,Male,Private Sector Employee,Yangon,Mingaladon,AYAPay,Feature Phone,Mobile Top-up,4000,0,4000,Completed
+TXN-VQID-43422067,9-Apr-24,Tuesday,Yee Soe,35-44,Male,Private Sector Employee,Yangon,Sanchaung,KBZPay,Feature Phone,Bill Payment,44000,0,44000,Completed
+TXN-OFEF-88418435,17-Jan-24,Wednesday,Pyae San,18-24,Female,Government Employee,Yangon,Mingaladon,AYAPay,iOS,Merchant Payment,76000,0,76000,Completed
+TXN-BVWK-79005305,10-Sep-24,Tuesday,Nyein Win,25-34,Male,Private Sector Employee,Yangon,Dagon,KBZPay,Feature Phone,Cash In,596000,0,596000,Completed
+TXN-AEBF-64511400,6-Mar-24,Wednesday,Thet Htun,35-44,Female,Factory Worker,Yangon,Mingaladon,KBZPay,iOS,P2P Transfer,55500,0,55500,Completed
+TXN-OTOO-89239008,21-Oct-24,Monday,Khin Khaing,35-44,Female,Private Sector Employee,Yangon,Kamayut,AYAPay,Feature Phone,P2P Transfer,59000,0,59000,Completed
+TXN-FDLT-12869879,25-May-24,Saturday,Ko Thu,18-24,Male,Trader / Merchant,Yangon,Bahan,Wave Money,Feature Phone,P2P Transfer,167500,0,167500,Completed
+TXN-LUDN-94716951,24-Mar-24,Sunday,Phyo Mon,25-34,Male,Factory Worker,Yangon,Sanchaung,KBZPay,Feature Phone,Merchant Payment,36000,0,36000,Completed
+TXN-UJEB-36966699,5-Aug-24,Monday,Myo Nyi,45-54,Male,Business Owner,Yangon,Thingangyun,AYAPay,iOS,P2P Transfer,388000,0,388000,Completed
+TXN-UCDG-89194060,18-Jul-24,Thursday,Aye Win,18-24,Male,Business Owner,Yangon,Mingaladon,Wave Money,Feature Phone,Mobile Top-up,6000,0,6000,Completed
+TXN-NYBI-02537962,22-Nov-24,Friday,Mg Zaw,35-44,Male,Freelancer,Yangon,Mingaladon,KBZPay,iOS,Bill Payment,17000,0,17000,Completed
+TXN-VDRI-63610693,10-Apr-24,Wednesday,Myat Wai,35-44,Male,Private Sector Employee,Yangon,Mayangon,OK Dollar,iOS,Merchant Payment,54000,0,54000,Completed
+TXN-MOWY-54822952,21-Jan-24,Sunday,Aye Htun,18-24,Female,Business Owner,Yangon,Bahan,KBZPay,Feature Phone,Bill Payment,38000,0,38000,Completed
+TXN-PKYG-07782867,28-Feb-24,Wednesday,Min Oo,18-24,Male,Student,Yangon,Kamayut,KBZPay,iOS,Bill Payment,29500,0,29500,Completed
+TXN-BZMU-67129085,25-Jan-24,Thursday,Mg Khaing,25-34,Male,Freelancer,Yangon,Hlaing,KBZPay,Feature Phone,Bill Payment,34000,0,34000,Completed
+TXN-WEMY-59559852,15-Dec-24,Sunday,Thida Thu,18-24,Male,Factory Worker,Yangon,Insein,AYAPay,Feature Phone,P2P Transfer,173500,0,173500,Completed
+TXN-UJLY-73315920,4-Jun-24,Tuesday,Khin Win,25-34,Female,Factory Worker,Yangon,Bahan,AYAPay,iOS,Bill Payment,49500,0,49500,Completed
+TXN-IKQB-61519326,30-Jan-24,Tuesday,Nan Soe,18-24,Female,Business Owner,Yangon,Bahan,AYAPay,Feature Phone,Merchant Payment,26500,0,26500,Completed
+TXN-BHMG-23377834,9-Dec-24,Monday,Thu Phyo,18-24,Female,Government Employee,Yangon,Bahan,KBZPay,iOS,P2P Transfer,197000,0,197000,Completed
+TXN-XTDY-62143308,28-Jul-24,Sunday,Thura Aung,45-54,Male,Business Owner,Yangon,Bahan,KBZPay,Feature Phone,P2P Transfer,500000,0,500000,Completed
+TXN-SHGL-38652174,25-Aug-24,Sunday,Thida Nyi,18-24,Female,Government Employee,Yangon,Hlaing,KBZPay,Feature Phone,Merchant Payment,56000,0,56000,Completed
+TXN-FFNN-64606233,9-Sep-24,Monday,Min Kyaw,25-34,Female,Student,Yangon,Dagon,Wave Money,Feature Phone,Mobile Top-up,2000,0,2000,Completed
+TXN-DJVQ-68294652,3-Jan-24,Wednesday,Pyae San,18-24,Female,Freelancer,Yangon,Dagon,OK Dollar,iOS,Bill Payment,192500,0,192500,Completed
+TXN-RXVI-78543521,27-May-24,Monday,Thura Nge,18-24,Male,Government Employee,Yangon,Bahan,KBZPay,iOS,Bill Payment,95000,0,95000,Completed
+TXN-TQWU-60168359,9-Jun-24,Sunday,Wai Maung,25-34,Male,Government Employee,Yangon,Dagon,Wave Money,Feature Phone,P2P Transfer,174000,0,174000,Completed
+TXN-JYFO-88828711,3-Feb-24,Saturday,Mg Lin,18-24,Female,Farmer,Yangon,Bahan,AYAPay,iOS,P2P Transfer,172500,0,172500,Completed
+TXN-FQUO-48838248,19-Feb-24,Monday,Mg Oo,35-44,Male,Government Employee,Yangon,Hlaing,KBZPay,iOS,P2P Transfer,36000,0,36000,Completed
+TXN-JLVO-26513583,3-Nov-24,Sunday,Kyaw Moe,18-24,Male,Private Sector Employee,Yangon,Tamwe,KBZPay,iOS,P2P Transfer,51500,0,51500,Completed
+TXN-MHZC-91808766,2-Dec-24,Monday,Aung Htun,25-34,Male,Business Owner,Yangon,Thingangyun,Wave Money,iOS,P2P Transfer,96000,0,96000,Completed
+TXN-BYQX-62195137,12-Jul-24,Friday,Nge Moe,25-34,Female,Government Employee,Yangon,Tamwe,Wave Money,Feature Phone,Merchant Payment,21500,0,21500,Completed
+TXN-BIMY-70947119,7-Mar-24,Thursday,Nge Soe,35-44,Female,Private Sector Employee,Yangon,Insein,OK Dollar,iOS,Bill Payment,82000,0,82000,Completed
+TXN-WKBD-49987772,16-Aug-24,Friday,Min Wai,25-34,Female,Student,Yangon,Mingaladon,Wave Money,iOS,P2P Transfer,50500,0,50500,Completed
+TXN-DVQJ-13038481,23-Apr-24,Tuesday,Aye Wai,25-34,Male,Trader / Merchant,Yangon,Mayangon,Wave Money,iOS,Cash In,120000,0,120000,Completed
+TXN-UMGN-74581617,16-Feb-24,Friday,Zaw Naing,18-24,Female,Government Employee,Yangon,Hlaing,OK Dollar,Feature Phone,Merchant Payment,77000,0,77000,Completed
+TXN-MVYF-70057362,6-May-24,Monday,Nyein Aung,25-34,Female,Government Employee,Yangon,Dagon,Wave Money,iOS,P2P Transfer,73500,0,73500,Completed
+TXN-BKFM-38103531,8-Aug-24,Thursday,Ei Naing,35-44,Male,Business Owner,Yangon,Kamayut,AYAPay,iOS,P2P Transfer,43500,0,43500,Completed
+TXN-UTUM-52140407,26-Mar-24,Tuesday,Ma Oo,45-54,Male,Freelancer,Yangon,Dagon,KBZPay,Feature Phone,Merchant Payment,74500,0,74500,Completed
+TXN-GENF-01043571,3-Mar-24,Sunday,Thet Nge,18-24,Male,Business Owner,Yangon,Insein,AYAPay,iOS,P2P Transfer,181000,0,181000,Completed
+TXN-NDHZ-23081881,23-Jun-24,Sunday,Shwe Aung,35-44,Male,Government Employee,Yangon,Thingangyun,Wave Money,iOS,P2P Transfer,375500,0,375500,Completed
+TXN-SFUF-03333500,24-Mar-24,Sunday,Pyae Lwin,45-54,Male,Trader / Merchant,Yangon,Insein,Wave Money,iOS,Cash In,277000,0,277000,Completed
+TXN-LMWB-75353221,17-Dec-24,Tuesday,Min Lay,35-44,Female,Freelancer,Yangon,Kamayut,CB Pay,iOS,Cash In,55500,0,55500,Completed
+TXN-ETXD-66455272,16-Dec-24,Monday,Soe Hlaing,25-34,Male,Government Employee,Yangon,Insein,Wave Money,Feature Phone,Merchant Payment,33000,0,33000,Completed
+TXN-CGVN-94110725,20-Feb-24,Tuesday,Wai Mon,25-34,Female,Private Sector Employee,Yangon,Dagon,AYAPay,iOS,P2P Transfer,406500,0,406500,Completed
+TXN-PARX-83198583,5-Aug-24,Monday,Nyein Win,18-24,Female,Private Sector Employee,Yangon,Dagon,Wave Money,Feature Phone,Mobile Top-up,6000,0,6000,Completed
+TXN-PRRT-19969444,15-May-24,Wednesday,Thet Maung,35-44,Male,Government Employee,Yangon,Thingangyun,KBZPay,Feature Phone,Mobile Top-up,5000,0,5000,Completed
+TXN-VSVH-86641320,1-Aug-24,Thursday,Nge Moe,35-44,Female,Freelancer,Yangon,Kamayut,Wave Money,iOS,Mobile Top-up,8000,0,8000,Completed
+TXN-ATUI-61610332,21-Oct-24,Monday,Thida Khaing,35-44,Female,Freelancer,Yangon,Thingangyun,OK Dollar,iOS,Mobile Top-up,2000,0,2000,Completed
+TXN-YSXW-72188857,5-Jan-24,Friday,Nge Thant,35-44,Female,Business Owner,Yangon,Thingangyun,Wave Money,Feature Phone,P2P Transfer,118000,0,118000,Completed
+TXN-NYID-35800847,29-May-24,Wednesday,Thura Maung,25-34,Female,Government Employee,Yangon,Bahan,Wave Money,iOS,Mobile Top-up,17000,0,17000,Completed
+TXN-QABT-91581929,17-Nov-24,Sunday,Aung Khaing,18-24,Female,Freelancer,Yangon,Mingaladon,KBZPay,Feature Phone,P2P Transfer,137000,0,137000,Completed
+TXN-ERTM-15417933,9-Oct-24,Wednesday,Zaw Oo,18-24,Female,Business Owner,Yangon,Bahan,KBZPay,iOS,P2P Transfer,345500,0,345500,Completed
+TXN-VZUN-65562943,5-Nov-24,Tuesday,Kyaw Nge,25-34,Male,Private Sector Employee,Yangon,Thingangyun,KBZPay,Feature Phone,Bill Payment,95500,0,95500,Completed
+TXN-FMNT-27828938,16-Sep-24,Monday,Thet Min,35-44,Male,Business Owner,Yangon,Mingaladon,AYAPay,iOS,P2P Transfer,150000,0,150000,Completed
+TXN-ROIA-82778204,18-Feb-24,Sunday,Nge Phyo,18-24,Female,Government Employee,Yangon,Bahan,KBZPay,Feature Phone,P2P Transfer,98500,0,98500,Completed
+TXN-IGLX-10561912,12-Aug-24,Monday,Nyein Maung,35-44,Male,Trader / Merchant,Yangon,Mayangon,KBZPay,Feature Phone,Merchant Payment,51000,0,51000,Completed
+TXN-OYRN-98998586,14-May-24,Tuesday,Soe Nyi,18-24,Male,Student,Yangon,Bahan,KBZPay,Feature Phone,Merchant Payment,27000,0,27000,Completed
+TXN-JYLI-68433102,31-May-24,Friday,Htet Lay,18-24,Male,Freelancer,Yangon,Bahan,KBZPay,Feature Phone,Mobile Top-up,20000,0,20000,Completed
+TXN-CPLM-89570459,23-Oct-24,Wednesday,Thida Htun,18-24,Female,Private Sector Employee,Yangon,Bahan,CB Pay,Feature Phone,Cash In,229500,0,229500,Completed
+TXN-JKKP-16953357,14-Apr-24,Sunday,Myat Naing,35-44,Female,Government Employee,Yangon,Thingangyun,KBZPay,iOS,P2P Transfer,155000,0,155000,Completed
+TXN-UMUM-39473735,27-Mar-24,Wednesday,Thida Maung,18-24,Male,Government Employee,Yangon,Dagon,CB Pay,iOS,Merchant Payment,22000,0,22000,Completed
+TXN-RFTP-31443783,7-Dec-24,Saturday,Htet Htun,35-44,Male,Private Sector Employee,Yangon,Bahan,KBZPay,iOS,Salary Credit,681000,0,681000,Completed
+TXN-JXKT-96678002,1-Mar-24,Friday,Thida Mon,18-24,Female,Government Employee,Yangon,Thingangyun,Wave Money,Feature Phone,Merchant Payment,32000,0,32000,Completed
+TXN-ACGE-67258723,11-Sep-24,Wednesday,Aye Myint,35-44,Female,Trader / Merchant,Yangon,Bahan,KBZPay,iOS,Bill Payment,185000,0,185000,Completed
+TXN-HBJI-19368171,9-Nov-24,Saturday,Nge Htay,25-34,Male,Student,Yangon,Tamwe,KBZPay,Feature Phone,Bill Payment,82000,0,82000,Completed
+TXN-DDXE-48569969,4-Sep-24,Wednesday,Thet Aung,45-54,Female,Private Sector Employee,Yangon,Mayangon,Wave Money,iOS,Merchant Payment,19500,0,19500,Completed
+TXN-MMCB-39203671,24-Dec-24,Tuesday,Daw Win,35-44,Female,Private Sector Employee,Yangon,Bahan,KBZPay,iOS,P2P Transfer,108000,0,108000,Completed
+TXN-LQLT-01709596,14-Jan-24,Sunday,Aung Aye,25-34,Female,Factory Worker,Yangon,Kamayut,Wave Money,Feature Phone,Merchant Payment,50000,0,50000,Completed
+TXN-LBBZ-90517979,18-Jun-24,Tuesday,Shwe Mon,18-24,Male,Government Employee,Yangon,Mingaladon,Wave Money,iOS,P2P Transfer,123000,0,123000,Completed
+TXN-ORNT-19907086,12-Apr-24,Friday,Khin Myint,25-34,Male,Government Employee,Yangon,Kamayut,KBZPay,iOS,Bill Payment,139000,0,139000,Completed
+TXN-MMLZ-82428474,21-Jun-24,Friday,Kyaw Oo,25-34,Female,Student,Yangon,Mingaladon,KBZPay,iOS,P2P Transfer,441000,0,441000,Completed
+TXN-YUJB-81458930,1-Sep-24,Sunday,Shwe Phyo,55+,Male,Private Sector Employee,Yangon,Mingaladon,Wave Money,iOS,Bill Payment,81500,0,81500,Completed
+TXN-LGMM-62044840,4-Dec-24,Wednesday,Zaw Lay,25-34,Female,Trader / Merchant,Yangon,Dagon,CB Pay,iOS,Bill Payment,120500,0,120500,Completed
+TXN-YNXZ-74411195,1-Nov-24,Friday,Wai Maung,35-44,Female,Student,Yangon,Bahan,Wave Money,Feature Phone,Mobile Top-up,1000,0,1000,Completed
+TXN-FAAN-27349993,19-Oct-24,Saturday,Ko Zaw,18-24,Male,Farmer,Mandalay,Maha Aungmye,KBZPay,Android,P2P Transfer,451500,0,451500,Completed
+TXN-OAMD-37903914,4-Dec-24,Wednesday,Myat Hlaing,25-34,Male,Factory Worker,Mandalay,Chanayethazan,KBZPay,Android,P2P Transfer,58500,0,58500,Completed
+TXN-FCJU-51092852,27-Jan-24,Saturday,Nan Win,35-44,Male,Trader / Merchant,Mandalay,Patheingyi,AYAPay,Android,P2P Transfer,381000,0,381000,Completed
+TXN-DQYI-70902754,17-Sep-24,Tuesday,Ko Thant,55+,Female,Farmer,Mandalay,Amarapura,AYAPay,Android,Bill Payment,27000,0,27000,Completed
+TXN-SDIT-07693938,21-Oct-24,Monday,Phyu Wai,25-34,Male,Trader / Merchant,Mandalay,Chanayethazan,OK Dollar,Feature Phone,Mobile Top-up,6000,0,6000,Completed
+TXN-GVFK-51731332,15-Aug-24,Thursday,Thida Khaing,35-44,Female,Government Employee,Mandalay,Amarapura,KBZPay,Android,Bill Payment,200000,0,200000,Completed
+TXN-BTZF-67144295,29-Mar-24,Friday,Kyaw Wai,25-34,Male,Farmer,Mandalay,Maha Aungmye,Wave Money,Android,P2P Transfer,277000,0,277000,Completed
+TXN-XHJK-41916192,25-Jan-24,Thursday,Thida Min,25-34,Male,Trader / Merchant,Mandalay,Maha Aungmye,KBZPay,iOS,P2P Transfer,176500,0,176500,Completed
+TXN-VNJG-24963174,5-Jul-24,Friday,Thida Wai,35-44,Male,Private Sector Employee,Mandalay,Patheingyi,AYAPay,Android,P2P Transfer,111000,0,111000,Completed
+TXN-EEIU-75930572,11-Oct-24,Friday,Htet Wai,25-34,Male,Student,Mandalay,Amarapura,AYAPay,Android,Bill Payment,89500,0,89500,Completed
+TXN-FCAV-09684825,28-Aug-24,Wednesday,Thet Lwin,25-34,Male,Government Employee,Mandalay,Aungmyaythazan,AYAPay,Android,P2P Transfer,209500,0,209500,Completed
+TXN-KOSM-72595541,1-Sep-24,Sunday,Yee Thant,25-34,Male,Government Employee,Mandalay,Chanayethazan,Wave Money,iOS,Mobile Top-up,6000,0,6000,Completed
+TXN-GJAZ-32605134,24-Mar-24,Sunday,Phyu Lwin,35-44,Female,Student,Mandalay,Amarapura,Wave Money,Android,Merchant Payment,109000,0,109000,Completed
+TXN-SJOK-58227852,1-Mar-24,Friday,Naing Thu,35-44,Female,Student,Mandalay,Maha Aungmye,CB Pay,Android,Cash In,185000,0,185000,Completed
+TXN-TVAT-64237844,5-Oct-24,Saturday,Soe Htay,18-24,Female,Farmer,Mandalay,Amarapura,Wave Money,Android,Cash In,272000,0,272000,Completed
+TXN-NYUW-29878394,17-Jun-24,Monday,Myo Hlaing,35-44,Male,Student,Mandalay,Aungmyaythazan,Wave Money,Android,Bill Payment,50500,0,50500,Completed
+TXN-XRZD-31604050,10-May-24,Friday,Phyo Htun,55+,Female,Private Sector Employee,Mandalay,Patheingyi,KBZPay,Feature Phone,P2P Transfer,84500,0,84500,Completed
+TXN-EWOT-46642170,18-May-24,Saturday,Myo Aung,35-44,Female,Trader / Merchant,Mandalay,Maha Aungmye,OK Dollar,Android,P2P Transfer,97000,0,97000,Completed
+TXN-XIPR-48847968,10-Aug-24,Saturday,Phyo Wai,35-44,Female,Private Sector Employee,Mandalay,Aungmyaythazan,Wave Money,Feature Phone,Mobile Top-up,14500,0,14500,Completed
+TXN-HEZQ-85880266,1-Dec-24,Sunday,Daw Zaw,35-44,Female,Freelancer,Mandalay,Amarapura,Wave Money,Android,Cash In,763500,0,763500,Completed
+TXN-YRKD-75447999,24-Jan-24,Wednesday,Thida Phyo,55+,Male,Government Employee,Mandalay,Amarapura,Wave Money,Android,Mobile Top-up,13000,0,13000,Completed
+TXN-QQZP-82356730,2-Nov-24,Saturday,Zaw Aye,25-34,Male,Private Sector Employee,Mandalay,Amarapura,AYAPay,Android,Bill Payment,37000,0,37000,Completed
+TXN-NOZE-86853491,28-Nov-24,Thursday,Yee Khaing,35-44,Female,Student,Mandalay,Patheingyi,AYAPay,Android,Bill Payment,200000,0,200000,Completed
+TXN-ZMEW-22151242,12-Dec-24,Thursday,Thet Khaing,25-34,Female,Business Owner,Mandalay,Patheingyi,KBZPay,Android,P2P Transfer,94000,0,94000,Completed
+TXN-HTRX-85566470,20-Jul-24,Saturday,Ma Lin,18-24,Female,Freelancer,Mandalay,Maha Aungmye,Wave Money,iOS,Merchant Payment,89500,0,89500,Completed
+TXN-FRMU-18397853,17-Mar-24,Sunday,Nyein Min,18-24,Female,Business Owner,Mandalay,Amarapura,AYAPay,iOS,Bill Payment,200000,0,200000,Completed
+TXN-DEYB-20109223,17-Dec-24,Tuesday,Nan Hlaing,35-44,Male,Trader / Merchant,Mandalay,Chanayethazan,Wave Money,Android,P2P Transfer,118000,0,118000,Completed
+TXN-LIIY-88866788,23-Nov-24,Saturday,Nge Htun,25-34,Male,Government Employee,Mandalay,Amarapura,KBZPay,iOS,Merchant Payment,63500,0,63500,Completed
+TXN-IYYJ-46684204,22-Nov-24,Friday,Myo Myint,35-44,Female,Trader / Merchant,Mandalay,Maha Aungmye,Wave Money,Android,P2P Transfer,30500,0,30500,Completed
+TXN-WORV-82523911,22-Jun-24,Saturday,Thura Oo,35-44,Female,Business Owner,Mandalay,Amarapura,KBZPay,Android,Merchant Payment,42500,0,42500,Completed
+TXN-LWVT-87547109,3-Apr-24,Wednesday,Thu Nyi,18-24,Male,Private Sector Employee,Mandalay,Amarapura,Wave Money,Feature Phone,Cash In,204000,0,204000,Completed
+TXN-NHQZ-08159885,5-Oct-24,Saturday,Wai Lay,25-34,Female,Student,Mandalay,Chanayethazan,KBZPay,iOS,Bill Payment,98500,0,98500,Completed
+TXN-YKPG-95628784,22-Jan-24,Monday,Htet Soe,35-44,Male,Government Employee,Mandalay,Patheingyi,Wave Money,Feature Phone,P2P Transfer,84000,0,84000,Completed
+TXN-IEHF-97561010,24-May-24,Friday,Daw San,18-24,Female,Private Sector Employee,Mandalay,Aungmyaythazan,Wave Money,Android,P2P Transfer,69500,0,69500,Completed
+TXN-NOEN-73651735,23-May-24,Thursday,Nan Aung,25-34,Female,Student,Mandalay,Amarapura,AYAPay,Android,Bill Payment,80000,0,80000,Completed
+TXN-UVGJ-93324475,12-Oct-24,Saturday,Phyo Lay,35-44,Male,Government Employee,Mandalay,Maha Aungmye,Wave Money,Android,Cash In,202500,0,202500,Completed
+TXN-AOVD-95463537,19-Apr-24,Friday,Aye Naing,55+,Female,Freelancer,Mandalay,Aungmyaythazan,KBZPay,iOS,Merchant Payment,83000,0,83000,Completed
+TXN-SPAP-40633618,3-Apr-24,Wednesday,Ko Wai,25-34,Male,Business Owner,Mandalay,Amarapura,KBZPay,Android,P2P Transfer,244000,0,244000,Completed
+TXN-HJUS-36086414,8-Feb-24,Thursday,Ei Moe,25-34,Female,Private Sector Employee,Mandalay,Patheingyi,Wave Money,Android,Mobile Top-up,7000,0,7000,Completed
+TXN-PKDG-28616101,26-Nov-24,Tuesday,Thida Aung,18-24,Female,Trader / Merchant,Mandalay,Chanayethazan,CB Pay,Feature Phone,P2P Transfer,97000,0,97000,Completed
+TXN-UDBM-39203948,25-Jun-24,Tuesday,Soe Zin,18-24,Female,Private Sector Employee,Mandalay,Aungmyaythazan,KBZPay,Android,Mobile Top-up,6000,0,6000,Completed
+TXN-IBND-47106150,24-Dec-24,Tuesday,Zaw Nge,18-24,Male,Private Sector Employee,Mandalay,Aungmyaythazan,CB Pay,Android,P2P Transfer,295500,0,295500,Completed
+TXN-VXAH-69580643,13-Nov-24,Wednesday,Thu Tun,25-34,Male,Government Employee,Mandalay,Maha Aungmye,KBZPay,Android,P2P Transfer,52500,0,52500,Completed
+TXN-RGTX-02834696,12-Aug-24,Monday,Phyu Khaing,45-54,Female,Factory Worker,Mandalay,Aungmyaythazan,KBZPay,Android,Bill Payment,33500,0,33500,Completed
+TXN-BXBI-36870010,20-Oct-24,Sunday,Thet San,25-34,Male,Government Employee,Mandalay,Aungmyaythazan,Wave Money,Feature Phone,P2P Transfer,118000,0,118000,Completed
+TXN-UYWL-39874064,14-Mar-24,Thursday,Yee Nge,45-54,Female,Freelancer,Mandalay,Maha Aungmye,Wave Money,Android,P2P Transfer,287000,0,287000,Completed
+TXN-YUJP-55275670,16-May-24,Thursday,Thu Maung,25-34,Male,Government Employee,Mandalay,Patheingyi,Wave Money,Feature Phone,P2P Transfer,48500,0,48500,Completed
+TXN-KOXS-43890507,16-Aug-24,Friday,Yee Min,35-44,Female,Private Sector Employee,Mandalay,Chanayethazan,KBZPay,Feature Phone,P2P Transfer,119000,0,119000,Completed
+TXN-LFQQ-15641873,10-Dec-24,Tuesday,Shwe Min,45-54,Female,Business Owner,Mandalay,Maha Aungmye,AYAPay,iOS,P2P Transfer,331500,0,331500,Completed
+TXN-HNPH-04590054,8-Aug-24,Thursday,Khin Aye,25-34,Female,Government Employee,Mandalay,Aungmyaythazan,Wave Money,Feature Phone,P2P Transfer,31500,0,31500,Completed
+TXN-HKHW-03616212,1-Dec-24,Sunday,Thu Shwe,18-24,Female,Business Owner,Mandalay,Amarapura,Wave Money,iOS,Mobile Top-up,18000,0,18000,Completed
+TXN-MAEB-98140450,14-Jun-24,Friday,Daw Htun,25-34,Female,Freelancer,Mandalay,Patheingyi,CB Pay,Android,Mobile Top-up,5000,0,5000,Completed
+TXN-VRTC-89461214,5-Sep-24,Thursday,Min Thu,45-54,Female,Factory Worker,Mandalay,Aungmyaythazan,KBZPay,Android,P2P Transfer,73500,0,73500,Completed
+TXN-JNFN-42545872,23-Jan-24,Tuesday,Thet Thu,18-24,Male,Farmer,Mandalay,Maha Aungmye,AYAPay,Android,Merchant Payment,8000,0,8000,Completed
+TXN-XFSM-04064282,25-Aug-24,Sunday,Thura Lay,18-24,Male,Trader / Merchant,Mandalay,Amarapura,KBZPay,Feature Phone,Bill Payment,27500,0,27500,Completed
+TXN-CNLN-21723103,3-Nov-24,Sunday,Mg Wai,35-44,Male,Private Sector Employee,Mandalay,Aungmyaythazan,AYAPay,Android,P2P Transfer,98500,0,98500,Completed
+TXN-BXIY-77790939,14-Nov-24,Thursday,Zaw Zin,25-34,Male,Trader / Merchant,Mandalay,Aungmyaythazan,KBZPay,Android,Mobile Top-up,3000,0,3000,Completed
+TXN-JFJN-82901027,4-Sep-24,Wednesday,Phyo Soe,25-34,Male,Private Sector Employee,Mandalay,Maha Aungmye,Wave Money,iOS,P2P Transfer,139000,0,139000,Completed
+TXN-VQUP-68586462,19-Nov-24,Tuesday,Zaw Phyo,18-24,Female,Private Sector Employee,Mandalay,Patheingyi,KBZPay,Android,Merchant Payment,62000,0,62000,Completed
+TXN-PDEE-37415754,27-Dec-24,Friday,Ma Htun,45-54,Female,Business Owner,Mandalay,Patheingyi,Wave Money,Android,P2P Transfer,500000,0,500000,Completed
+TXN-WNMP-82950619,3-Feb-24,Saturday,Nan Nge,25-34,Female,Private Sector Employee,Mandalay,Maha Aungmye,KBZPay,Android,P2P Transfer,208500,0,208500,Completed
+TXN-XIGG-37097432,22-Jan-24,Monday,Yee Hlaing,18-24,Male,Government Employee,Mandalay,Patheingyi,AYAPay,Android,Merchant Payment,150000,0,150000,Completed
+TXN-PDUM-52206104,28-May-24,Tuesday,Naing Thu,18-24,Female,Government Employee,Mandalay,Aungmyaythazan,OK Dollar,Android,Merchant Payment,53000,0,53000,Completed
+TXN-GFXY-97639721,18-Mar-24,Monday,Aye Naing,25-34,Female,Business Owner,Mandalay,Amarapura,Wave Money,iOS,P2P Transfer,116500,0,116500,Completed
+TXN-KIVQ-59367610,26-Dec-24,Thursday,Thida Nge,18-24,Female,Trader / Merchant,Mandalay,Patheingyi,OK Dollar,Android,Cash In,615500,0,615500,Completed
+TXN-QAZA-82998538,8-Dec-24,Sunday,Zaw Zaw,35-44,Female,Business Owner,Mandalay,Amarapura,KBZPay,Android,Merchant Payment,40500,0,40500,Completed
+TXN-ZCZY-09302670,10-Sep-24,Tuesday,Phyo Lin,18-24,Female,Private Sector Employee,Mandalay,Maha Aungmye,KBZPay,iOS,Cash In,327500,0,327500,Completed
+TXN-AHQE-95128272,14-Feb-24,Wednesday,Zaw Naing,18-24,Female,Government Employee,Mandalay,Chanayethazan,OK Dollar,Feature Phone,Bill Payment,37000,0,37000,Completed
+TXN-JEUI-24994351,27-Mar-24,Wednesday,Yee Thant,45-54,Male,Private Sector Employee,Mandalay,Chanayethazan,Wave Money,Android,P2P Transfer,61500,0,61500,Completed
+TXN-NNNV-43799683,13-Jul-24,Saturday,Khin Naing,55+,Female,Trader / Merchant,Mandalay,Aungmyaythazan,Wave Money,Android,Bill Payment,152000,0,152000,Completed
+TXN-DCKV-02471604,5-Jan-24,Friday,Daw Lin,35-44,Male,Farmer,Mandalay,Patheingyi,Wave Money,Feature Phone,Merchant Payment,36000,0,36000,Completed
+TXN-WPFR-63614694,5-Jul-24,Friday,Myo Htay,25-34,Male,Government Employee,Mandalay,Amarapura,KBZPay,Android,P2P Transfer,171500,0,171500,Completed
+TXN-PPEI-94178903,8-Apr-24,Monday,Thura Myint,45-54,Male,Student,Mandalay,Maha Aungmye,KBZPay,Android,Merchant Payment,46500,0,46500,Completed
+TXN-TJIW-17275480,15-Apr-24,Monday,Shwe Myint,45-54,Male,Private Sector Employee,Mandalay,Patheingyi,OK Dollar,iOS,Mobile Top-up,3500,0,3500,Completed
+TXN-JGAS-22024782,26-Mar-24,Tuesday,Ko Zin,25-34,Male,Freelancer,Mandalay,Chanayethazan,KBZPay,Feature Phone,Bill Payment,158000,0,158000,Completed
+TXN-ZVOM-07866617,12-Jun-24,Wednesday,Soe Phyo,18-24,Female,Business Owner,Mandalay,Amarapura,OK Dollar,Android,Merchant Payment,38000,0,38000,Completed
+TXN-QBMY-91148675,21-Feb-24,Wednesday,Kyaw Nge,25-34,Male,Business Owner,Mandalay,Chanayethazan,AYAPay,iOS,P2P Transfer,17000,0,17000,Completed
+TXN-YRQG-41564159,18-Mar-24,Monday,Mg Soe,18-24,Female,Private Sector Employee,Mandalay,Maha Aungmye,AYAPay,Android,Merchant Payment,38500,0,38500,Completed
+TXN-QXPO-95550102,15-May-24,Wednesday,Ko Tun,45-54,Male,Trader / Merchant,Mandalay,Aungmyaythazan,KBZPay,Android,P2P Transfer,378000,0,378000,Completed
+TXN-RRFW-96758965,11-Jan-24,Thursday,Pyae Myint,18-24,Male,Trader / Merchant,Mandalay,Chanayethazan,KBZPay,Android,P2P Transfer,49000,0,49000,Completed
+TXN-GBAC-08559419,20-Nov-24,Wednesday,Htet Zin,35-44,Male,Business Owner,Mandalay,Aungmyaythazan,CB Pay,Feature Phone,Merchant Payment,67500,0,67500,Completed
+TXN-BAFL-34453161,27-Sep-24,Friday,Mg Myint,25-34,Female,Business Owner,Mandalay,Patheingyi,CB Pay,Android,Bill Payment,21000,0,21000,Completed
+TXN-GRTE-99940086,8-Dec-24,Sunday,Wai San,35-44,Male,Trader / Merchant,Mandalay,Amarapura,OK Dollar,iOS,Cash In,455000,0,455000,Completed
+TXN-PYVE-67232091,8-Jan-24,Monday,Nyein Maung,18-24,Male,Government Employee,Mandalay,Patheingyi,AYAPay,Feature Phone,Merchant Payment,32000,0,32000,Completed
+TXN-ISTX-26957847,5-Jan-24,Friday,Thu Myint,18-24,Male,Private Sector Employee,Mandalay,Patheingyi,Wave Money,Android,Bill Payment,14500,0,14500,Completed
+TXN-YSVP-47956035,2-Apr-24,Tuesday,Phyo Soe,25-34,Male,Student,Mandalay,Chanayethazan,KBZPay,Android,P2P Transfer,111000,0,111000,Completed
+TXN-RRWR-01736960,12-Oct-24,Saturday,Wai Shwe,25-34,Male,Business Owner,Mandalay,Amarapura,CB Pay,Feature Phone,Bill Payment,49000,0,49000,Completed
+TXN-CEDT-33309313,6-Dec-24,Friday,Ma Soe,25-34,Male,Government Employee,Mandalay,Amarapura,KBZPay,Android,Bill Payment,57500,0,57500,Completed
+TXN-QATY-17608919,14-May-24,Tuesday,Aye Zin,25-34,Male,Government Employee,Mandalay,Maha Aungmye,KBZPay,Android,Mobile Top-up,8500,0,8500,Completed
+TXN-VRPA-79510947,21-Mar-24,Thursday,Thu Zaw,25-34,Male,Trader / Merchant,Mandalay,Amarapura,AYAPay,iOS,Merchant Payment,127000,0,127000,Completed
+TXN-XIOD-55751053,26-Feb-24,Monday,Nyein Moe,25-34,Male,Government Employee,Mandalay,Chanayethazan,Wave Money,iOS,P2P Transfer,42000,0,42000,Completed
+TXN-MYWL-08999774,13-Apr-24,Saturday,Thura Zin,18-24,Female,Freelancer,Mandalay,Patheingyi,AYAPay,Android,P2P Transfer,155000,0,155000,Completed
+TXN-WJZT-93301059,14-Dec-24,Saturday,Mg Moe,55+,Male,Government Employee,Mandalay,Maha Aungmye,KBZPay,Android,Merchant Payment,15000,0,15000,Completed
+TXN-GWPB-94342298,30-Mar-24,Saturday,Nge Aung,18-24,Female,Private Sector Employee,Mandalay,Aungmyaythazan,KBZPay,Android,Mobile Top-up,10000,0,10000,Completed
+TXN-SGZM-44076822,27-May-24,Monday,Su Zin,35-44,Male,Student,Mandalay,Aungmyaythazan,Wave Money,Android,Bill Payment,77000,0,77000,Completed
+TXN-GOHK-00047891,23-Aug-24,Friday,Myat Win,25-34,Male,Government Employee,Mandalay,Maha Aungmye,Wave Money,Android,P2P Transfer,80500,0,80500,Completed
+TXN-RPWJ-79499479,19-Jun-24,Wednesday,Zaw Myint,25-34,Male,Private Sector Employee,Mandalay,Maha Aungmye,OK Dollar,Android,P2P Transfer,223500,0,223500,Completed
+TXN-OBUQ-29005278,26-Feb-24,Monday,Thura Hlaing,45-54,Male,Government Employee,Mandalay,Maha Aungmye,Wave Money,iOS,Mobile Top-up,16000,0,16000,Completed
+TXN-NYCK-76368247,10-Jul-24,Wednesday,Su Shwe,55+,Female,Government Employee,Mandalay,Patheingyi,OK Dollar,Feature Phone,Merchant Payment,42500,0,42500,Completed
+TXN-TCVO-61204538,14-Jul-24,Sunday,Ma Soe,55+,Female,Government Employee,Mandalay,Aungmyaythazan,AYAPay,Android,Merchant Payment,62500,0,62500,Completed
+TXN-PFMH-10501130,16-Apr-24,Tuesday,Shwe Aye,25-34,Female,Government Employee,Mandalay,Amarapura,CB Pay,Android,Merchant Payment,24000,0,24000,Completed
+TXN-FOLZ-17543464,26-Mar-24,Tuesday,Ma Wai,25-34,Female,Trader / Merchant,Mandalay,Patheingyi,KBZPay,Android,P2P Transfer,55000,0,55000,Completed
+TXN-ZSQP-43858235,29-Jul-24,Monday,Thu Khaing,18-24,Female,Business Owner,Mandalay,Patheingyi,KBZPay,Feature Phone,Bill Payment,63500,0,63500,Completed
+TXN-QAFK-07859422,13-May-24,Monday,Daw Maung,25-34,Female,Private Sector Employee,Mandalay,Maha Aungmye,AYAPay,Android,Bill Payment,160000,0,160000,Completed
+TXN-TPHT-71943221,18-Jan-24,Thursday,Thida San,25-34,Male,Private Sector Employee,Mandalay,Maha Aungmye,AYAPay,Android,P2P Transfer,140500,0,140500,Completed
+TXN-LHWG-28413083,27-Mar-24,Wednesday,Phyo Win,18-24,Male,Private Sector Employee,Mandalay,Maha Aungmye,AYAPay,Android,P2P Transfer,78500,0,78500,Completed
+TXN-YFTF-14560483,3-May-24,Friday,Yee Shwe,25-34,Male,Government Employee,Mandalay,Patheingyi,AYAPay,Feature Phone,Bill Payment,57500,0,57500,Completed
+TXN-KFLW-13282619,31-Mar-24,Sunday,Naing Aye,18-24,Female,Student,Mandalay,Chanayethazan,KBZPay,Android,Bill Payment,71000,0,71000,Completed
+TXN-FWNG-99180312,5-Mar-24,Tuesday,Shwe Moe,18-24,Female,Student,Mandalay,Amarapura,AYAPay,Android,Bill Payment,71500,0,71500,Completed
+TXN-YBMF-43783541,18-Sep-24,Wednesday,Mg Thant,18-24,Male,Government Employee,Mandalay,Amarapura,AYAPay,Android,Merchant Payment,42000,0,42000,Completed
+TXN-GPUI-25954484,7-Jul-24,Sunday,Zaw Win,25-34,Female,Student,Mandalay,Aungmyaythazan,KBZPay,Android,P2P Transfer,500000,0,500000,Completed
+TXN-KMBN-02286192,29-Aug-24,Thursday,Nge Lin,45-54,Female,Business Owner,Mandalay,Maha Aungmye,KBZPay,Android,Bill Payment,39500,0,39500,Completed
+TXN-WUWZ-98449654,22-Sep-24,Sunday,Ko Naing,45-54,Male,Private Sector Employee,Mandalay,Amarapura,KBZPay,iOS,Bill Payment,142500,0,142500,Completed
+TXN-FSHV-92829823,22-Jul-24,Monday,Aung Min,45-54,Male,Government Employee,Mandalay,Amarapura,Wave Money,Android,P2P Transfer,70000,0,70000,Completed
+TXN-VDUI-22822908,15-Feb-24,Thursday,Ko Nyi,35-44,Female,Trader / Merchant,Mandalay,Patheingyi,AYAPay,Android,Mobile Top-up,5000,0,5000,Completed
+TXN-HXKO-01841918,29-Apr-24,Monday,Su Htun,18-24,Female,Trader / Merchant,Mandalay,Amarapura,KBZPay,Android,P2P Transfer,67000,0,67000,Completed
+TXN-NCEF-10262098,23-Jan-24,Tuesday,Mg Khaing,35-44,Female,Student,Mandalay,Aungmyaythazan,Wave Money,Feature Phone,Bill Payment,76500,0,76500,Completed
+TXN-LLJT-73860745,28-Apr-24,Sunday,Thet Naing,25-34,Female,Government Employee,Mandalay,Amarapura,Wave Money,Feature Phone,Cash In,560000,0,560000,Completed
+TXN-CTTB-70733854,20-Apr-24,Saturday,Thu Aye,45-54,Male,Factory Worker,Mandalay,Patheingyi,KBZPay,Feature Phone,Merchant Payment,35500,0,35500,Completed
+TXN-PLIZ-03046384,19-Mar-24,Tuesday,Aye Nge,45-54,Male,Farmer,Mandalay,Chanayethazan,OK Dollar,Android,Bill Payment,27500,0,27500,Completed
+TXN-UWSY-30194820,15-Jan-24,Monday,Aye Thu,18-24,Male,Private Sector Employee,Mandalay,Amarapura,Wave Money,Feature Phone,Merchant Payment,44500,0,44500,Completed
+TXN-NNBR-08510356,22-Jul-24,Monday,Khin Moe,18-24,Female,Business Owner,Mandalay,Aungmyaythazan,KBZPay,Feature Phone,Bill Payment,16000,0,16000,Completed
+TXN-CKRP-37833009,3-Apr-24,Wednesday,Yee Hlaing,18-24,Female,Trader / Merchant,Mandalay,Patheingyi,CB Pay,Android,Mobile Top-up,2500,0,2500,Completed
+TXN-IAFC-61975402,26-Sep-24,Thursday,Shwe Khaing,45-54,Male,Trader / Merchant,Mandalay,Aungmyaythazan,KBZPay,Android,Bill Payment,130000,0,130000,Completed
+TXN-HZZJ-43650185,2-Jan-24,Tuesday,Yee Khaing,35-44,Female,Government Employee,Mandalay,Maha Aungmye,KBZPay,iOS,P2P Transfer,117000,0,117000,Completed
+TXN-MPXL-46545163,23-May-24,Thursday,Naing Kyaw,18-24,Female,Trader / Merchant,Mandalay,Amarapura,AYAPay,Feature Phone,Bill Payment,66000,0,66000,Completed
+TXN-MDXF-85042566,20-Mar-24,Wednesday,Khin Maung,35-44,Male,Private Sector Employee,Mandalay,Amarapura,KBZPay,Android,P2P Transfer,324500,0,324500,Completed
+TXN-MUDS-31010829,25-Apr-24,Thursday,Myat Lwin,35-44,Female,Farmer,Mandalay,Maha Aungmye,KBZPay,Android,Cash In,158500,0,158500,Completed
+TXN-FVKL-76609957,26-Aug-24,Monday,Htet Aye,25-34,Male,Private Sector Employee,Mandalay,Chanayethazan,Wave Money,Android,Mobile Top-up,12500,0,12500,Completed
+TXN-JYXQ-06159744,16-Jan-24,Tuesday,Myo Kyaw,45-54,Female,Student,Mandalay,Aungmyaythazan,Wave Money,Android,P2P Transfer,197500,0,197500,Completed
+TXN-XAJY-27141105,16-Sep-24,Monday,Aung Lay,35-44,Male,Government Employee,Mandalay,Amarapura,CB Pay,Feature Phone,Bill Payment,32000,0,32000,Completed
+TXN-HMBG-73418681,21-Nov-24,Thursday,Shwe Phyo,45-54,Female,Trader / Merchant,Mandalay,Chanayethazan,KBZPay,Feature Phone,P2P Transfer,278500,0,278500,Completed
+TXN-OYVJ-96993120,13-Jul-24,Saturday,Zaw Soe,45-54,Female,Private Sector Employee,Mandalay,Amarapura,Wave Money,iOS,Mobile Top-up,6500,0,6500,Completed
+TXN-DPNH-44985713,5-Jul-24,Friday,Mg Zin,25-34,Male,Business Owner,Mandalay,Maha Aungmye,OK Dollar,iOS,Merchant Payment,69500,0,69500,Completed
+TXN-FAAH-96855070,1-Feb-24,Thursday,Ko Naing,25-34,Male,Trader / Merchant,Mandalay,Maha Aungmye,KBZPay,iOS,P2P Transfer,88000,0,88000,Completed
+TXN-SXLW-13141463,8-Mar-24,Friday,Thida Lin,18-24,Male,Student,Mandalay,Patheingyi,Wave Money,Feature Phone,Mobile Top-up,13000,0,13000,Completed
+TXN-DFCP-83779335,1-Apr-24,Monday,Ma Thu,25-34,Male,Business Owner,Mandalay,Maha Aungmye,AYAPay,Feature Phone,P2P Transfer,106500,0,106500,Completed
+TXN-WIQY-03038396,8-Dec-24,Sunday,Nyein Oo,25-34,Female,Private Sector Employee,Mandalay,Maha Aungmye,Wave Money,iOS,P2P Transfer,187500,0,187500,Completed
+TXN-ZFEY-18205477,20-Jan-24,Saturday,Phyu Nge,18-24,Male,Government Employee,Mandalay,Amarapura,KBZPay,Android,Bill Payment,46000,0,46000,Completed
+TXN-XIQX-61661137,18-Nov-24,Monday,Nan Min,45-54,Male,Government Employee,Mandalay,Patheingyi,AYAPay,iOS,P2P Transfer,288000,0,288000,Completed
+TXN-OQQE-17404001,21-Feb-24,Wednesday,Aye Aung,25-34,Male,Farmer,Mandalay,Aungmyaythazan,Wave Money,iOS,P2P Transfer,209500,0,209500,Completed
+TXN-CNYS-09725513,11-Jan-24,Thursday,Zaw Phyo,18-24,Female,Government Employee,Mandalay,Amarapura,Wave Money,Android,Mobile Top-up,8500,0,8500,Completed
+TXN-NDGF-28308483,5-Jun-24,Wednesday,Mg Mon,35-44,Female,Business Owner,Mandalay,Maha Aungmye,KBZPay,Feature Phone,P2P Transfer,126000,0,126000,Completed
+TXN-ETBU-30868591,22-Apr-24,Monday,Thu Moe,25-34,Female,Factory Worker,Mandalay,Amarapura,OK Dollar,Feature Phone,Mobile Top-up,3500,0,3500,Completed
+TXN-RJMM-84714002,9-Sep-24,Monday,Daw Maung,45-54,Female,Freelancer,Mandalay,Amarapura,AYAPay,Feature Phone,P2P Transfer,413500,0,413500,Completed
+TXN-ETAZ-81739615,12-Oct-24,Saturday,Phyu Htun,55+,Female,Government Employee,Mandalay,Amarapura,OK Dollar,Android,Bill Payment,36500,0,36500,Completed
+TXN-GOAC-06150971,29-Aug-24,Thursday,Min Phyo,35-44,Male,Freelancer,Mandalay,Patheingyi,Wave Money,Android,P2P Transfer,145000,0,145000,Completed
+TXN-YVVM-99520316,22-Jul-24,Monday,Aye Lin,18-24,Female,Trader / Merchant,Mandalay,Patheingyi,CB Pay,Android,Merchant Payment,48500,0,48500,Completed
+TXN-AEQE-99467307,11-Nov-24,Monday,Phyu Lay,55+,Male,Government Employee,Mandalay,Aungmyaythazan,AYAPay,Android,Merchant Payment,65500,0,65500,Completed
+TXN-QTFT-57421089,7-Oct-24,Monday,Soe Htun,25-34,Female,Freelancer,Mandalay,Aungmyaythazan,AYAPay,iOS,Mobile Top-up,5500,0,5500,Completed
+TXN-FQQU-86368340,5-Oct-24,Saturday,Kyaw Kyaw,25-34,Female,Trader / Merchant,Mandalay,Chanayethazan,Wave Money,Android,Mobile Top-up,4000,0,4000,Completed
+TXN-UAPX-11357381,30-Jul-24,Tuesday,Ma Myint,55+,Female,Private Sector Employee,Mandalay,Aungmyaythazan,AYAPay,iOS,Mobile Top-up,8000,0,8000,Completed
+TXN-JOXR-96803485,24-Mar-24,Sunday,Yee Lin,35-44,Male,Business Owner,Mandalay,Patheingyi,AYAPay,Android,P2P Transfer,109000,0,109000,Completed
+TXN-PFJN-40011653,12-Sep-24,Thursday,Thet Maung,25-34,Male,Freelancer,Mandalay,Aungmyaythazan,Wave Money,Feature Phone,Merchant Payment,59000,0,59000,Completed
+TXN-XWDR-19626463,18-Feb-24,Sunday,Ma Thu,45-54,Female,Government Employee,Mandalay,Patheingyi,Wave Money,Android,P2P Transfer,46000,0,46000,Completed
+TXN-ETPU-78226533,30-Nov-24,Saturday,Aung Oo,35-44,Female,Private Sector Employee,Mandalay,Maha Aungmye,AYAPay,Android,Cash In,156000,0,156000,Completed
+TXN-HCLY-20854069,2-Mar-24,Saturday,Aung Tun,25-34,Male,Private Sector Employee,Mandalay,Patheingyi,OK Dollar,Android,Mobile Top-up,6000,0,6000,Completed
+TXN-VIJV-60527791,24-Aug-24,Saturday,Min Moe,25-34,Female,Private Sector Employee,Mandalay,Aungmyaythazan,AYAPay,Android,Cash In,196500,0,196500,Completed
+TXN-MLGT-89303952,5-Sep-24,Thursday,Yee Thant,35-44,Female,Teacher,Mandalay,Amarapura,AYAPay,Android,Merchant Payment,42500,0,42500,Completed
+TXN-RZZS-67276962,26-Jan-24,Friday,Ko Soe,18-24,Male,Farmer,Mandalay,Chanayethazan,AYAPay,Android,Cash In,1000000,0,1000000,Completed
+TXN-UNSM-28694642,4-Jun-24,Tuesday,Myat Mon,25-34,Female,Factory Worker,Mandalay,Patheingyi,AYAPay,Android,P2P Transfer,500000,0,500000,Completed
+TXN-UQZJ-68248644,31-May-24,Friday,Ko Htay,55+,Female,Student,Mandalay,Maha Aungmye,Wave Money,iOS,Merchant Payment,6500,0,6500,Completed
+TXN-HSGF-68633395,3-Dec-24,Tuesday,Pyae Zaw,35-44,Male,Government Employee,Mandalay,Aungmyaythazan,AYAPay,Android,P2P Transfer,392500,0,392500,Completed
+TXN-BFQO-01717255,26-May-24,Sunday,Thet Zaw,35-44,Male,Trader / Merchant,Mandalay,Amarapura,OK Dollar,Android,Merchant Payment,31000,0,31000,Completed
+TXN-BNBS-63914590,14-Dec-24,Saturday,Ko Khaing,18-24,Male,Freelancer,Mandalay,Patheingyi,KBZPay,Android,Bill Payment,25500,0,25500,Completed
+TXN-SSKT-84723047,6-Dec-24,Friday,Nyein Oo,35-44,Male,Trader / Merchant,Mandalay,Chanayethazan,Wave Money,iOS,Merchant Payment,95500,0,95500,Completed
+TXN-AXCH-06429934,16-Mar-24,Saturday,Nan Wai,35-44,Female,Factory Worker,Mandalay,Patheingyi,Wave Money,iOS,P2P Transfer,186500,0,186500,Completed
+TXN-SFDN-20148082,12-Aug-24,Monday,Khin Soe,45-54,Male,Private Sector Employee,Mandalay,Maha Aungmye,KBZPay,Feature Phone,Mobile Top-up,6000,0,6000,Completed
+TXN-RRZZ-93698027,16-Apr-24,Tuesday,Wai Kyaw,25-34,Male,Farmer,Mandalay,Maha Aungmye,KBZPay,Feature Phone,P2P Transfer,70500,0,70500,Completed
+TXN-ECJZ-35894420,18-Sep-24,Wednesday,Nge Moe,35-44,Male,Trader / Merchant,Mandalay,Aungmyaythazan,Wave Money,iOS,Mobile Top-up,3000,0,3000,Completed
+TXN-THHZ-37797499,1-Oct-24,Tuesday,Min Naing,45-54,Male,Trader / Merchant,Mandalay,Patheingyi,Wave Money,Feature Phone,P2P Transfer,228500,0,228500,Completed
+TXN-DQZT-52881820,27-Jan-24,Saturday,Myat Kyaw,25-34,Female,Freelancer,Mandalay,Patheingyi,Wave Money,Android,Mobile Top-up,13500,0,13500,Completed
+TXN-NMOT-42610386,11-Feb-24,Sunday,Thu Moe,18-24,Female,Factory Worker,Mandalay,Chanayethazan,KBZPay,Android,Merchant Payment,52500,0,52500,Completed
+TXN-FORT-67045610,26-Jul-24,Friday,Kyaw Naing,55+,Female,Government Employee,Mandalay,Maha Aungmye,KBZPay,Android,Merchant Payment,25000,0,25000,Completed
+TXN-XNTR-21694197,14-May-24,Tuesday,Daw Wai,25-34,Female,Government Employee,Mandalay,Patheingyi,Wave Money,Feature Phone,Bill Payment,116000,0,116000,Completed
+TXN-KCCA-48575848,3-Jan-24,Wednesday,Thu Shwe,25-34,Male,Private Sector Employee,Mandalay,Patheingyi,KBZPay,Android,Mobile Top-up,20000,0,20000,Completed
+TXN-EMTQ-83660182,27-Jun-24,Thursday,Nyein Moe,25-34,Male,Freelancer,Sittwe,Sittwe Township,CB Pay,Feature Phone,P2P Transfer,183000,0,183000,Completed
+TXN-BBRG-19771288,14-Nov-24,Thursday,Ko Moe,35-44,Male,Business Owner,Taunggyi,Taunggyi Township,OK Dollar,iOS,P2P Transfer,186000,0,186000,Completed
+TXN-KIRJ-72504355,25-Sep-24,Wednesday,Zaw Nyi,18-24,Male,Private Sector Employee,Sittwe,Myebon,KBZPay,iOS,Bill Payment,10500,0,10500,Completed
+TXN-FZHW-08691377,2-Jul-24,Tuesday,Nan Mon,25-34,Female,Trader / Merchant,Taunggyi,Taunggyi Township,Wave Money,Feature Phone,Merchant Payment,33000,0,33000,Completed
+TXN-KXWN-69116954,27-Aug-24,Tuesday,Shwe Min,18-24,Male,Freelancer,Myitkyina,Waingmaw,Wave Money,iOS,P2P Transfer,162000,0,162000,Completed
+TXN-GZXS-77080135,14-Jul-24,Sunday,Thu Wai,25-34,Female,Factory Worker,Naypyitaw,Ottarathiri,Wave Money,Feature Phone,P2P Transfer,314000,0,314000,Completed
+TXN-UZLY-91967722,22-Dec-24,Sunday,Phyo Myint,18-24,Female,Business Owner,Mawlamyine,Mudon,KBZPay,Feature Phone,Bill Payment,41500,0,41500,Completed
+TXN-BUUG-92583791,11-Feb-24,Sunday,Htet Hlaing,35-44,Male,Government Employee,Mawlamyine,Kyaikmaraw,AYAPay,iOS,P2P Transfer,186000,0,186000,Completed
+TXN-HJAG-23389922,20-May-24,Monday,Nan Myint,35-44,Female,Private Sector Employee,Myitkyina,Waingmaw,Wave Money,Feature Phone,P2P Transfer,177000,0,177000,Completed
+TXN-HXZM-80046564,2-Mar-24,Saturday,Wai Hlaing,25-34,Male,Private Sector Employee,Naypyitaw,Ottarathiri,OK Dollar,iOS,Merchant Payment,68500,0,68500,Completed
+TXN-EUED-18860156,2-Aug-24,Friday,Nge Naing,18-24,Male,Factory Worker,Mawlamyine,Mawlamyine Township,KBZPay,iOS,Mobile Top-up,5000,0,5000,Completed
+TXN-QTUT-55762673,7-Jul-24,Sunday,Ma Phyo,35-44,Female,Government Employee,Naypyitaw,Pobbathiri,AYAPay,Feature Phone,Mobile Top-up,12000,0,12000,Completed
+TXN-XDRZ-55944568,14-Sep-24,Saturday,Wai Tun,18-24,Male,Government Employee,Mawlamyine,Mudon,Wave Money,Feature Phone,P2P Transfer,257000,0,257000,Completed
+TXN-RBFG-61904172,20-Jul-24,Saturday,Zaw Shwe,25-34,Female,Government Employee,Naypyitaw,Ottarathiri,AYAPay,iOS,Salary Credit,517000,0,517000,Completed
+TXN-AQLQ-64583706,15-Nov-24,Friday,Ei Kyaw,25-34,Female,Government Employee,Bago,Waw,Wave Money,iOS,Merchant Payment,51000,0,51000,Completed
+TXN-UYNG-37186085,14-Dec-24,Saturday,Mg Moe,25-34,Female,Private Sector Employee,Bago,Tanatpin,Wave Money,iOS,Merchant Payment,108500,0,108500,Completed
+TXN-YIYZ-86792680,26-Jun-24,Wednesday,Aung Lwin,35-44,Male,Factory Worker,Pathein,Maubin,AYAPay,iOS,P2P Transfer,200000,0,200000,Completed
+TXN-CQOO-53505310,24-Sep-24,Tuesday,Nyein Nyi,18-24,Female,Trader / Merchant,Pathein,Pathein Township,Wave Money,Feature Phone,P2P Transfer,500000,0,500000,Completed
+TXN-OTAL-61439778,6-Oct-24,Sunday,Thu Lwin,18-24,Female,Factory Worker,Mawlamyine,Kyaikmaraw,OK Dollar,iOS,Bill Payment,140000,0,140000,Completed
+TXN-QJRW-43181758,2-Mar-24,Saturday,Phyo Maung,25-34,Female,Business Owner,Taunggyi,Lawksawk,AYAPay,iOS,Merchant Payment,21000,0,21000,Completed
+TXN-IQUT-78096499,11-Sep-24,Wednesday,Kyaw Aung,35-44,Female,Student,Bago,Bago Township,KBZPay,Feature Phone,P2P Transfer,177000,0,177000,Completed
+TXN-PRBG-18766599,6-Oct-24,Sunday,Daw Nge,25-34,Male,Trader / Merchant,Mawlamyine,Kyaikmaraw,CB Pay,Feature Phone,Bill Payment,176500,0,176500,Completed
+TXN-CBEW-12407965,3-Aug-24,Saturday,Phyu Zaw,18-24,Male,Private Sector Employee,Mawlamyine,Mudon,CB Pay,iOS,P2P Transfer,78500,0,78500,Completed
+TXN-HQMF-41923754,3-Feb-24,Saturday,Daw Khaing,25-34,Male,Private Sector Employee,Naypyitaw,Ottarathiri,Wave Money,Feature Phone,P2P Transfer,153000,0,153000,Completed
+TXN-UYVV-21165410,27-Mar-24,Wednesday,Ma Mon,35-44,Male,Government Employee,Taunggyi,Hopong,AYAPay,Feature Phone,Mobile Top-up,6500,0,6500,Completed
+TXN-LEJR-57797678,8-Mar-24,Friday,Su Moe,18-24,Female,Trader / Merchant,Pathein,Yegyi,KBZPay,iOS,Bill Payment,200000,0,200000,Completed
+TXN-XXLL-16248063,29-Oct-24,Tuesday,Wai Wai,35-44,Male,Private Sector Employee,Naypyitaw,Zabuthiri,KBZPay,Feature Phone,Cash In,505500,0,505500,Completed
+TXN-TLRO-48400580,27-Sep-24,Friday,Shwe Lin,35-44,Male,Private Sector Employee,Dawei,Dawei Township,KBZPay,Feature Phone,P2P Transfer,78500,0,78500,Completed
+TXN-YKSM-20687268,25-Sep-24,Wednesday,Ko Nyi,18-24,Female,Farmer,Mawlamyine,Mudon,KBZPay,Feature Phone,Cash In,183500,0,183500,Completed
+TXN-VWOD-15675621,6-Mar-24,Wednesday,Thet Moe,25-34,Male,Government Employee,Naypyitaw,Pobbathiri,AYAPay,iOS,Bill Payment,48500,0,48500,Completed
+TXN-TWVI-88284618,21-Sep-24,Saturday,Shwe Aung,18-24,Male,Business Owner,Bago,Tanatpin,CB Pay,iOS,Mobile Top-up,4500,0,4500,Completed
+TXN-IWJZ-50333608,31-Aug-24,Saturday,Thura Hlaing,35-44,Male,Government Employee,Taunggyi,Hopong,KBZPay,iOS,Bill Payment,68500,0,68500,Completed
+TXN-MRQY-14887665,14-May-24,Tuesday,Thura Tun,25-34,Male,Government Employee,Taunggyi,Hopong,Wave Money,iOS,Bill Payment,15000,0,15000,Completed
+TXN-PSTU-00888131,13-Jun-24,Thursday,Thida Maung,35-44,Female,Government Employee,Bago,Tanatpin,KBZPay,iOS,Cash In,293500,0,293500,Completed
+TXN-KTKA-98573829,8-Dec-24,Sunday,Khin Maung,18-24,Male,Private Sector Employee,Bago,Bago Township,KBZPay,iOS,P2P Transfer,130000,0,130000,Completed
+TXN-KYHA-61382269,14-Dec-24,Saturday,Myat Maung,55+,Male,Trader / Merchant,Mawlamyine,Mudon,AYAPay,iOS,Merchant Payment,35500,0,35500,Completed
+TXN-UWUA-27068228,20-Feb-24,Tuesday,Thida Kyaw,25-34,Male,Private Sector Employee,Dawei,Longlon,Wave Money,Feature Phone,Bill Payment,200000,0,200000,Completed
+TXN-LGWG-71165816,20-Jul-24,Saturday,Aye Naing,55+,Female,Private Sector Employee,Naypyitaw,Pobbathiri,OK Dollar,Feature Phone,P2P Transfer,357000,0,357000,Completed
+TXN-CPHH-89989903,25-Oct-24,Friday,Phyu Htay,55+,Male,Private Sector Employee,Pathein,Maubin,Wave Money,Feature Phone,P2P Transfer,131500,0,131500,Completed
+TXN-HLXX-56730980,23-Mar-24,Saturday,Aye Shwe,25-34,Male,Student,Bago,Tanatpin,OK Dollar,iOS,Merchant Payment,5000,0,5000,Completed
+TXN-HPRM-76482851,21-Feb-24,Wednesday,Su Zin,18-24,Male,Trader / Merchant,Taunggyi,Hopong,CB Pay,iOS,Merchant Payment,23500,0,23500,Completed
+TXN-CJGD-87539524,17-May-24,Friday,Thu Moe,55+,Female,Student,Naypyitaw,Pobbathiri,Wave Money,iOS,P2P Transfer,248500,0,248500,Completed
+TXN-BPMV-10747048,9-Jan-24,Tuesday,Nan Thu,35-44,Male,Government Employee,Naypyitaw,Ottarathiri,Wave Money,iOS,Cash In,260500,0,260500,Completed
+TXN-YEFP-35426899,21-Oct-24,Monday,Nge Shwe,45-54,Female,Farmer,Bago,Tanatpin,AYAPay,Feature Phone,Cash In,205500,0,205500,Completed
+TXN-NZBM-17641344,9-May-24,Thursday,Nyein San,18-24,Female,Government Employee,Pathein,Maubin,CB Pay,iOS,Bill Payment,76000,0,76000,Completed
+TXN-BSSG-81553192,1-Jul-24,Monday,Wai Thant,45-54,Female,Government Employee,Mawlamyine,Mudon,Wave Money,iOS,P2P Transfer,477000,0,477000,Completed
+TXN-ICHE-17033101,28-Apr-24,Sunday,Phyu Tun,25-34,Male,Private Sector Employee,Pathein,Yegyi,Wave Money,iOS,Merchant Payment,128000,0,128000,Completed
+TXN-ALSF-75367464,6-Jan-24,Saturday,Thet Lwin,18-24,Male,Factory Worker,Mawlamyine,Kyaikmaraw,KBZPay,iOS,Merchant Payment,18000,0,18000,Completed
+TXN-VGTM-06332346,4-Feb-24,Sunday,Aung Lwin,35-44,Male,Trader / Merchant,Dawei,Dawei Township,KBZPay,Feature Phone,Merchant Payment,25500,0,25500,Completed
+TXN-OSBQ-89693799,1-Apr-24,Monday,Phyu Thu,25-34,Male,Trader / Merchant,Dawei,Dawei Township,Wave Money,Feature Phone,Mobile Top-up,9500,0,9500,Completed
+TXN-ETLJ-29276040,27-Oct-24,Sunday,Thida Nge,18-24,Female,Private Sector Employee,Pathein,Pathein Township,CB Pay,iOS,Merchant Payment,87000,0,87000,Completed
+TXN-KQQC-10638804,27-Dec-24,Friday,Nyein Kyaw,55+,Female,Government Employee,Myitkyina,Waingmaw,AYAPay,iOS,P2P Transfer,235000,0,235000,Completed
+TXN-KCNJ-47507517,19-May-24,Sunday,Su Lay,25-34,Male,Healthcare Worker,Pathein,Pathein Township,Wave Money,iOS,P2P Transfer,500000,0,500000,Completed
+TXN-DWEE-60768060,14-Mar-24,Thursday,Pyae Htun,35-44,Male,Student,Naypyitaw,Pobbathiri,KBZPay,iOS,Bill Payment,51000,0,51000,Completed
+TXN-IGWZ-37936425,12-Jul-24,Friday,Ko Nyi,25-34,Male,Government Employee,Naypyitaw,Dekkhina,Wave Money,Feature Phone,P2P Transfer,111000,0,111000,Completed
+TXN-FGVP-35906026,8-Jun-24,Saturday,Phyo Myint,18-24,Male,Private Sector Employee,Naypyitaw,Ottarathiri,AYAPay,iOS,P2P Transfer,329000,0,329000,Completed
+TXN-TDER-83352385,27-Oct-24,Sunday,Mg Oo,55+,Male,Government Employee,Dawei,Longlon,KBZPay,iOS,Cash In,68500,0,68500,Completed
+TXN-OHTV-82887986,7-Jun-24,Friday,Phyo San,25-34,Male,Private Sector Employee,Mawlamyine,Mawlamyine Township,KBZPay,iOS,P2P Transfer,43500,0,43500,Completed
+TXN-FARP-06340069,28-Aug-24,Wednesday,Shwe Wai,18-24,Male,Government Employee,Myitkyina,Waingmaw,CB Pay,iOS,Bill Payment,93500,0,93500,Completed
+TXN-FUEW-29724119,24-Mar-24,Sunday,Su Nge,45-54,Female,Factory Worker,Myitkyina,Myitkyina Township,AYAPay,Feature Phone,P2P Transfer,112000,0,112000,Completed
+TXN-CSVJ-97551653,27-Apr-24,Saturday,Su Maung,35-44,Male,Private Sector Employee,Naypyitaw,Ottarathiri,KBZPay,iOS,Mobile Top-up,9000,0,9000,Completed
+TXN-NMVL-86845905,13-Mar-24,Wednesday,Shwe Nyi,45-54,Female,Factory Worker,Mawlamyine,Kyaikmaraw,KBZPay,Feature Phone,Bill Payment,19000,0,19000,Completed
+TXN-HMZF-00760033,14-Jul-24,Sunday,Ma Oo,18-24,Male,Private Sector Employee,Naypyitaw,Dekkhina,CB Pay,Feature Phone,Cash In,368000,0,368000,Completed
+TXN-JUNO-19778606,31-Jul-24,Wednesday,Thu Zin,25-34,Male,Freelancer,Mawlamyine,Mudon,Wave Money,Feature Phone,Mobile Top-up,5000,0,5000,Completed
+TXN-CPAR-89256672,15-Aug-24,Thursday,Min Kyaw,25-34,Male,Student,Myitkyina,Myitkyina Township,CB Pay,iOS,Merchant Payment,36500,0,36500,Completed
+TXN-GKCW-78789464,24-Jun-24,Monday,Min Aye,35-44,Female,Private Sector Employee,Myitkyina,Myitkyina Township,Wave Money,Feature Phone,Mobile Top-up,2500,0,2500,Completed
+TXN-KCXN-70206537,12-Nov-24,Tuesday,Ko Thant,18-24,Male,Government Employee,Bago,Tanatpin,OK Dollar,iOS,P2P Transfer,208000,0,208000,Completed
+TXN-VZTU-50986529,11-Oct-24,Friday,Htet Nyi,35-44,Male,Government Employee,Taunggyi,Lawksawk,OK Dollar,Feature Phone,Bill Payment,160000,0,160000,Completed
+TXN-NVCG-35744870,10-Jul-24,Wednesday,Mg Aye,45-54,Female,Government Employee,Myitkyina,Myitkyina Township,Wave Money,Feature Phone,P2P Transfer,34000,0,34000,Completed
+TXN-PTYQ-92894790,19-Apr-24,Friday,Zaw Oo,25-34,Female,Government Employee,Naypyitaw,Dekkhina,Wave Money,iOS,Bill Payment,179000,0,179000,Completed
+TXN-PXFO-96908660,26-Jun-24,Wednesday,Thet Oo,18-24,Female,Business Owner,Taunggyi,Hopong,KBZPay,Feature Phone,Bill Payment,57500,0,57500,Completed
+TXN-VHTD-01441453,2-Jul-24,Tuesday,Zaw San,45-54,Female,Farmer,Naypyitaw,Pobbathiri,AYAPay,Feature Phone,Cash In,190000,0,190000,Completed
+TXN-YNJP-80763200,23-Nov-24,Saturday,Shwe Hlaing,25-34,Female,Student,Pathein,Pathein Township,CB Pay,iOS,Mobile Top-up,6500,0,6500,Completed
+TXN-DUWQ-59808927,12-Oct-24,Saturday,Aye Phyo,45-54,Male,Business Owner,Mawlamyine,Mudon,CB Pay,iOS,Merchant Payment,44000,0,44000,Completed
+TXN-BSQO-96895435,26-Mar-24,Tuesday,Thu Min,25-34,Female,Government Employee,Sittwe,Myebon,KBZPay,Feature Phone,P2P Transfer,155500,0,155500,Completed
+TXN-QGTG-57908162,26-Jan-24,Friday,Myo Lwin,25-34,Female,Trader / Merchant,Naypyitaw,Zabuthiri,Wave Money,iOS,Merchant Payment,16000,0,16000,Completed
+TXN-EJZH-83695336,28-Jul-24,Sunday,Nan Oo,18-24,Male,Government Employee,Taunggyi,Lawksawk,Wave Money,Feature Phone,Merchant Payment,145000,0,145000,Completed
+TXN-HPWN-20463109,22-Sep-24,Sunday,Thu Maung,18-24,Male,Freelancer,Myitkyina,Myitkyina Township,KBZPay,Feature Phone,Mobile Top-up,7500,0,7500,Completed
+TXN-CBMZ-67013530,7-Jan-24,Sunday,Naing Aye,55+,Female,Trader / Merchant,Pathein,Maubin,KBZPay,Feature Phone,Bill Payment,55500,0,55500,Completed
+TXN-ZSBZ-85125931,25-Jan-24,Thursday,Thura Zin,18-24,Female,Trader / Merchant,Sittwe,Sittwe Township,Wave Money,iOS,Salary Credit,443500,0,443500,Completed
+TXN-MCWA-23587804,3-Apr-24,Wednesday,Soe Thant,45-54,Male,Trader / Merchant,Taunggyi,Taunggyi Township,KBZPay,iOS,Mobile Top-up,13500,0,13500,Completed
+TXN-MNUA-36535069,16-Apr-24,Tuesday,Wai Aung,25-34,Female,Government Employee,Bago,Bago Township,AYAPay,iOS,Merchant Payment,88500,0,88500,Completed
+TXN-ODOB-52259896,7-Oct-24,Monday,Min Min,25-34,Male,Business Owner,Myitkyina,Waingmaw,AYAPay,iOS,Bill Payment,72500,0,72500,Completed
+TXN-IZOB-65595593,27-Nov-24,Wednesday,Aye Htay,35-44,Male,Business Owner,Mawlamyine,Mudon,KBZPay,Feature Phone,Merchant Payment,60000,0,60000,Completed
+TXN-LPKT-65884037,14-Jul-24,Sunday,Pyae Htay,25-34,Male,Government Employee,Pathein,Pathein Township,Wave Money,Feature Phone,Mobile Top-up,19000,0,19000,Completed
+TXN-OZZV-99660573,9-Feb-24,Friday,Pyae Zaw,25-34,Female,Factory Worker,Naypyitaw,Dekkhina,Wave Money,Feature Phone,Bill Payment,180000,0,180000,Completed
+TXN-BHEG-76175841,29-May-24,Wednesday,Myo Phyo,25-34,Male,Business Owner,Pathein,Pathein Township,Wave Money,Feature Phone,P2P Transfer,35000,0,35000,Completed
+TXN-OFRS-79264551,18-Nov-24,Monday,Yee San,45-54,Male,Teacher,Dawei,Dawei Township,Wave Money,Feature Phone,P2P Transfer,336500,0,336500,Completed
+TXN-AMKN-24237911,6-May-24,Monday,Phyu Oo,35-44,Male,Business Owner,Taunggyi,Hopong,KBZPay,Feature Phone,Mobile Top-up,8000,0,8000,Completed
+TXN-OORN-14899422,29-Oct-24,Tuesday,Ma San,18-24,Female,Business Owner,Pathein,Maubin,AYAPay,iOS,P2P Transfer,87500,0,87500,Completed
+TXN-SOKH-06623144,1-Jan-24,Monday,Aung Naing,45-54,Male,Government Employee,Taunggyi,Lawksawk,AYAPay,iOS,Merchant Payment,44500,0,44500,Completed
+TXN-LOVE-43219359,12-Sep-24,Thursday,Thida Htun,25-34,Male,Private Sector Employee,Pathein,Maubin,AYAPay,iOS,Cash In,49000,0,49000,Completed
+TXN-IJWT-85106694,11-Jul-24,Thursday,Wai Thant,25-34,Male,Trader / Merchant,Taunggyi,Hopong,KBZPay,Feature Phone,P2P Transfer,118000,0,118000,Completed
+TXN-ZSGE-40566553,1-May-24,Wednesday,Min Maung,45-54,Female,Freelancer,Myitkyina,Waingmaw,KBZPay,Feature Phone,Bill Payment,41500,0,41500,Completed
+TXN-USBN-17105734,30-Dec-24,Monday,Su Thu,25-34,Male,Business Owner,Naypyitaw,Dekkhina,Wave Money,iOS,Bill Payment,21500,0,21500,Completed
+TXN-GFRO-64354249,25-Nov-24,Monday,Phyo Khaing,25-34,Male,Trader / Merchant,Taunggyi,Lawksawk,CB Pay,iOS,Merchant Payment,45500,0,45500,Completed
+TXN-MEZY-87341733,20-Dec-24,Friday,Min Lwin,18-24,Female,Student,Taunggyi,Taunggyi Township,Wave Money,Feature Phone,P2P Transfer,67500,0,67500,Completed
+TXN-WNBM-10962006,12-May-24,Sunday,Phyo Moe,55+,Male,Business Owner,Naypyitaw,Zabuthiri,Wave Money,iOS,Merchant Payment,28500,0,28500,Completed
+TXN-VNSU-63121670,16-Jul-24,Tuesday,Aye Nge,25-34,Female,Business Owner,Mawlamyine,Mudon,Wave Money,Feature Phone,Merchant Payment,20000,0,20000,Completed
+TXN-XAYJ-82922787,22-Oct-24,Tuesday,Myo Thant,35-44,Male,Business Owner,Myitkyina,Myitkyina Township,Wave Money,Feature Phone,Merchant Payment,51500,0,51500,Completed
+TXN-FMOY-97096297,21-Nov-24,Thursday,Aye Maung,35-44,Female,Factory Worker,Dawei,Longlon,KBZPay,iOS,Bill Payment,158000,0,158000,Completed
+TXN-WLBO-39882768,21-Aug-24,Wednesday,Thura Lay,35-44,Female,Private Sector Employee,Naypyitaw,Dekkhina,Wave Money,Feature Phone,Mobile Top-up,19000,0,19000,Completed
+TXN-IMXS-06707549,19-Sep-24,Thursday,Thet Wai,25-34,Female,Private Sector Employee,Naypyitaw,Dekkhina,KBZPay,iOS,P2P Transfer,172500,0,172500,Completed
+TXN-MLDI-37132872,6-Feb-24,Tuesday,Soe Nyi,25-34,Male,Government Employee,Taunggyi,Hopong,OK Dollar,iOS,Bill Payment,21500,0,21500,Completed
+TXN-POWN-51075152,24-Aug-24,Saturday,Phyu Htay,35-44,Male,Private Sector Employee,Taunggyi,Taunggyi Township,AYAPay,Feature Phone,Bill Payment,200000,0,200000,Completed
+TXN-NAVK-92949351,7-Apr-24,Sunday,Min Moe,18-24,Male,Government Employee,Mawlamyine,Mawlamyine Township,KBZPay,Feature Phone,Bill Payment,36000,0,36000,Completed
+TXN-PBZN-64185216,14-May-24,Tuesday,Myo Wai,18-24,Male,Private Sector Employee,Bago,Waw,CB Pay,Feature Phone,Salary Credit,200000,0,200000,Completed
+TXN-KBFL-52005679,25-Jan-24,Thursday,Thu Hlaing,35-44,Male,Student,Taunggyi,Lawksawk,KBZPay,Feature Phone,Merchant Payment,144500,0,144500,Completed
+TXN-FBQI-83617265,2-Jul-24,Tuesday,Soe Shwe,25-34,Female,Private Sector Employee,Taunggyi,Lawksawk,OK Dollar,Feature Phone,Mobile Top-up,3000,0,3000,Completed
+TXN-XZXJ-09109268,29-Aug-24,Thursday,Pyae Oo,18-24,Female,Government Employee,Naypyitaw,Pobbathiri,OK Dollar,Android,Bill Payment,91000,0,91000,Completed
+TXN-DZCF-15520183,27-May-24,Monday,Min Zin,25-34,Female,Business Owner,Naypyitaw,Dekkhina,KBZPay,Android,Cash In,167000,0,167000,Completed
+TXN-BCBW-39887996,25-Oct-24,Friday,Nan Lin,25-34,Female,Government Employee,Myitkyina,Myitkyina Township,Wave Money,Android,Bill Payment,41500,0,41500,Completed
+TXN-VLCB-99003108,22-Aug-24,Thursday,Wai Lay,35-44,Female,Factory Worker,Myitkyina,Waingmaw,AYAPay,Android,Mobile Top-up,7500,0,7500,Completed
+TXN-XNAJ-81291986,25-Apr-24,Thursday,Phyo Htun,18-24,Male,Trader / Merchant,Naypyitaw,Dekkhina,KBZPay,Android,Salary Credit,3000000,0,3000000,Completed
+TXN-IIKI-52916086,8-Jun-24,Saturday,Phyu Naing,25-34,Male,Healthcare Worker,Myitkyina,Myitkyina Township,AYAPay,Android,Bill Payment,119000,0,119000,Completed
+TXN-FJYQ-63121174,21-Mar-24,Thursday,Nan Naing,45-54,Male,Student,Bago,Waw,Wave Money,Android,Bill Payment,11000,0,11000,Completed
+TXN-MKPJ-68985894,3-Sep-24,Tuesday,Thura Moe,55+,Male,Private Sector Employee,Myitkyina,Waingmaw,Wave Money,Android,Mobile Top-up,20000,0,20000,Completed
+TXN-CYWA-33339897,20-Feb-24,Tuesday,Myo Shwe,18-24,Male,Business Owner,Pathein,Yegyi,KBZPay,Android,Bill Payment,200000,0,200000,Completed
+TXN-HXQJ-27015050,29-Mar-24,Friday,Myat Htun,35-44,Male,Private Sector Employee,Bago,Tanatpin,KBZPay,Android,Mobile Top-up,10000,0,10000,Completed
+TXN-RFMH-83734665,27-Feb-24,Tuesday,Kyaw Nge,45-54,Male,Farmer,Pathein,Maubin,KBZPay,Android,Cash In,321000,0,321000,Completed
+TXN-BYDH-90636717,13-Mar-24,Wednesday,Khin Win,25-34,Female,Private Sector Employee,Bago,Tanatpin,AYAPay,Android,Merchant Payment,24000,0,24000,Completed
+TXN-ZAVX-70520811,15-Dec-24,Sunday,Ei Shwe,35-44,Male,Freelancer,Naypyitaw,Dekkhina,OK Dollar,Android,Bill Payment,180500,0,180500,Completed
+TXN-VGHP-25325666,3-Dec-24,Tuesday,Thu Tun,35-44,Female,Business Owner,Myitkyina,Waingmaw,OK Dollar,Android,Bill Payment,105500,0,105500,Completed
+TXN-UGAV-86293469,25-Oct-24,Friday,Daw Wai,35-44,Female,Student,Dawei,Yebyu,KBZPay,Android,Mobile Top-up,3500,0,3500,Completed
+TXN-UIDP-43859469,17-Apr-24,Wednesday,Thu Kyaw,55+,Male,Government Employee,Naypyitaw,Dekkhina,KBZPay,Android,Bill Payment,104500,0,104500,Completed
+TXN-VUAO-95977744,23-Dec-24,Monday,Phyu Thu,25-34,Female,Business Owner,Taunggyi,Taunggyi Township,AYAPay,Android,Mobile Top-up,3000,0,3000,Completed
+TXN-DLUF-55176766,5-Apr-24,Friday,Aung Win,25-34,Female,Farmer,Mawlamyine,Kyaikmaraw,KBZPay,Android,Merchant Payment,87000,0,87000,Completed
+TXN-HRVU-43699912,20-Mar-24,Wednesday,Pyae Htay,25-34,Male,Student,Naypyitaw,Ottarathiri,OK Dollar,Android,Mobile Top-up,11000,0,11000,Completed
+TXN-UMEN-17305430,2-Jul-24,Tuesday,Pyae Myint,55+,Female,Business Owner,Naypyitaw,Ottarathiri,OK Dollar,Android,Merchant Payment,7500,0,7500,Completed
+TXN-EOSI-89470173,22-May-24,Wednesday,Wai Mon,25-34,Male,Business Owner,Bago,Tanatpin,KBZPay,Android,Merchant Payment,68000,0,68000,Completed
+TXN-XCQN-42849357,3-Mar-24,Sunday,Aung Kyaw,35-44,Male,Business Owner,Taunggyi,Hopong,KBZPay,Android,Merchant Payment,38000,0,38000,Completed
+TXN-YEGE-76454155,2-Aug-24,Friday,Thu Wai,18-24,Male,Student,Taunggyi,Taunggyi Township,Wave Money,Android,Merchant Payment,115500,0,115500,Completed
+TXN-EGJT-61959684,23-Dec-24,Monday,Daw Wai,35-44,Female,Student,Dawei,Yebyu,AYAPay,Android,Cash In,609000,0,609000,Completed
+TXN-WBDC-45104742,6-Aug-24,Tuesday,Myo Kyaw,18-24,Female,Business Owner,Dawei,Yebyu,Wave Money,Android,Merchant Payment,21000,0,21000,Completed
+TXN-EMJD-61822728,31-Jul-24,Wednesday,Su Htay,35-44,Male,Freelancer,Mawlamyine,Mudon,KBZPay,Android,Mobile Top-up,20000,0,20000,Completed
+TXN-EHBL-42591270,21-Jul-24,Sunday,Kyaw Aung,45-54,Female,Government Employee,Pathein,Yegyi,KBZPay,Android,Bill Payment,24500,0,24500,Completed
+TXN-YJRD-97394905,27-Jul-24,Saturday,Thet Thu,18-24,Male,Healthcare Worker,Dawei,Yebyu,Wave Money,Android,Merchant Payment,64500,0,64500,Completed
+TXN-PMRN-82962281,26-Jul-24,Friday,Mg Htay,18-24,Male,Private Sector Employee,Taunggyi,Taunggyi Township,CB Pay,Android,Bill Payment,173000,0,173000,Completed
+TXN-YQEQ-77517514,11-Sep-24,Wednesday,Khin Hlaing,45-54,Female,Trader / Merchant,Myitkyina,Waingmaw,OK Dollar,Android,Merchant Payment,30500,0,30500,Completed
+TXN-IZGV-73024794,19-Apr-24,Friday,Soe Min,35-44,Female,Trader / Merchant,Myitkyina,Waingmaw,AYAPay,Android,Merchant Payment,58500,0,58500,Completed
+TXN-CXPH-61204047,20-Jun-24,Thursday,Nyein Nge,45-54,Male,Government Employee,Bago,Waw,Wave Money,Android,Cash In,145000,0,145000,Completed
+TXN-PAHS-90573299,2-May-24,Thursday,Thet Shwe,18-24,Male,Trader / Merchant,Myitkyina,Waingmaw,Wave Money,Android,Cash In,403000,0,403000,Completed
+TXN-YPJP-63003671,3-Oct-24,Thursday,Thura Naing,25-34,Male,Private Sector Employee,Dawei,Yebyu,OK Dollar,Android,Merchant Payment,16500,0,16500,Completed
+TXN-DREY-69744172,21-Feb-24,Wednesday,Ma Zin,25-34,Male,Government Employee,Taunggyi,Taunggyi Township,Wave Money,Android,Mobile Top-up,5000,0,5000,Completed
+TXN-VZKC-96660261,9-Jun-24,Sunday,Su Moe,45-54,Female,Trader / Merchant,Taunggyi,Taunggyi Township,CB Pay,Android,Bill Payment,113000,0,113000,Completed
+TXN-OZFP-18085206,4-Nov-24,Monday,Daw Nyi,45-54,Male,Private Sector Employee,Dawei,Longlon,Wave Money,Android,Cash In,613000,0,613000,Completed
+TXN-FJEF-02436815,27-Mar-24,Wednesday,Htet Htay,35-44,Female,Healthcare Worker,Naypyitaw,Pobbathiri,AYAPay,Android,Bill Payment,170000,0,170000,Completed
+TXN-AECB-37407032,18-Aug-24,Sunday,Myat Aye,18-24,Female,Private Sector Employee,Dawei,Dawei Township,KBZPay,Android,Mobile Top-up,6500,0,6500,Completed
+TXN-ORNT-40453891,19-May-24,Sunday,Nan Nyi,25-34,Female,Trader / Merchant,Dawei,Yebyu,Wave Money,Android,Mobile Top-up,3500,0,3500,Completed
+TXN-MDKY-65105847,22-Feb-24,Thursday,Myo Oo,18-24,Male,Factory Worker,Naypyitaw,Ottarathiri,Wave Money,Android,Bill Payment,170000,0,170000,Completed
+TXN-CHZC-01896461,16-Apr-24,Tuesday,Aung Lin,35-44,Male,Freelancer,Mawlamyine,Mawlamyine Township,CB Pay,Android,Cash In,254500,0,254500,Completed
+TXN-DMFB-03672241,1-Feb-24,Thursday,Nan Htay,18-24,Female,Trader / Merchant,Dawei,Dawei Township,Wave Money,Android,Bill Payment,114000,0,114000,Completed
+TXN-TEBD-80897572,21-Oct-24,Monday,Myat Aung,25-34,Female,Business Owner,Dawei,Yebyu,KBZPay,Android,Mobile Top-up,2000,0,2000,Completed
+TXN-VWWH-86066749,22-Nov-24,Friday,Naing Htay,45-54,Male,Business Owner,Mawlamyine,Mawlamyine Township,KBZPay,Android,Mobile Top-up,2500,0,2500,Completed
+TXN-NTCK-42215484,4-Jan-24,Thursday,Htet Aye,18-24,Male,Trader / Merchant,Mawlamyine,Mudon,KBZPay,Android,Merchant Payment,37500,0,37500,Completed
+TXN-NBHU-76957943,1-Oct-24,Tuesday,Aung Maung,35-44,Male,Factory Worker,Mawlamyine,Kyaikmaraw,KBZPay,Android,Merchant Payment,34000,0,34000,Completed
+TXN-ONUR-55266567,18-Mar-24,Monday,Mg Soe,35-44,Female,Private Sector Employee,Myitkyina,Waingmaw,AYAPay,Android,Merchant Payment,48500,0,48500,Completed
+TXN-IBAP-35647096,17-Aug-24,Saturday,Kyaw Thu,45-54,Female,Private Sector Employee,Pathein,Pathein Township,AYAPay,Android,Mobile Top-up,3000,0,3000,Completed
+TXN-QLHL-91640281,23-Mar-24,Saturday,Wai Zaw,18-24,Female,Trader / Merchant,Naypyitaw,Zabuthiri,KBZPay,Android,Salary Credit,877000,0,877000,Completed
+TXN-GSTN-79601307,12-Dec-24,Thursday,Phyo Naing,35-44,Male,Government Employee,Naypyitaw,Pobbathiri,Wave Money,Android,Cash In,219000,0,219000,Completed
+TXN-WJOI-09198808,8-Jul-24,Monday,Mg Nge,18-24,Male,Private Sector Employee,Bago,Tanatpin,Wave Money,Android,Mobile Top-up,20000,0,20000,Completed
+TXN-NVDV-53260021,18-Aug-24,Sunday,Yee Wai,18-24,Female,Factory Worker,Pathein,Yegyi,KBZPay,Android,Merchant Payment,81000,0,81000,Completed
+TXN-IQPE-51937905,10-Apr-24,Wednesday,Mg Myint,18-24,Female,Private Sector Employee,Bago,Tanatpin,Wave Money,Android,Mobile Top-up,6500,0,6500,Completed
+TXN-AKUC-15826128,13-Mar-24,Wednesday,Ma Zin,35-44,Female,Business Owner,Taunggyi,Hopong,KBZPay,Android,Cash In,339000,0,339000,Completed
+TXN-SWBA-55968558,16-Jun-24,Sunday,Khin Myint,35-44,Male,Trader / Merchant,Bago,Bago Township,AYAPay,Android,Bill Payment,19000,0,19000,Completed
+TXN-OKQC-41731462,8-Sep-24,Sunday,Nyein Moe,35-44,Male,Government Employee,Mawlamyine,Kyaikmaraw,OK Dollar,Android,Cash In,433000,0,433000,Completed
+TXN-YVPK-28456861,22-Apr-24,Monday,Nge Tun,18-24,Female,Government Employee,Taunggyi,Hopong,AYAPay,Android,Bill Payment,76500,0,76500,Completed
+TXN-GLKO-84072393,21-Sep-24,Saturday,Thura Maung,35-44,Female,Government Employee,Naypyitaw,Pobbathiri,KBZPay,Android,Mobile Top-up,5500,0,5500,Completed
+TXN-VXJI-14626902,4-Nov-24,Monday,Phyu San,45-54,Male,Trader / Merchant,Mawlamyine,Kyaikmaraw,Wave Money,Android,Merchant Payment,17000,0,17000,Completed
+TXN-RPTU-57805103,28-Mar-24,Thursday,Zaw Aung,35-44,Female,Government Employee,Sittwe,Myebon,KBZPay,Android,Cash In,215000,0,215000,Completed
+TXN-TSFM-24844631,31-May-24,Friday,Yee Naing,25-34,Female,Private Sector Employee,Taunggyi,Hopong,KBZPay,Android,Cash In,243500,0,243500,Completed
+TXN-OBCH-54615176,13-Jun-24,Thursday,Phyo Htay,25-34,Female,Student,Taunggyi,Hopong,Wave Money,Android,Bill Payment,43500,0,43500,Completed
+TXN-RILX-34127732,8-Aug-24,Thursday,Thu Lwin,25-34,Female,Factory Worker,Mawlamyine,Kyaikmaraw,Wave Money,Android,Bill Payment,31000,0,31000,Completed
+TXN-CAQG-47133884,2-Jul-24,Tuesday,Htet Htay,35-44,Male,Healthcare Worker,Naypyitaw,Ottarathiri,KBZPay,Android,Bill Payment,133500,0,133500,Completed
+TXN-SLAK-49235958,24-Feb-24,Saturday,Soe Moe,25-34,Female,Factory Worker,Myitkyina,Myitkyina Township,Wave Money,Android,Mobile Top-up,9000,0,9000,Completed
+TXN-MBHN-65568391,29-Feb-24,Thursday,Htet Lwin,35-44,Male,Business Owner,Bago,Tanatpin,Wave Money,Android,Bill Payment,49000,0,49000,Completed
+TXN-HYCP-95654195,24-Aug-24,Saturday,Myo Khaing,25-34,Female,Government Employee,Sittwe,Myebon,Wave Money,Android,Bill Payment,54500,0,54500,Completed
+TXN-MZIR-09998517,24-May-24,Friday,Aye Lay,55+,Male,Freelancer,Pathein,Yegyi,Wave Money,Android,Cash In,228000,0,228000,Completed
+TXN-FRQM-93137267,3-Jan-24,Wednesday,Thu Zin,35-44,Male,Private Sector Employee,Naypyitaw,Ottarathiri,AYAPay,Android,Mobile Top-up,8000,0,8000,Completed
+TXN-VHCQ-43396816,7-Nov-24,Thursday,Aye Khaing,25-34,Male,Private Sector Employee,Mawlamyine,Kyaikmaraw,KBZPay,Android,Merchant Payment,62000,0,62000,Completed
+TXN-DGDH-21459134,15-Sep-24,Sunday,Min Zaw,55+,Female,Farmer,Dawei,Yebyu,KBZPay,Android,Bill Payment,26000,0,26000,Completed
+TXN-DGOA-67650709,27-Jun-24,Thursday,Phyo Shwe,25-34,Female,Government Employee,Taunggyi,Lawksawk,Wave Money,Android,Bill Payment,200000,0,200000,Completed
+TXN-OZJL-24264541,14-Nov-24,Thursday,Ko Thant,25-34,Male,Business Owner,Bago,Tanatpin,CB Pay,Android,Mobile Top-up,6000,0,6000,Completed
+TXN-BBUS-84468362,21-Feb-24,Wednesday,Su Nge,18-24,Male,Farmer,Mawlamyine,Kyaikmaraw,KBZPay,Android,Bill Payment,117500,0,117500,Completed
+TXN-GPUV-12815764,23-Oct-24,Wednesday,Thet Nge,45-54,Female,Factory Worker,Naypyitaw,Zabuthiri,AYAPay,Android,Bill Payment,200000,0,200000,Completed
+TXN-PWAX-46121956,25-Feb-24,Sunday,Ko Htay,25-34,Male,Government Employee,Mawlamyine,Kyaikmaraw,OK Dollar,Android,Merchant Payment,77000,0,77000,Completed
+TXN-CDUJ-26770226,14-Apr-24,Sunday,Phyu Nyi,25-34,Female,Government Employee,Bago,Bago Township,CB Pay,Android,Bill Payment,59500,0,59500,Completed
+TXN-HTNM-24813773,12-Nov-24,Tuesday,Zaw Oo,55+,Male,Student,Taunggyi,Taunggyi Township,AYAPay,Android,Bill Payment,47000,0,47000,Completed
+TXN-RCMR-53285628,24-Jan-24,Wednesday,Ko Nyi,25-34,Male,Freelancer,Dawei,Longlon,Wave Money,Android,Cash In,581500,0,581500,Completed
+TXN-LVLJ-16121889,6-Jun-24,Thursday,Zaw Zaw,25-34,Female,Trader / Merchant,Taunggyi,Lawksawk,CB Pay,Android,Bill Payment,20500,0,20500,Completed
+TXN-NUZI-36948717,27-Jun-24,Thursday,Ei Lin,25-34,Female,Private Sector Employee,Pathein,Maubin,KBZPay,Android,Merchant Payment,126000,0,126000,Completed
+TXN-WCWF-21832523,4-Jan-24,Thursday,Ko Khaing,25-34,Male,Factory Worker,Taunggyi,Lawksawk,CB Pay,Android,Merchant Payment,114500,0,114500,Completed
+TXN-DBWW-47422830,14-Jan-24,Sunday,Min Khaing,55+,Male,Government Employee,Sittwe,Sittwe Township,OK Dollar,Android,Bill Payment,62500,0,62500,Completed
+TXN-ETBX-93731984,21-Sep-24,Saturday,Soe Oo,25-34,Female,Trader / Merchant,Pathein,Pathein Township,OK Dollar,Android,Mobile Top-up,18000,0,18000,Completed
+TXN-FBRN-76120294,13-Feb-24,Tuesday,Ma Aung,35-44,Female,Farmer,Pathein,Maubin,KBZPay,Android,Cash In,1000000,0,1000000,Completed
+TXN-MQRV-83764762,17-Jun-24,Monday,Nyein Min,25-34,Female,Trader / Merchant,Bago,Tanatpin,CB Pay,Android,Bill Payment,96500,0,96500,Completed
+TXN-LTJA-35266775,16-Jan-24,Tuesday,Min Win,35-44,Male,Business Owner,Bago,Tanatpin,AYAPay,Android,Mobile Top-up,12500,0,12500,Completed
+TXN-RFSB-25661203,24-Dec-24,Tuesday,Thida Shwe,25-34,Female,Factory Worker,Naypyitaw,Dekkhina,Wave Money,Android,Merchant Payment,128000,0,128000,Completed
+TXN-DWLM-88570867,22-Dec-24,Sunday,Naing Nyi,25-34,Male,Private Sector Employee,Bago,Bago Township,Wave Money,Android,Mobile Top-up,5500,0,5500,Completed
+TXN-YWDT-75098163,27-Jul-24,Saturday,Ma Aung,25-34,Female,Business Owner,Naypyitaw,Zabuthiri,Wave Money,Android,Bill Payment,24500,0,24500,Completed
+TXN-UHNF-27028679,7-Mar-24,Thursday,Naing Nge,25-34,Male,Student,Naypyitaw,Dekkhina,Wave Money,Android,Merchant Payment,47000,0,47000,Completed
+TXN-HOSB-35790824,2-Sep-24,Monday,Nyein Lay,18-24,Male,Government Employee,Mawlamyine,Mudon,OK Dollar,Android,Mobile Top-up,3500,0,3500,Completed
+TXN-QXXD-80078800,31-Mar-24,Sunday,Khin Aye,18-24,Female,Student,Bago,Bago Township,AYAPay,Android,Bill Payment,35000,0,35000,Completed
+TXN-HIQA-77432667,11-Mar-24,Monday,Yee Maung,25-34,Male,Government Employee,Bago,Tanatpin,AYAPay,Android,Merchant Payment,31000,0,31000,Completed
+TXN-PQGE-37050873,3-May-24,Friday,Kyaw Zaw,18-24,Female,Business Owner,Naypyitaw,Ottarathiri,CB Pay,Android,Bill Payment,82500,0,82500,Completed
+TXN-VFAI-68376005,21-Sep-24,Saturday,Nge Htun,25-34,Female,Private Sector Employee,Dawei,Yebyu,Wave Money,Android,Bill Payment,33000,0,33000,Completed
+TXN-FXST-43184446,27-Aug-24,Tuesday,Nge Lay,55+,Female,Government Employee,Dawei,Dawei Township,KBZPay,Android,Merchant Payment,150000,0,150000,Completed
+TXN-OALE-95335471,30-Dec-24,Monday,Myo Mon,35-44,Male,Government Employee,Naypyitaw,Pobbathiri,Wave Money,Android,Bill Payment,200000,0,200000,Completed
+TXN-ZXFQ-82659296,22-May-24,Wednesday,Htet Mon,25-34,Male,Student,Taunggyi,Taunggyi Township,AYAPay,Android,Mobile Top-up,3500,0,3500,Completed
+TXN-KXBU-48578718,2-Jan-24,Tuesday,Aye San,18-24,Male,Private Sector Employee,Mawlamyine,Mawlamyine Township,Wave Money,Android,Merchant Payment,52500,0,52500,Completed
+TXN-FLVP-56538771,30-Oct-24,Wednesday,Aye Lwin,35-44,Male,Trader / Merchant,Bago,Waw,Wave Money,Android,Cash In,680500,0,680500,Completed
+TXN-CRHH-96228803,2-Oct-24,Wednesday,Phyu San,18-24,Female,Private Sector Employee,Naypyitaw,Ottarathiri,Wave Money,Android,Bill Payment,148500,0,148500,Completed
+TXN-OTBH-54344923,13-Sep-24,Friday,Thura Naing,25-34,Male,Private Sector Employee,Myitkyina,Waingmaw,CB Pay,Android,Mobile Top-up,5000,0,5000,Completed
+TXN-VNTI-62130486,8-Apr-24,Monday,Myat San,55+,Male,Government Employee,Bago,Bago Township,KBZPay,Android,Bill Payment,51500,0,51500,Completed
+TXN-QWKJ-88802782,1-Feb-24,Thursday,Nge Aung,25-34,Male,Business Owner,Taunggyi,Taunggyi Township,Wave Money,Android,Mobile Top-up,4000,0,4000,Completed
+TXN-YOQN-71142685,16-Nov-24,Saturday,Thu Moe,25-34,Male,Trader / Merchant,Mawlamyine,Kyaikmaraw,CB Pay,Android,Bill Payment,69000,0,69000,Completed
+TXN-BULG-14029308,27-Jan-24,Saturday,Yee San,18-24,Male,Farmer,Naypyitaw,Pobbathiri,AYAPay,Android,Bill Payment,46000,0,46000,Completed
+TXN-HQTP-43870608,11-Nov-24,Monday,Phyu Tun,25-34,Male,Factory Worker,Sittwe,Ponnagyun,Wave Money,Android,Salary Credit,1292500,0,1292500,Completed
+TXN-JHBS-92921307,9-Jan-24,Tuesday,Kyaw Oo,35-44,Female,Government Employee,Pathein,Yegyi,AYAPay,Android,Cash In,331500,0,331500,Completed
+TXN-TQRI-63828919,1-Oct-24,Tuesday,Thet Nyi,18-24,Female,Private Sector Employee,Mawlamyine,Mawlamyine Township,AYAPay,Android,Cash In,920000,0,920000,Completed
+TXN-SQVQ-55371160,1-Oct-24,Tuesday,Min Htay,18-24,Male,Trader / Merchant,Taunggyi,Hopong,KBZPay,Android,Salary Credit,458500,0,458500,Completed
+TXN-QGPC-84640774,10-May-24,Friday,Yee Win,18-24,Female,Business Owner,Dawei,Yebyu,KBZPay,Android,Cash In,817500,0,817500,Completed
+TXN-RRWM-26286805,14-Jun-24,Friday,Phyo Tun,18-24,Female,Private Sector Employee,Dawei,Longlon,KBZPay,Android,Mobile Top-up,1500,0,1500,Completed
+TXN-ZYOX-70188912,30-Sep-24,Monday,Nyein Wai,18-24,Female,Private Sector Employee,Mawlamyine,Kyaikmaraw,AYAPay,Android,Merchant Payment,30000,0,30000,Completed
+TXN-FSON-86624706,2-Jul-24,Tuesday,Kyaw Mon,35-44,Male,Freelancer,Pathein,Yegyi,CB Pay,Android,Salary Credit,1524500,0,1524500,Completed
+TXN-SLUN-94432272,21-May-24,Tuesday,Phyo Aung,25-34,Male,Student,Myitkyina,Waingmaw,Wave Money,Android,Mobile Top-up,6500,0,6500,Completed
+TXN-DSAS-29207509,19-Feb-24,Monday,Wai Win,25-34,Male,Student,Naypyitaw,Dekkhina,AYAPay,Android,Mobile Top-up,15500,0,15500,Completed
+TXN-DSVF-08234961,22-Nov-24,Friday,Ma Naing,18-24,Male,Private Sector Employee,Taunggyi,Lawksawk,Wave Money,Android,Merchant Payment,144500,0,144500,Completed
+TXN-QXYE-17105729,25-Aug-24,Sunday,Khin Aye,18-24,Male,Private Sector Employee,Taunggyi,Lawksawk,CB Pay,Android,Bill Payment,96500,0,96500,Completed
+TXN-EXBO-16326702,3-Apr-24,Wednesday,Khin Win,45-54,Female,Freelancer,Sittwe,Sittwe Township,KBZPay,Android,Merchant Payment,105000,0,105000,Completed
+TXN-XOPO-00494704,11-Oct-24,Friday,Thu Soe,25-34,Male,Trader / Merchant,Mawlamyine,Mudon,KBZPay,Android,Mobile Top-up,1500,0,1500,Completed
+TXN-APZW-41564921,12-Dec-24,Thursday,Aung Naing,35-44,Male,Student,Naypyitaw,Pobbathiri,KBZPay,Android,Bill Payment,130500,0,130500,Completed
+TXN-QCBF-01586647,22-Oct-24,Tuesday,Daw Thu,18-24,Male,Government Employee,Naypyitaw,Zabuthiri,AYAPay,Android,P2P Transfer,206000,0,206000,Completed
+TXN-DZPP-20426250,25-Jan-24,Thursday,Pyae Thant,45-54,Male,Private Sector Employee,Naypyitaw,Ottarathiri,Wave Money,Android,P2P Transfer,48500,0,48500,Completed
+TXN-YNKO-89939752,3-Sep-24,Tuesday,Phyo Tun,35-44,Male,Government Employee,Sittwe,Myebon,KBZPay,Android,P2P Transfer,93000,0,93000,Completed
+TXN-BVAT-36908174,11-Nov-24,Monday,Khin Lay,55+,Female,Government Employee,Sittwe,Myebon,AYAPay,Android,P2P Transfer,141000,0,141000,Completed
+TXN-FDJW-86126086,30-Jan-24,Tuesday,Aye Thu,18-24,Male,Factory Worker,Mawlamyine,Kyaikmaraw,Wave Money,Android,P2P Transfer,39500,0,39500,Completed
+TXN-VKPS-02888008,6-Jun-24,Thursday,Thu Hlaing,25-34,Male,Business Owner,Bago,Bago Township,KBZPay,Android,P2P Transfer,50500,0,50500,Completed
+TXN-NULV-66346787,16-Jul-24,Tuesday,Phyu Aung,18-24,Male,Freelancer,Pathein,Pathein Township,Wave Money,Android,P2P Transfer,288500,0,288500,Completed
+TXN-RFQH-21116980,14-Jun-24,Friday,Min Shwe,35-44,Female,Teacher,Myitkyina,Myitkyina Township,AYAPay,Android,P2P Transfer,88000,0,88000,Completed
+TXN-AXNW-11094688,6-Feb-24,Tuesday,Myo Lay,55+,Female,Trader / Merchant,Taunggyi,Lawksawk,Wave Money,Android,P2P Transfer,173000,0,173000,Completed
+TXN-WNAY-98600776,22-Mar-24,Friday,Kyaw San,45-54,Male,Business Owner,Bago,Bago Township,CB Pay,Android,P2P Transfer,258500,0,258500,Completed
+TXN-YOTE-49494431,17-Mar-24,Sunday,Nge Myint,45-54,Female,Business Owner,Bago,Waw,AYAPay,Android,P2P Transfer,500000,0,500000,Completed
+TXN-TNFQ-77123848,19-Jan-24,Friday,Daw Naing,25-34,Female,Government Employee,Taunggyi,Taunggyi Township,Wave Money,Android,P2P Transfer,382500,0,382500,Completed
+TXN-ZSXM-84649098,7-Nov-24,Thursday,Thida Htay,45-54,Female,Private Sector Employee,Pathein,Maubin,CB Pay,Android,P2P Transfer,440000,0,440000,Completed
+TXN-DEPN-44452767,15-Jan-24,Monday,Daw Min,18-24,Female,Private Sector Employee,Bago,Waw,Wave Money,Android,P2P Transfer,500000,0,500000,Completed
+TXN-RIPE-84435644,7-Jul-24,Sunday,Thida Zaw,45-54,Female,Government Employee,Sittwe,Myebon,AYAPay,Android,P2P Transfer,106000,0,106000,Completed
+TXN-IZJC-98009666,5-Jan-24,Friday,Su Hlaing,55+,Female,Private Sector Employee,Taunggyi,Hopong,KBZPay,Android,P2P Transfer,190500,0,190500,Completed
+TXN-MMDB-01818425,15-Dec-24,Sunday,Phyu Aye,18-24,Female,Trader / Merchant,Taunggyi,Hopong,KBZPay,Android,P2P Transfer,223500,0,223500,Completed
+TXN-NTIS-43451959,11-Apr-24,Thursday,Nan Htay,18-24,Female,Government Employee,Naypyitaw,Ottarathiri,AYAPay,Android,P2P Transfer,222500,0,222500,Completed
+TXN-INAQ-99952698,6-Mar-24,Wednesday,Htet Kyaw,18-24,Male,Student,Bago,Waw,AYAPay,Android,P2P Transfer,94000,0,94000,Completed
+TXN-GZEU-49722107,22-Dec-24,Sunday,Min Aung,25-34,Female,Trader / Merchant,Mawlamyine,Mawlamyine Township,OK Dollar,Android,P2P Transfer,182000,0,182000,Completed
+TXN-IUSH-56775570,11-Dec-24,Wednesday,Pyae Wai,45-54,Male,Trader / Merchant,Dawei,Dawei Township,KBZPay,Android,P2P Transfer,30500,0,30500,Completed
+TXN-NWDB-62183406,23-Jan-24,Tuesday,Nge Nge,18-24,Male,Student,Myitkyina,Waingmaw,KBZPay,Android,P2P Transfer,123500,0,123500,Completed
+TXN-UDNY-65516350,25-Dec-24,Wednesday,Soe Thant,55+,Male,Teacher,Naypyitaw,Pobbathiri,AYAPay,Android,P2P Transfer,299500,0,299500,Completed
+TXN-DPDC-22588889,20-Jul-24,Saturday,Shwe Kyaw,35-44,Male,Student,Naypyitaw,Pobbathiri,AYAPay,Android,P2P Transfer,277000,0,277000,Completed
+TXN-ENON-14552534,7-Feb-24,Wednesday,Wai Lay,35-44,Female,Government Employee,Myitkyina,Myitkyina Township,Wave Money,Android,P2P Transfer,444500,0,444500,Completed
+TXN-DHNX-75307697,5-Aug-24,Monday,Phyu Zaw,25-34,Female,Freelancer,Pathein,Maubin,AYAPay,Android,P2P Transfer,260000,0,260000,Completed
+TXN-WZTW-97981078,16-Jun-24,Sunday,Kyaw Maung,45-54,Female,Business Owner,Naypyitaw,Dekkhina,AYAPay,Android,P2P Transfer,500000,0,500000,Completed
+TXN-JYRT-09058827,24-Mar-24,Sunday,Phyu Soe,18-24,Male,Government Employee,Pathein,Pathein Township,AYAPay,Android,P2P Transfer,182000,0,182000,Completed
+TXN-GHJG-33346693,16-Jul-24,Tuesday,Soe Thu,18-24,Male,Student,Sittwe,Ponnagyun,AYAPay,Android,P2P Transfer,124000,0,124000,Completed
+TXN-NLLF-09507553,2-Nov-24,Saturday,Mg Hlaing,45-54,Male,Business Owner,Taunggyi,Hopong,AYAPay,Android,P2P Transfer,98000,0,98000,Completed
+TXN-RWNX-22903711,23-Jun-24,Sunday,Htet Win,55+,Male,Private Sector Employee,Naypyitaw,Dekkhina,AYAPay,Android,P2P Transfer,500000,0,500000,Completed
+TXN-DJDD-31484330,18-May-24,Saturday,Thu Oo,25-34,Female,Private Sector Employee,Myitkyina,Myitkyina Township,CB Pay,Android,P2P Transfer,87500,0,87500,Completed
+TXN-RGKF-79736125,11-Jan-24,Thursday,Nan Phyo,45-54,Male,Government Employee,Naypyitaw,Pobbathiri,KBZPay,Android,P2P Transfer,218500,0,218500,Completed
+TXN-MSML-40953463,2-Jun-24,Sunday,Yee Mon,25-34,Male,Business Owner,Taunggyi,Lawksawk,Wave Money,Android,P2P Transfer,167500,0,167500,Completed
+TXN-NXYJ-77812623,28-Apr-24,Sunday,Mg Nyi,25-34,Female,Government Employee,Sittwe,Ponnagyun,KBZPay,Android,P2P Transfer,204000,0,204000,Completed
+TXN-QZBO-70904231,2-Jan-24,Tuesday,Yee Phyo,35-44,Female,Government Employee,Pathein,Maubin,Wave Money,Android,P2P Transfer,388500,0,388500,Completed
+TXN-KHZN-48832778,3-Nov-24,Sunday,Daw Kyaw,18-24,Male,Government Employee,Dawei,Dawei Township,Wave Money,Android,P2P Transfer,114000,0,114000,Completed
+TXN-SSHI-47541091,8-Jan-24,Monday,Nge Khaing,18-24,Female,Trader / Merchant,Naypyitaw,Dekkhina,AYAPay,Android,P2P Transfer,158000,0,158000,Completed
+TXN-VZKH-69428242,9-Mar-24,Saturday,Aye Htay,25-34,Male,Private Sector Employee,Bago,Tanatpin,Wave Money,Android,P2P Transfer,68500,0,68500,Completed
+TXN-IOIR-14307860,25-Sep-24,Wednesday,Naing Wai,25-34,Male,Trader / Merchant,Myitkyina,Myitkyina Township,KBZPay,Android,P2P Transfer,281000,0,281000,Completed
+TXN-VNBX-19830568,21-Feb-24,Wednesday,Aung Naing,18-24,Female,Factory Worker,Mawlamyine,Mudon,OK Dollar,Android,P2P Transfer,50000,0,50000,Completed
+TXN-ARQC-92493136,19-Oct-24,Saturday,Nge Nyi,25-34,Female,Student,Pathein,Yegyi,Wave Money,Android,P2P Transfer,36500,0,36500,Completed
+TXN-IDEG-90306657,9-Mar-24,Saturday,Mg Zin,35-44,Female,Government Employee,Myitkyina,Myitkyina Township,KBZPay,Android,P2P Transfer,322000,0,322000,Completed
+TXN-QMNW-58472072,5-Jul-24,Friday,Thida Zaw,18-24,Male,Government Employee,Mawlamyine,Mudon,AYAPay,Android,P2P Transfer,148000,0,148000,Completed
+TXN-KHMN-81809261,9-May-24,Thursday,Nge Htay,35-44,Female,Private Sector Employee,Bago,Waw,KBZPay,Android,P2P Transfer,106000,0,106000,Completed
+TXN-CKRA-73161128,29-Mar-24,Friday,Htet Myint,35-44,Female,Private Sector Employee,Taunggyi,Taunggyi Township,AYAPay,Android,P2P Transfer,291500,0,291500,Completed
+TXN-HJBN-10494618,20-Dec-24,Friday,Phyo Lay,25-34,Male,Business Owner,Bago,Waw,KBZPay,Android,P2P Transfer,375000,0,375000,Completed
+TXN-IVTI-97227543,7-Dec-24,Saturday,Naing San,18-24,Female,Business Owner,Myitkyina,Myitkyina Township,KBZPay,Android,P2P Transfer,147500,0,147500,Completed
+TXN-FSLP-96963720,14-Jun-24,Friday,Naing Aung,35-44,Female,Government Employee,Dawei,Dawei Township,AYAPay,Android,P2P Transfer,158000,0,158000,Completed
+TXN-JSAT-53649856,17-Feb-24,Saturday,Min Lay,25-34,Female,Freelancer,Mawlamyine,Mudon,KBZPay,Android,P2P Transfer,155000,0,155000,Completed
+TXN-QOBK-35109765,19-Dec-24,Thursday,Aung Thant,35-44,Female,Trader / Merchant,Taunggyi,Hopong,AYAPay,Android,P2P Transfer,205500,0,205500,Completed
+TXN-KTRP-21594732,29-Nov-24,Friday,Nge Win,35-44,Male,Business Owner,Bago,Bago Township,AYAPay,Android,P2P Transfer,108000,0,108000,Completed
+TXN-JCNT-93511292,10-Oct-24,Thursday,Thu Thu,45-54,Female,Private Sector Employee,Myitkyina,Waingmaw,Wave Money,Android,P2P Transfer,102000,0,102000,Completed
+TXN-OOIZ-00631622,11-Aug-24,Sunday,Htet Naing,55+,Male,Student,Naypyitaw,Zabuthiri,Wave Money,Android,P2P Transfer,46000,0,46000,Completed
+TXN-ESTZ-87169981,16-Jul-24,Tuesday,Myo Lwin,25-34,Male,Government Employee,Bago,Waw,KBZPay,Android,P2P Transfer,67500,0,67500,Completed
+TXN-TKTT-02638798,18-Feb-24,Sunday,Myat Thu,35-44,Male,Business Owner,Bago,Tanatpin,AYAPay,Android,P2P Transfer,275000,0,275000,Completed
+TXN-GNJL-06199639,7-Jan-24,Sunday,Aye Soe,35-44,Female,Farmer,Myitkyina,Myitkyina Township,AYAPay,Android,P2P Transfer,241500,0,241500,Completed
+TXN-QASU-72430011,28-May-24,Tuesday,Thida Htun,35-44,Male,Teacher,Naypyitaw,Dekkhina,AYAPay,Android,P2P Transfer,112000,0,112000,Completed
+TXN-CTRU-04439747,18-Dec-24,Wednesday,Thu Hlaing,25-34,Female,Factory Worker,Bago,Tanatpin,OK Dollar,Android,P2P Transfer,234500,0,234500,Completed
+TXN-RLTD-91884020,23-Mar-24,Saturday,Phyo Myint,25-34,Male,Business Owner,Pathein,Pathein Township,Wave Money,Android,P2P Transfer,345000,0,345000,Completed
+TXN-ECOW-97859625,20-Jun-24,Thursday,Daw Nyi,25-34,Female,Private Sector Employee,Bago,Tanatpin,Wave Money,Android,P2P Transfer,83000,0,83000,Completed
+TXN-UVQT-65125784,10-Dec-24,Tuesday,Myo Phyo,18-24,Female,Trader / Merchant,Bago,Waw,Wave Money,Android,P2P Transfer,117000,0,117000,Completed
+TXN-SDHO-28356897,7-May-24,Tuesday,Yee Thant,25-34,Male,Freelancer,Dawei,Yebyu,OK Dollar,Android,P2P Transfer,225000,0,225000,Completed
+TXN-DRVB-70728876,4-Jan-24,Thursday,Mg Soe,35-44,Male,Freelancer,Taunggyi,Taunggyi Township,KBZPay,Android,P2P Transfer,369000,0,369000,Completed
+TXN-ZBPB-71271694,29-Mar-24,Friday,Shwe Aung,35-44,Female,Trader / Merchant,Pathein,Maubin,Wave Money,Android,P2P Transfer,185000,0,185000,Completed
+TXN-HRGE-53999924,26-Oct-24,Saturday,Thida Thu,25-34,Female,Government Employee,Yangon,Kamayut,KBZPay,Android,P2P Transfer,34500,0,34500,Pending
+TXN-EVOC-72649253,16-Feb-24,Friday,Thet Thu,18-24,Male,Government Employee,Yangon,Mayangon,CB Pay,iOS,P2P Transfer,216500,0,216500,Failed
+TXN-VEYR-93213481,2-Oct-24,Wednesday,Min Oo,18-24,Female,Student,Taunggyi,Taunggyi Township,KBZPay,Android,P2P Transfer,87000,0,87000,Failed
+TXN-NMSL-26689641,21-Jul-24,Sunday,Thu Soe,25-34,Female,Private Sector Employee,Taunggyi,Taunggyi Township,AYAPay,iOS,P2P Transfer,216000,0,216000,Failed
+TXN-IEJQ-44555987,30-Apr-24,Tuesday,Nge Htun,55+,Female,Private Sector Employee,Yangon,Dagon,CB Pay,Android,Bill Payment,41000,0,41000,Pending
+TXN-LKUM-10114829,28-Nov-24,Thursday,Ma Thu,25-34,Male,Teacher,Naypyitaw,Dekkhina,Wave Money,Android,Salary Credit,434500,0,434500,Pending
+TXN-SRBN-00689855,1-Oct-24,Tuesday,Min Win,25-34,Male,Trader / Merchant,Mandalay,Maha Aungmye,AYAPay,Android,P2P Transfer,500000,0,500000,Failed
+TXN-CPVQ-82105493,16-Oct-24,Wednesday,Yee Naing,25-34,Female,Business Owner,Yangon,Bahan,AYAPay,Android,Cash In,77000,0,77000,Failed
+TXN-TEEN-83746196,21-Aug-24,Wednesday,Khin Soe,35-44,Female,Trader / Merchant,Yangon,Dagon,Wave Money,Feature Phone,Merchant Payment,58500,0,58500,Pending
+TXN-UVHH-08479200,20-Feb-24,Tuesday,Pyae Shwe,45-54,Female,Trader / Merchant,Mandalay,Maha Aungmye,CB Pay,iOS,P2P Transfer,67500,0,67500,Pending
+TXN-HTXE-85984693,28-Mar-24,Thursday,Naing Zin,45-54,Female,Business Owner,Taunggyi,Taunggyi Township,KBZPay,Feature Phone,Cash In,143500,0,143500,Pending
+TXN-TYAS-10444518,24-Mar-24,Sunday,Aye Myint,35-44,Male,Healthcare Worker,Yangon,Mingaladon,AYAPay,iOS,P2P Transfer,78500,0,78500,Failed
+TXN-WSWC-04474752,6-Jun-24,Thursday,Ko Myint,18-24,Female,Student,Yangon,Dagon,Wave Money,Android,Bill Payment,16000,0,16000,Failed
+TXN-SVNX-49578061,26-Mar-24,Tuesday,Thu San,25-34,Male,Business Owner,Taunggyi,Hopong,OK Dollar,Android,Bill Payment,173500,0,173500,Pending
+TXN-JOXE-45615656,4-Feb-24,Sunday,Aung Shwe,35-44,Female,Student,Taunggyi,Hopong,Wave Money,Feature Phone,Merchant Payment,61500,0,61500,Failed
+TXN-PIUR-03993676,12-Dec-24,Thursday,Phyo Lwin,25-34,Female,Student,Yangon,Kamayut,Wave Money,Android,Bill Payment,72000,0,72000,Failed
+TXN-SWKF-80440495,19-May-24,Sunday,Myat Myint,25-34,Male,Private Sector Employee,Pathein,Yegyi,Wave Money,iOS,Merchant Payment,69000,0,69000,Failed
+TXN-ZZYZ-91288784,14-Apr-24,Sunday,Shwe Min,25-34,Male,Private Sector Employee,Pathein,Yegyi,AYAPay,Feature Phone,Merchant Payment,50500,0,50500,Failed
+TXN-QMHI-53232271,28-Jun-24,Friday,Su Lay,18-24,Female,Freelancer,Sittwe,Sittwe Township,Wave Money,Android,P2P Transfer,227000,0,227000,Failed
+TXN-FYHJ-71081525,24-Jun-24,Monday,Zaw Shwe,35-44,Male,Healthcare Worker,Mawlamyine,Mawlamyine Township,OK Dollar,Android,Bill Payment,25500,0,25500,Failed
+TXN-SBEO-07303456,5-Jul-24,Friday,Wai Zin,25-34,Female,Student,Mandalay,Patheingyi,Wave Money,Feature Phone,P2P Transfer,143500,0,143500,Failed
+TXN-MZWE-58189190,12-Dec-24,Thursday,Myat Tun,45-54,Male,Business Owner,Yangon,Bahan,KBZPay,Feature Phone,Cash In,353000,0,353000,Failed
+TXN-SFBF-40451746,25-Jul-24,Thursday,Myo Thu,25-34,Female,Student,Yangon,Insein,AYAPay,Android,Merchant Payment,44500,0,44500,Pending
+TXN-UHQA-35515750,14-Sep-24,Saturday,Aye Thu,18-24,Female,Private Sector Employee,Mandalay,Patheingyi,Wave Money,Android,P2P Transfer,33000,0,33000,Failed
+TXN-IWIS-90111446,5-Apr-24,Friday,Ko Htay,25-34,Female,Trader / Merchant,Mandalay,Aungmyaythazan,KBZPay,Feature Phone,Merchant Payment,62500,0,62500,Pending
+TXN-GRBH-87065862,18-Jun-24,Tuesday,Yee Htay,18-24,Female,Private Sector Employee,Mandalay,Aungmyaythazan,Wave Money,Android,Merchant Payment,78500,0,78500,Failed
+TXN-ZOBY-12837024,24-Nov-24,Sunday,Shwe Htun,25-34,Male,Government Employee,Mandalay,Aungmyaythazan,Wave Money,iOS,Bill Payment,31000,0,31000,Failed
+TXN-HTMT-06710474,16-Mar-24,Saturday,Khin Myint,25-34,Male,Private Sector Employee,Yangon,Mayangon,AYAPay,Android,P2P Transfer,188500,0,188500,Failed
+TXN-APRF-61776678,21-Aug-24,Wednesday,Su Khaing,18-24,Male,Student,Yangon,Mayangon,AYAPay,Android,Merchant Payment,16500,0,16500,Failed
+TXN-FFFJ-59181298,23-May-24,Thursday,Khin Naing,18-24,Male,Freelancer,Taunggyi,Taunggyi Township,Wave Money,Android,Merchant Payment,51500,0,51500,Failed
+TXN-PWEU-72818162,6-Jul-24,Saturday,Naing Shwe,45-54,Male,Freelancer,Yangon,Bahan,AYAPay,Android,Merchant Payment,22000,0,22000,Failed
+TXN-MPSX-97911380,27-Nov-24,Wednesday,Myat Naing,35-44,Female,Trader / Merchant,Yangon,Dagon,AYAPay,Android,Mobile Top-up,5500,0,5500,Failed
+TXN-PMMP-17160696,19-Nov-24,Tuesday,Aung Soe,18-24,Male,Freelancer,Myitkyina,Waingmaw,Wave Money,iOS,Bill Payment,200000,0,200000,Failed
+TXN-CJEU-22018291,16-Sep-24,Monday,Kyaw Phyo,45-54,Male,Business Owner,Yangon,Kamayut,AYAPay,iOS,Mobile Top-up,20000,0,20000,Pending
+TXN-QVBW-59018486,26-Jan-24,Friday,Myat Maung,25-34,Male,Freelancer,Mawlamyine,Kyaikmaraw,AYAPay,Feature Phone,P2P Transfer,92000,0,92000,Pending
+TXN-AVMB-71648553,3-Oct-24,Thursday,Myo Mon,45-54,Female,Business Owner,Bago,Waw,CB Pay,Android,Merchant Payment,80000,0,80000,Pending
+TXN-CVNR-41200916,9-Mar-24,Saturday,Shwe Min,25-34,Male,Private Sector Employee,Yangon,Dagon,KBZPay,Android,Mobile Top-up,5000,0,5000,Failed
+TXN-ILTD-51974410,26-Mar-24,Tuesday,Daw Nge,45-54,Male,Trader / Merchant,Yangon,Mayangon,Wave Money,iOS,Bill Payment,20500,0,20500,Pending
+TXN-UGZE-98619953,30-Mar-24,Saturday,Phyo Lay,18-24,Female,Private Sector Employee,Yangon,Thingangyun,KBZPay,iOS,Bill Payment,22500,0,22500,Failed
+TXN-CBJY-28100163,10-Feb-24,Saturday,Pyae Khaing,25-34,Female,Business Owner,Yangon,Kamayut,Wave Money,Feature Phone,Bill Payment,82000,0,82000,Pending
+TXN-YORE-09663670,25-Nov-24,Monday,Ei Khaing,55+,Female,Trader / Merchant,Yangon,Insein,AYAPay,Feature Phone,P2P Transfer,196000,0,196000,Failed
+TXN-ZCXJ-02060627,19-Jul-24,Friday,Ko Nge,25-34,Male,Student,Yangon,Insein,AYAPay,iOS,Bill Payment,52500,0,52500,Failed
+TXN-IMQV-94570529,20-Jan-24,Saturday,Myat Thant,25-34,Female,Private Sector Employee,Taunggyi,Hopong,KBZPay,Android,P2P Transfer,244500,0,244500,Failed
+TXN-XXST-74474265,9-Aug-24,Friday,Shwe Thant,35-44,Male,Private Sector Employee,Mandalay,Patheingyi,CB Pay,iOS,Mobile Top-up,5000,0,5000,Pending
+TXN-VJCE-74218188,12-Apr-24,Friday,Thida Moe,18-24,Female,Government Employee,Taunggyi,Lawksawk,AYAPay,Android,Cash In,276000,0,276000,Failed
+TXN-IGQV-98975820,22-Jun-24,Saturday,Pyae Htay,18-24,Male,Private Sector Employee,Naypyitaw,Pobbathiri,Wave Money,iOS,Merchant Payment,78000,0,78000,Failed
+TXN-UVWZ-02566247,19-Jun-24,Wednesday,Thura Min,18-24,Male,Business Owner,Bago,Bago Township,AYAPay,Android,P2P Transfer,139500,0,139500,Failed
+TXN-CLSK-87999866,1-Apr-24,Monday,Phyo Htun,45-54,Male,Government Employee,Mandalay,Aungmyaythazan,CB Pay,Android,Mobile Top-up,3500,0,3500,Pending
+TXN-LUKD-58684151,25-Mar-24,Monday,Nyein Maung,45-54,Male,Private Sector Employee,Bago,Tanatpin,Wave Money,Feature Phone,Bill Payment,101500,0,101500,Failed
+TXN-AQHK-77423155,9-Nov-24,Saturday,Kyaw Nyi,35-44,Female,Factory Worker,Mandalay,Maha Aungmye,AYAPay,Android,Cash In,214000,0,214000,Failed
+TXN-HOAF-51676216,27-Apr-24,Saturday,Shwe Nge,45-54,Male,Factory Worker,Yangon,Dagon,AYAPay,Android,Bill Payment,106500,0,106500,Failed
+TXN-TTGQ-48248261,5-Feb-24,Monday,Myat Thant,25-34,Female,Private Sector Employee,Yangon,Thingangyun,Wave Money,Android,P2P Transfer,500000,0,500000,Failed
+TXN-AMPF-81802984,4-Feb-24,Sunday,Shwe Kyaw,45-54,Female,Freelancer,Mandalay,Chanayethazan,Wave Money,Android,P2P Transfer,365500,0,365500,Pending
+TXN-BPIY-19645354,21-Jan-24,Sunday,Pyae Htay,18-24,Female,Government Employee,Yangon,Tamwe,Wave Money,Android,P2P Transfer,101000,0,101000,Failed
+TXN-ZYMR-25008990,30-Jan-24,Tuesday,Soe Thu,25-34,Male,Business Owner,Yangon,Hlaing,AYAPay,iOS,P2P Transfer,124500,0,124500,Pending
+TXN-ZOMO-31913726,1-Oct-24,Tuesday,Myat Shwe,18-24,Female,Business Owner,Yangon,Mayangon,Wave Money,Android,P2P Transfer,113000,0,113000,Pending
+TXN-MOHI-16904606,29-Oct-24,Tuesday,Mg Lwin,35-44,Female,Trader / Merchant,Yangon,Sanchaung,Wave Money,Feature Phone,Merchant Payment,102000,0,102000,Failed
+TXN-UYEQ-39059926,13-Dec-24,Friday,Thida Lin,35-44,Female,Private Sector Employee,Naypyitaw,Zabuthiri,AYAPay,Android,Mobile Top-up,6000,0,6000,Failed
+TXN-WQKK-95633574,7-Nov-24,Thursday,Soe San,25-34,Female,Government Employee,Yangon,Dagon,AYAPay,Feature Phone,Merchant Payment,146000,0,146000,Pending
+TXN-JTNK-48143617,1-May-24,Wednesday,Pyae Min,35-44,Male,Government Employee,Yangon,Tamwe,KBZPay,Feature Phone,Bill Payment,33000,0,33000,Pending
+TXN-MHXP-92459232,11-Jul-24,Thursday,Thu Lwin,25-34,Female,Freelancer,Yangon,Mingaladon,CB Pay,iOS,Bill Payment,62000,0,62000,Pending
+TXN-DAQC-11097706,22-Jun-24,Saturday,Kyaw Nyi,25-34,Female,Business Owner,Yangon,Mayangon,KBZPay,Android,P2P Transfer,166000,0,166000,Pending
+TXN-MZYW-16446208,5-Jan-24,Friday,Ko Lin,25-34,Female,Factory Worker,Yangon,Insein,AYAPay,Android,Mobile Top-up,7000,0,7000,Pending
+TXN-YSLR-43422812,7-Aug-24,Wednesday,Thet Lwin,18-24,Female,Government Employee,Yangon,Insein,OK Dollar,Feature Phone,Bill Payment,8000,0,8000,Pending
+TXN-CZGF-55344863,21-Oct-24,Monday,Ma Myint,25-34,Female,Freelancer,Yangon,Tamwe,Wave Money,Android,Bill Payment,65000,0,65000,Failed
+TXN-UXCA-04573629,24-Feb-24,Saturday,Phyu Oo,18-24,Female,Private Sector Employee,Mandalay,Amarapura,CB Pay,iOS,Bill Payment,43500,0,43500,Failed
+TXN-CPDH-15104813,4-May-24,Saturday,Myat Min,18-24,Male,Private Sector Employee,Yangon,Dagon,Wave Money,Feature Phone,Bill Payment,34500,0,34500,Failed
+TXN-VMVD-23892796,8-May-24,Wednesday,Myo Thu,25-34,Male,Farmer,Yangon,Kamayut,AYAPay,Android,P2P Transfer,383000,0,383000,Failed
+TXN-VEGX-40187794,25-Nov-24,Monday,Thura Min,25-34,Male,Government Employee,Mandalay,Amarapura,KBZPay,Android,Mobile Top-up,2000,0,2000,Failed
+TXN-UKHJ-74999829,9-Oct-24,Wednesday,Thet Thu,25-34,Female,Government Employee,Yangon,Thingangyun,Wave Money,iOS,Merchant Payment,72500,0,72500,Failed
+TXN-UKPA-58805789,21-Dec-24,Saturday,Ma Aye,35-44,Female,Government Employee,Yangon,Kamayut,KBZPay,iOS,P2P Transfer,44000,0,44000,Failed
+TXN-MLLE-91227970,30-Jul-24,Tuesday,Thura Nyi,35-44,Female,Government Employee,Myitkyina,Waingmaw,AYAPay,iOS,P2P Transfer,305500,0,305500,Failed
+TXN-ACEU-82009798,19-Oct-24,Saturday,Htet Htun,45-54,Male,Private Sector Employee,Bago,Waw,OK Dollar,Android,Mobile Top-up,7500,0,7500,Failed
+TXN-ZFVJ-35473562,17-Sep-24,Tuesday,Nan Zin,45-54,Female,Freelancer,Yangon,Tamwe,AYAPay,Feature Phone,P2P Transfer,313500,0,313500,Failed
+TXN-PWAX-03571148,29-Oct-24,Tuesday,Phyu Shwe,25-34,Female,Trader / Merchant,Yangon,Kamayut,AYAPay,Android,P2P Transfer,47000,0,47000,Failed
+TXN-VWKB-90192148,30-Jan-24,Tuesday,Nge Myint,18-24,Male,Freelancer,Mandalay,Amarapura,Wave Money,Android,Merchant Payment,64500,0,64500,Failed
+TXN-PQJN-99210739,27-Aug-24,Tuesday,Htet Naing,25-34,Male,Business Owner,Yangon,Insein,OK Dollar,Android,P2P Transfer,180500,0,180500,Failed
+TXN-TFDE-07753791,7-Dec-24,Saturday,Thida Maung,18-24,Male,Private Sector Employee,Yangon,Tamwe,Wave Money,Feature Phone,P2P Transfer,430000,0,430000,Pending
+TXN-QPAZ-74889095,5-Dec-24,Thursday,Myo Min,25-34,Male,Business Owner,Mandalay,Maha Aungmye,CB Pay,iOS,Bill Payment,47500,0,47500,Pending
+TXN-QSDC-87826474,1-Jul-24,Monday,Pyae Moe,18-24,Male,Private Sector Employee,Naypyitaw,Dekkhina,Wave Money,Feature Phone,P2P Transfer,183500,0,183500,Failed
+TXN-AGDL-70423107,17-Jan-24,Wednesday,Mg Nyi,25-34,Male,Trader / Merchant,Mandalay,Amarapura,Wave Money,Android,P2P Transfer,253000,0,253000,Failed
+TXN-PWBR-23837521,12-Jun-24,Wednesday,Phyu Aye,25-34,Male,Private Sector Employee,Yangon,Insein,CB Pay,Android,Merchant Payment,51000,0,51000,Failed
+TXN-HECV-70746876,4-Jan-24,Thursday,Myo San,35-44,Female,Private Sector Employee,Mandalay,Amarapura,Wave Money,Android,Bill Payment,127000,0,127000,Failed
+TXN-RASA-11169834,5-Aug-24,Monday,Phyo Myint,25-34,Male,Private Sector Employee,Sittwe,Ponnagyun,KBZPay,Feature Phone,Mobile Top-up,8000,0,8000,Pending
+TXN-YJVG-02477946,16-Dec-24,Monday,Naing San,35-44,Male,Farmer,Dawei,Yebyu,AYAPay,Feature Phone,Merchant Payment,66000,0,66000,Pending
+TXN-VLBX-30032852,1-Nov-24,Friday,Phyu Lwin,55+,Male,Government Employee,Yangon,Thingangyun,AYAPay,Android,Cash In,83500,0,83500,Pending
+TXN-IVNC-91430075,2-Nov-24,Saturday,Wai Aung,45-54,Male,Trader / Merchant,Naypyitaw,Dekkhina,CB Pay,Android,P2P Transfer,46000,0,46000,Failed
+TXN-ZINX-23229480,10-Oct-24,Thursday,Su Phyo,35-44,Male,Government Employee,Bago,Tanatpin,KBZPay,Android,Merchant Payment,63500,0,63500,Failed
+TXN-OWKJ-24539591,7-Sep-24,Saturday,Zaw Aye,25-34,Female,Private Sector Employee,Mawlamyine,Mawlamyine Township,AYAPay,Android,Cash In,46500,0,46500,Failed
+TXN-GJWM-91074576,4-Apr-24,Thursday,Thura Hlaing,25-34,Male,Private Sector Employee,Yangon,Thingangyun,KBZPay,Android,P2P Transfer,18000,0,18000,Pending
+TXN-OSCI-24857072,11-Mar-24,Monday,Naing Aung,18-24,Male,Private Sector Employee,Yangon,Bahan,AYAPay,Android,P2P Transfer,342500,0,342500,Failed
+TXN-YGXH-41787543,27-Apr-24,Saturday,Nge Win,25-34,Male,Private Sector Employee,Yangon,Mingaladon,KBZPay,Android,Bill Payment,33000,0,33000,Failed
+TXN-SCSO-82513319,23-Oct-24,Wednesday,Thu Aung,25-34,Female,Private Sector Employee,Yangon,Insein,Wave Money,Android,Bill Payment,41000,0,41000,Pending
+TXN-KYFN-38138546,8-Nov-24,Friday,Thura Aye,25-34,Female,Private Sector Employee,Yangon,Thingangyun,OK Dollar,Android,Merchant Payment,54000,0,54000,Pending
+TXN-RGRS-39418458,3-Dec-24,Tuesday,Phyo Tun,55+,Male,Government Employee,Bago,Tanatpin,Wave Money,Android,P2P Transfer,130500,0,130500,Failed
+TXN-WEBR-13496827,27-Sep-24,Friday,Daw Myint,45-54,Male,Freelancer,Yangon,Sanchaung,Wave Money,Feature Phone,Bill Payment,64500,0,64500,Pending
+TXN-LMHR-19289500,20-May-24,Monday,Min Htay,25-34,Female,Government Employee,Mandalay,Maha Aungmye,CB Pay,Feature Phone,Bill Payment,28000,0,28000,Failed
+TXN-AFHC-99721926,30-Jan-24,Tuesday,Thura Nyi,25-34,Female,Factory Worker,Naypyitaw,Pobbathiri,AYAPay,iOS,Cash In,78000,0,78000,Pending
+TXN-NTSM-57194401,14-Jul-24,Sunday,Htet Zaw,35-44,Male,Business Owner,Yangon,Insein,KBZPay,Android,P2P Transfer,97500,0,97500,Failed
+TXN-QSED-41398880,17-May-24,Friday,Thet Oo,35-44,Male,Private Sector Employee,Yangon,Hlaing,AYAPay,Android,P2P Transfer,57500,0,57500,Failed
+TXN-YAZK-32234978,13-Jul-24,Saturday,Khin Lay,25-34,Male,Factory Worker,Pathein,Maubin,KBZPay,Feature Phone,Mobile Top-up,6000,0,6000,Failed
+TXN-MAVQ-61619861,19-Jan-24,Friday,Wai Zin,35-44,Female,Private Sector Employee,Mawlamyine,Kyaikmaraw,Wave Money,Android,P2P Transfer,152500,0,152500,Pending
+TXN-FLBX-47760515,26-May-24,Sunday,Zaw Myint,45-54,Male,Government Employee,Mandalay,Patheingyi,OK Dollar,Android,Cash Out,76500,1000,75500,Completed
+TXN-YESM-84085318,18-Apr-24,Thursday,Kyaw Thu,55+,Male,Freelancer,Mandalay,Chanayethazan,Wave Money,iOS,Cash Out,101000,1500,99500,Completed
+TXN-DAVY-02981187,10-Mar-24,Sunday,Phyo Moe,35-44,Male,Government Employee,Dawei,Longlon,Wave Money,iOS,Cash Out,180000,1500,178500,Completed
+TXN-WQTG-21390346,4-Nov-24,Monday,Daw Lay,25-34,Male,Government Employee,Yangon,Kamayut,AYAPay,Android,Cash Out,262000,3500,258500,Completed
+TXN-MPNR-66984104,17-May-24,Friday,Thu Nge,35-44,Female,Business Owner,Mawlamyine,Kyaikmaraw,CB Pay,Android,P2P Transfer,36000,500,35500,Completed
+TXN-EJRT-57093013,13-Jun-24,Thursday,Mg Tun,35-44,Female,Private Sector Employee,Yangon,Insein,CB Pay,Android,P2P Transfer,500000,1000,499000,Completed
+TXN-MEFV-50425113,19-Mar-24,Tuesday,Ko Soe,55+,Male,Student,Yangon,Bahan,Wave Money,iOS,Cash Out,116500,2500,114000,Completed
+TXN-XBKA-25543934,13-Apr-24,Saturday,Shwe Shwe,18-24,Female,Business Owner,Yangon,Hlaing,OK Dollar,Android,Cash Out,75000,1000,74000,Failed
+TXN-SGOF-41610280,17-Jun-24,Monday,Kyaw Tun,25-34,Female,Student,Taunggyi,Hopong,CB Pay,Android,P2P Transfer,183500,500,183000,Completed
+TXN-KSDF-28326792,14-Jul-24,Sunday,Myat Oo,25-34,Male,Business Owner,Yangon,Mayangon,KBZPay,Android,Cash Out,258500,1500,257000,Completed
+TXN-LFMD-72220901,5-Nov-24,Tuesday,Daw Oo,45-54,Female,Business Owner,Bago,Waw,KBZPay,Android,Cash Out,66000,1000,65000,Completed
+TXN-PRJE-44956504,14-Feb-24,Wednesday,Kyaw Phyo,35-44,Male,Private Sector Employee,Yangon,Dagon,Wave Money,iOS,Cash Out,280500,3500,277000,Completed
+TXN-EILR-28865513,24-Nov-24,Sunday,Zaw Htun,25-34,Female,Freelancer,Mandalay,Patheingyi,OK Dollar,Android,P2P Transfer,123000,1000,122000,Completed
+TXN-XOSU-32532165,4-Dec-24,Wednesday,Wai Thant,25-34,Male,Factory Worker,Yangon,Tamwe,CB Pay,Android,P2P Transfer,131500,1000,130500,Completed
+TXN-HSVK-59177173,23-Jan-24,Tuesday,Khin Thant,18-24,Male,Farmer,Mandalay,Amarapura,AYAPay,Android,Cash Out,183000,1500,181500,Pending
+TXN-BODW-44149572,24-Jun-24,Monday,Thet Hlaing,18-24,Female,Freelancer,Yangon,Mingaladon,AYAPay,Android,Cash Out,275000,2500,272500,Completed
+TXN-RLAN-39385681,4-Dec-24,Wednesday,Phyu Htay,55+,Male,Trader / Merchant,Mandalay,Aungmyaythazan,Wave Money,Feature Phone,Cash Out,443500,5500,438000,Completed
+TXN-QPDT-02560685,16-Dec-24,Monday,Daw Hlaing,18-24,Female,Private Sector Employee,Yangon,Mayangon,OK Dollar,Feature Phone,Cash Out,241500,2000,239500,Completed
+TXN-PMLP-40291948,11-May-24,Saturday,Aung Shwe,25-34,Female,Farmer,Taunggyi,Lawksawk,OK Dollar,Android,P2P Transfer,180500,1000,179500,Completed
+TXN-UTAQ-17553640,12-Nov-24,Tuesday,Ma Htay,25-34,Female,Business Owner,Pathein,Yegyi,Wave Money,Android,Cash Out,80000,1000,79000,Completed
+TXN-XBAH-22881524,12-Feb-24,Monday,Shwe Naing,25-34,Male,Business Owner,Yangon,Thingangyun,CB Pay,Feature Phone,P2P Transfer,218500,1000,217500,Completed
+TXN-BSCJ-07745743,7-Jul-24,Sunday,Htet Phyo,35-44,Female,Freelancer,Yangon,Thingangyun,KBZPay,iOS,Cash Out,183000,1500,181500,Completed
+TXN-KXZY-72166807,25-Sep-24,Wednesday,Myo Mon,25-34,Male,Business Owner,Yangon,Mayangon,CB Pay,Android,P2P Transfer,88500,1000,87500,Completed
+TXN-LNCQ-03359615,13-Jan-24,Saturday,Su San,55+,Female,Freelancer,Yangon,Mingaladon,OK Dollar,Feature Phone,P2P Transfer,309500,1000,308500,Failed
+TXN-EZVG-00102736,1-Jun-24,Saturday,Phyu Min,25-34,Female,Trader / Merchant,Pathein,Yegyi,Wave Money,Android,Cash Out,500000,5000,495000,Completed
+TXN-TZZJ-05303798,5-Jul-24,Friday,Nan Nge,18-24,Male,Private Sector Employee,Yangon,Mayangon,CB Pay,Feature Phone,P2P Transfer,49000,500,48500,Completed
+TXN-IULF-77238117,17-Sep-24,Tuesday,Ko Wai,35-44,Male,Trader / Merchant,Mawlamyine,Mudon,CB Pay,Feature Phone,P2P Transfer,179500,500,179000,Completed
+TXN-ARSZ-90147044,23-Feb-24,Friday,Pyae Min,25-34,Female,Business Owner,Yangon,Mayangon,KBZPay,iOS,Cash Out,71500,500,71000,Completed
+TXN-TJUC-14225371,14-Nov-24,Thursday,Thida Oo,25-34,Male,Private Sector Employee,Yangon,Insein,Wave Money,Android,Cash Out,178500,2000,176500,Completed
+TXN-ZRWF-16096351,18-Oct-24,Friday,Myo Soe,45-54,Female,Business Owner,Yangon,Hlaing,OK Dollar,Android,Cash Out,288500,3000,285500,Failed
+TXN-IHBG-54982227,3-Feb-24,Saturday,Htet Htun,25-34,Male,Freelancer,Yangon,Mingaladon,CB Pay,Android,P2P Transfer,101500,1000,100500,Completed
+TXN-CSAK-70966627,2-Sep-24,Monday,Wai Thu,45-54,Male,Business Owner,Pathein,Maubin,OK Dollar,Android,P2P Transfer,153000,500,152500,Completed
+TXN-MWLP-33672902,24-Jun-24,Monday,Naing Win,25-34,Male,Business Owner,Bago,Waw,KBZPay,Android,Cash Out,126500,2000,124500,Completed
+TXN-TLMJ-69824725,17-Aug-24,Saturday,Nyein Wai,18-24,Male,Factory Worker,Naypyitaw,Dekkhina,Wave Money,Android,Cash Out,127000,1500,125500,Completed
+TXN-WBPL-35084141,21-Sep-24,Saturday,Daw Moe,35-44,Male,Private Sector Employee,Mawlamyine,Kyaikmaraw,Wave Money,iOS,Cash Out,219500,2000,217500,Completed
+TXN-PIYX-83615260,20-Dec-24,Friday,Daw Hlaing,25-34,Male,Business Owner,Mandalay,Patheingyi,CB Pay,iOS,P2P Transfer,500000,1000,499000,Completed
+TXN-ANFI-24528284,19-Dec-24,Thursday,Nan Soe,55+,Male,Private Sector Employee,Naypyitaw,Pobbathiri,Wave Money,Feature Phone,Cash Out,59000,500,58500,Failed
+TXN-BCPZ-99246670,6-Dec-24,Friday,Thu Khaing,35-44,Male,Teacher,Yangon,Bahan,AYAPay,Android,Cash Out,256500,4000,252500,Completed
+TXN-QBYM-49179282,11-Jun-24,Tuesday,Zaw Win,18-24,Male,Government Employee,Mandalay,Maha Aungmye,Wave Money,Feature Phone,Cash Out,152500,2000,150500,Pending
+TXN-HXWN-14966767,5-Mar-24,Tuesday,Shwe Moe,18-24,Male,Government Employee,Yangon,Hlaing,OK Dollar,Android,P2P Transfer,98500,1000,97500,Completed
+TXN-EIAC-52092940,19-May-24,Sunday,Thida Aye,25-34,Male,Private Sector Employee,Yangon,Bahan,Wave Money,Feature Phone,Cash Out,500000,7500,492500,Completed
+TXN-VDLS-32661116,29-Dec-24,Sunday,Thida Lwin,25-34,Male,Government Employee,Yangon,Thingangyun,CB Pay,iOS,P2P Transfer,37500,1000,36500,Completed
+TXN-RZLM-31544913,19-May-24,Sunday,Shwe Zin,25-34,Male,Freelancer,Mandalay,Amarapura,KBZPay,Feature Phone,Cash Out,136500,2500,134000,Failed
+TXN-CUIG-02783437,12-Mar-24,Tuesday,Phyo Kyaw,45-54,Female,Private Sector Employee,Yangon,Dagon,CB Pay,Android,Cash Out,412000,5000,407000,Completed
+TXN-MLEA-58620747,20-Jun-24,Thursday,Zaw Lwin,25-34,Female,Trader / Merchant,Dawei,Yebyu,CB Pay,Android,P2P Transfer,170500,500,170000,Completed
+TXN-VIPY-94971354,20-Jan-24,Saturday,Phyu Aye,18-24,Male,Government Employee,Naypyitaw,Ottarathiri,OK Dollar,Android,P2P Transfer,490000,1000,489000,Completed
+TXN-PHQU-55757243,21-Apr-24,Sunday,Pyae Aye,18-24,Female,Freelancer,Yangon,Bahan,CB Pay,Android,P2P Transfer,61000,1000,60000,Completed
+TXN-OZKS-38206108,10-Mar-24,Sunday,Thura Thu,25-34,Female,Private Sector Employee,Mandalay,Chanayethazan,CB Pay,iOS,P2P Transfer,88000,1000,87000,Failed
+TXN-OTIG-20206552,17-Jan-24,Wednesday,Kyaw Moe,35-44,Female,Business Owner,Yangon,Bahan,OK Dollar,iOS,P2P Transfer,378500,500,378000,Completed
+TXN-MNXV-94465247,10-Jun-24,Monday,Zaw Htay,18-24,Female,Freelancer,Naypyitaw,Ottarathiri,CB Pay,Feature Phone,P2P Transfer,47500,500,47000,Completed
+TXN-DFFH-86675983,5-Mar-24,Tuesday,Thet Moe,45-54,Female,Business Owner,Myitkyina,Waingmaw,CB Pay,Android,P2P Transfer,112500,1000,111500,Completed
+TXN-OWMP-31472514,4-Jun-24,Tuesday,Ma Oo,35-44,Male,Freelancer,Yangon,Mayangon,CB Pay,iOS,P2P Transfer,417500,500,417000,Completed
+TXN-CRYE-62733284,7-Sep-24,Saturday,Naing Nyi,25-34,Female,Student,Yangon,Kamayut,OK Dollar,Android,Cash Out,42500,500,42000,Completed
+TXN-DHDJ-32356118,15-Jan-24,Monday,Ma Kyaw,45-54,Female,Government Employee,Mandalay,Amarapura,AYAPay,Android,Cash Out,262000,3000,259000,Completed
+TXN-GRVN-84922219,3-Sep-24,Tuesday,Khin Nge,25-34,Male,Student,Yangon,Sanchaung,AYAPay,iOS,Cash Out,314000,2500,311500,Completed
+TXN-GKVP-63304624,17-Sep-24,Tuesday,Soe Wai,25-34,Female,Trader / Merchant,Bago,Tanatpin,CB Pay,iOS,P2P Transfer,202000,1000,201000,Completed
+TXN-BHTR-35236846,23-Jan-24,Tuesday,Khin Aung,55+,Female,Business Owner,Myitkyina,Myitkyina Township,CB Pay,Android,P2P Transfer,74000,1000,73000,Completed
+TXN-BSCR-79345298,19-Jun-24,Wednesday,Khin Nyi,18-24,Female,Business Owner,Mandalay,Patheingyi,AYAPay,iOS,Cash Out,237500,1500,236000,Completed
+TXN-QMOI-07192244,4-Feb-24,Sunday,Daw Hlaing,35-44,Male,Trader / Merchant,Yangon,Mayangon,KBZPay,Android,Cash Out,43500,1000,42500,Failed
+TXN-YXRQ-16782835,12-Mar-24,Tuesday,Ma Aye,25-34,Male,Private Sector Employee,Yangon,Mayangon,KBZPay,Feature Phone,Cash Out,500000,7500,492500,Completed
+TXN-BAHU-08853111,3-Dec-24,Tuesday,Ma Khaing,35-44,Female,Business Owner,Mawlamyine,Mudon,OK Dollar,Android,P2P Transfer,70000,500,69500,Completed
+TXN-KMSF-21396237,24-Sep-24,Tuesday,Khin San,35-44,Male,Private Sector Employee,Yangon,Bahan,KBZPay,Android,Cash Out,373500,6500,367000,Completed
+TXN-OAHH-74151097,11-Feb-24,Sunday,Mg Zin,55+,Female,Private Sector Employee,Yangon,Thingangyun,OK Dollar,Android,P2P Transfer,241000,1000,240000,Failed
+TXN-GHDJ-26479528,19-Jul-24,Friday,Min Nge,35-44,Female,Private Sector Employee,Yangon,Dagon,OK Dollar,Android,P2P Transfer,226500,500,226000,Completed
+TXN-OQYJ-41016216,9-Jan-24,Tuesday,Pyae Lwin,25-34,Male,Student,Yangon,Kamayut,AYAPay,Android,Cash Out,117000,1000,116000,Completed
+TXN-UBWP-72411728,29-Jan-24,Monday,Naing Thu,25-34,Female,Business Owner,Mandalay,Maha Aungmye,KBZPay,Android,Cash Out,500000,6000,494000,Completed
+TXN-KUXJ-61315641,26-Aug-24,Monday,Myo Nge,35-44,Male,Business Owner,Yangon,Mingaladon,CB Pay,Android,P2P Transfer,226000,500,225500,Completed
+TXN-IVQF-60114262,20-May-24,Monday,Naing Zaw,45-54,Male,Farmer,Yangon,Sanchaung,CB Pay,Android,Cash Out,188000,3500,184500,Completed
+TXN-BCZK-58974341,8-Dec-24,Sunday,Aung Nyi,35-44,Female,Business Owner,Mandalay,Maha Aungmye,OK Dollar,Android,P2P Transfer,92000,500,91500,Completed
+TXN-FZGA-62416833,25-May-24,Saturday,Nyein Khaing,25-34,Male,Trader / Merchant,Yangon,Kamayut,CB Pay,Android,P2P Transfer,500000,500,499500,Completed
+TXN-OTZP-48823627,15-May-24,Wednesday,Daw Lin,25-34,Male,Freelancer,Mandalay,Maha Aungmye,CB Pay,Android,Cash Out,217000,2000,215000,Completed
+TXN-BGCP-26931528,23-May-24,Thursday,Nyein Aung,25-34,Male,Student,Yangon,Bahan,KBZPay,Android,Cash Out,134000,1500,132500,Completed
+TXN-GCHF-92750609,9-Feb-24,Friday,Mg Win,25-34,Female,Private Sector Employee,Pathein,Maubin,CB Pay,Android,P2P Transfer,71000,1000,70000,Completed
+TXN-OCNA-93390740,30-Nov-24,Saturday,Ko Mon,45-54,Female,Private Sector Employee,Yangon,Mingaladon,OK Dollar,Android,P2P Transfer,275000,1000,274000,Completed
+TXN-BLDT-28100550,7-Sep-24,Saturday,Su Htay,35-44,Female,Trader / Merchant,Yangon,Hlaing,Wave Money,Android,Cash Out,147000,1500,145500,Pending
+TXN-WYXQ-01348927,5-Mar-24,Tuesday,Yee Zin,18-24,Female,Trader / Merchant,Mandalay,Patheingyi,KBZPay,Android,Cash Out,500000,3500,496500,Completed
+TXN-NDOI-09441337,26-Jul-24,Friday,Thida Naing,25-34,Male,Business Owner,Mandalay,Maha Aungmye,OK Dollar,Android,P2P Transfer,425000,500,424500,Completed
+TXN-TGEJ-66219408,22-Apr-24,Monday,Nge Kyaw,25-34,Male,Freelancer,Mandalay,Chanayethazan,AYAPay,Android,Cash Out,89000,1000,88000,Completed
+TXN-DOZL-15948358,12-Jun-24,Wednesday,Su Mon,25-34,Female,Business Owner,Pathein,Yegyi,KBZPay,Feature Phone,Cash Out,187000,3500,183500,Completed
+TXN-KPEQ-28181659,5-Mar-24,Tuesday,Ko Maung,45-54,Female,Business Owner,Bago,Bago Township,OK Dollar,Android,P2P Transfer,119000,500,118500,Completed
+TXN-IDOE-01407855,25-Mar-24,Monday,Wai Khaing,45-54,Female,Business Owner,Yangon,Insein,CB Pay,Android,P2P Transfer,81000,500,80500,Completed
+TXN-TJUM-16604707,8-Oct-24,Tuesday,Soe Kyaw,35-44,Male,Government Employee,Yangon,Bahan,Wave Money,iOS,Cash Out,77000,500,76500,Completed
+TXN-VZBH-42395136,22-Apr-24,Monday,Ma Khaing,25-34,Male,Private Sector Employee,Yangon,Sanchaung,KBZPay,Android,Cash Out,115000,1000,114000,Completed
+TXN-ZFTI-16619610,6-Apr-24,Saturday,Kyaw Aye,18-24,Female,Business Owner,Naypyitaw,Zabuthiri,OK Dollar,Android,Cash Out,188000,1500,186500,Completed
+TXN-SQJX-51041991,13-Jun-24,Thursday,Thura Thant,45-54,Female,Farmer,Myitkyina,Waingmaw,OK Dollar,Android,Cash Out,87500,1000,86500,Completed
+TXN-MMIB-99008426,7-Nov-24,Thursday,Thu Lwin,35-44,Male,Business Owner,Yangon,Sanchaung,OK Dollar,iOS,Cash Out,70500,500,70000,Completed
+TXN-IMIO-91550412,28-Sep-24,Saturday,Daw Thant,25-34,Female,Private Sector Employee,Naypyitaw,Zabuthiri,KBZPay,Feature Phone,Cash Out,184500,2500,182000,Completed
+TXN-GPAO-51442511,3-Mar-24,Sunday,Thu Hlaing,25-34,Female,Freelancer,Yangon,Dagon,CB Pay,iOS,P2P Transfer,469500,500,469000,Completed
+TXN-AQCT-45119089,16-Jun-24,Sunday,Ko Oo,45-54,Female,Private Sector Employee,Mandalay,Amarapura,Wave Money,Android,Cash Out,195500,2000,193500,Failed
+TXN-SYNN-61208434,1-Jan-24,Monday,Htet Khaing,45-54,Male,Trader / Merchant,Naypyitaw,Pobbathiri,CB Pay,iOS,P2P Transfer,205500,500,205000,Completed
+TXN-CEWM-42999048,31-Mar-24,Sunday,Htet Hlaing,55+,Female,Government Employee,Mandalay,Amarapura,CB Pay,Feature Phone,P2P Transfer,48000,500,47500,Completed
+TXN-IKKK-64230645,5-Jun-24,Wednesday,Min Win,25-34,Female,Trader / Merchant,Naypyitaw,Dekkhina,AYAPay,iOS,Cash Out,202000,1500,200500,Completed
+TXN-XUQN-60202409,10-Nov-24,Sunday,Ei Naing,25-34,Male,Business Owner,Bago,Tanatpin,CB Pay,Android,P2P Transfer,250000,1000,249000,Completed
+TXN-DRIX-49898679,17-Sep-24,Tuesday,Yee Lwin,18-24,Female,Private Sector Employee,Naypyitaw,Zabuthiri,CB Pay,Android,P2P Transfer,48500,500,48000,Completed
+TXN-WMQT-06595346,13-Apr-24,Saturday,Shwe Kyaw,18-24,Male,Trader / Merchant,Naypyitaw,Zabuthiri,OK Dollar,Android,P2P Transfer,217000,1000,216000,Completed
+TXN-VSQV-40486531,4-Oct-24,Friday,Ma Lwin,45-54,Male,Government Employee,Yangon,Kamayut,CB Pay,Feature Phone,P2P Transfer,133000,1000,132000,Completed
+TXN-YMYK-15526993,29-Jul-24,Monday,Naing Htun,25-34,Female,Business Owner,Mandalay,Patheingyi,CB Pay,Feature Phone,P2P Transfer,193000,500,192500,Completed
+TXN-IWOW-87476191,8-Dec-24,Sunday,Aung Nge,55+,Male,Factory Worker,Taunggyi,Taunggyi Township,OK Dollar,Android,P2P Transfer,100000,500,99500,Completed
+TXN-WJZB-84246896,3-Aug-24,Saturday,Myat Win,18-24,Female,Student,Dawei,Longlon,KBZPay,Android,Cash Out,177500,3000,174500,Failed
+TXN-CZPF-16249543,21-Apr-24,Sunday,Phyo Thu,35-44,Female,Trader / Merchant,Yangon,Bahan,AYAPay,Android,Cash Out,89500,1500,88000,Completed
