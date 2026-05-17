@@ -208,15 +208,16 @@ python scripts/generate_myanmar_transactions.py --rows 1000 --dirty
 
 ---
 
-## Author
+## 👤 Author
 
-**[Your Name]** · Junior Data Analyst · Myanmar
+**Kaung Khant Lin**
+Junior Data Analyst | Myanmar
 
-- Email: your.email@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 📧 kaungkhantlin2332003@gmail.com
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/kaung-khant-lin-792b13390/)
+- 🐙 [GitHub](https://github.com/ARIESTANK)
 
 ---
 
 *Built with Python · Power BI · ReportLab · from Myanmar*
-"# Mobile_Sale_Analysis_Dashboard" 
+"# Mobile_Sale_Analysis_Dashboard"
