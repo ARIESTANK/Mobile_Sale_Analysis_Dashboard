@@ -7,16 +7,10 @@
 
 > Open `finalReport_mobile_transactions.pbix` in Power BI Desktop to explore the full interactive dashboard with slicers.
 
-**How to add your screenshots:**
-1. Open the `.pbix` → press `Windows + Shift + S` → snip each page
-2. Save to `assets/page1.png`, `assets/page2.png`, `assets/page3.png`
-3. Then add below:
 
-```markdown
 ![Page 1 — Demographics](assets/Capture.PNG)
 ![Page 2 — Transactions](assets/Capture2.PNG)
 ![Page 3 — Geography](assets/Capture3.PNG)
-```
 
 ---
 
